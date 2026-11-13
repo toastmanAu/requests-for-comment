@@ -1,0 +1,51 @@
+[Intro]
+Everything halts
+Everything halts, or it errors
+
+[Verse]
+The V M's flexible, free to run
+Loops and branches, any control flow, done
+So we need some rules to keep it clean
+Malicious script with an infinite loop, that's mean
+Introduce cycles, here's the cost
+Every instruction, every syscall, tossed
+Onto the meter, each one consumes
+Add it all up for the block, no room
+Past the limit and the block's rejected
+That's how the network stays protected
+
+[Chorus]
+Max block cycles, that's the ceiling
+Sum of the scripts, no more dealing
+Go over and the block gets dropped
+Max block cycles, that's where it stops
+
+[Verse]
+It's a scalar field in the chain spec now
+Consensus rule, hard limit, here's how
+Sum of the cycles of all scripts in the block
+Can't exceed it, that's the lock
+But there's no limit on a single transaction
+No cap on one script, free in its action
+Long as the whole block stays below
+Use what you want, go fast, go slow
+Guaranteed that every script will halt
+Or end in an error state, by default
+Risk five costs come from real hardware
+Syscalls from benchmarks, measured with care
+Loading the binary, there's a charge on that too
+Quarter of a cycle per byte, coming through
+Fractions round up, so here's the sum
+Thirty and a quarter becomes thirty-one
+Ship it small, that's what it's for
+Big binary attacks get shown the door
+
+[Chorus]
+Max block cycles, that's the ceiling
+Sum of the scripts, no more dealing
+Go over and the block gets dropped
+Max block cycles, that's where it stops
+
+[Outro]
+Everything halts
+Everything halts, or it errors

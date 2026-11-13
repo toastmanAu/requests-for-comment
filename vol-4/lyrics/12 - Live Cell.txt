@@ -1,0 +1,48 @@
+[Intro]
+Is it live or is it dead?
+Check the out point
+
+[Verse]
+C K B runs on the U T X O
+Destroy some outputs, make some new, you know
+Transaction output, we call it a cell
+Same thing, either name will do as well
+Inputs get destroyed, the outputs made
+Blocks got numbers, and the order's laid
+Live cell's an output nobody's spent
+Dead cell's been an input, came and went
+Only live cells can be inputs, see
+That's the rule, as simple as can be
+
+[Chorus]
+Live cell, live cell
+Transaction hash and index tell
+Can't mint capacity out of the air
+Live cell, spend it with care
+
+[Verse]
+Hash the transaction, every field but one
+Leave the witnesses out and it's done
+Hash is unique, and the cell's got a place
+In the outputs array, so here's the trace
+Transaction hash and index, that's the out point
+Reference, not a copy, that's the joint
+Sum of inputs' capacity, got to be
+At least the sum of the outputs, see
+Miners take the difference as the fee
+Capacity's the token and the limit, both
+On the data stored, that's the oath
+Covers data, lock, type, and itself
+Outputs data sits on a parallel shelf
+Every cell's got a lock, and it runs
+When the cell's an input, that's the one
+Group the inputs by the lock, run it once
+Group it, locate it, execute, no stunts
+Public key info in the args, by convention
+Signature in the witnesses, worth a mention
+
+[Chorus]
+Live cell, live cell
+Transaction hash and index tell
+Can't mint capacity out of the air
+Live cell, spend it with care

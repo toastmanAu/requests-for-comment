@@ -1,0 +1,49 @@
+[Intro]
+R F C three, the virtual machine
+Risk five underneath, keep it clean
+
+[Verse]
+The V M's job is to validate
+Inputs and outputs, is the transaction straight
+Built on risk five, sixty-four bit core
+Multiply and divide, then a little bit more
+Compressed instructions keep the contract small
+No floating point in the set at all
+Need a float, pack a soft float in
+Deterministic is the way we win
+The contract format is a Linux elf
+Every tool you know, right there on the shelf
+
+[Chorus]
+Main returns zero, that's a pass
+Sixty-four bit risk five, built to last
+Four megs of memory, single thread
+Count every cycle, like the paper said
+
+[Verse]
+Four megabytes is the runtime space
+Code pages, stack, and the heap in place
+Plus the mapped pages from another cell
+Runs like a program on a single core shell
+Starts at main with arg c and arg v
+Return a zero and success is the decree
+Might just hand you metadata there
+Then syscalls load the rest with care
+Single threaded, strict, no atomics required
+Bring your own coroutines if that's desired
+Any language with a risk five back end
+C or Rust, compile it and send
+Compile a whole V M, load it as a cell
+Run JavaScript or Ruby as well
+Cost is the cycles, instruction by instruction
+Plus the cells that you read in the function
+
+[Chorus]
+Main returns zero, that's a pass
+Sixty-four bit risk five, built to last
+Four megs of memory, single thread
+Count every cycle, like the paper said
+
+[Outro]
+Low level machine and it don't pretend
+Real hardware rules from beginning to end

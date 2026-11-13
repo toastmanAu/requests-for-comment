@@ -1,0 +1,45 @@
+[Intro]
+First time up, nobody knows me
+Who do I call?
+
+[Verse]
+Client starts and the address list is bare
+Peer store empty, nobody there
+First move, send the D N S requests
+Seed hostnames in the client, that's the nest
+Learn the addresses of the other peers
+That's the bootstrap stage, switch the gears
+If the D N S fails, every single try
+Fall back on the list that's hard-coded inside
+Seed addresses, built right in
+Only used when the D N S can't win
+
+[Chorus]
+Seed nodes, seed nodes
+High uptime, many roads
+Get what I need and I let them go
+Don't overload the seed nodes
+
+[Verse]
+Seed nodes been up for a long, long time
+Many connections down many a line
+Once I got enough addresses stored
+Close those connections, don't hog the board
+Modelled on the Satoshi client way
+With a few differences, here's what they say
+Version number rides in the get nodes call
+Nodes message broadcasts the connected, all
+Periodically, to everyone you know
+Multi-address is the format, though
+And it must not have the P two P segment in
+That's misbehaviour, low score for the sin
+
+[Chorus]
+Seed nodes, seed nodes
+High uptime, many roads
+Get what I need and I let them go
+Don't overload the seed nodes
+
+[Outro]
+Empty list to a full address book
+D N S first, then the seeds, that's the hook

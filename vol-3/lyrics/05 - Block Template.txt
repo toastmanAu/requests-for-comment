@@ -1,0 +1,49 @@
+[Intro]
+Don't keep me in the dark
+Show me the whole block
+
+[Verse]
+Old get work just handed out a header
+Miner solving blind, nothing better
+Kept in the dark, no say in the block
+No influence on what's in stock
+Get block template flips the script
+Whole block structure, fully equipped
+Sent to the miner to customise
+Assemble it, audit it with your own eyes
+Modify it, maybe, before you hash
+Decentralised blocks, security that lasts
+
+[Chorus]
+Give me the template, I'll build the block
+Give me the template, I run the clock
+Version, difficulty, number, parent hash
+Give me the template, then I send it back
+
+[Verse]
+J S O N R P C, three arguments in
+Cycles limit, bytes limit, max version
+Leave them out, consensus default's the call
+Server should respect them, not required at all
+So the client checks what the template brings
+Back comes an object with a list of things
+Version, difficulty in hex, current time
+Number of the block and the parent hash line
+Cellbase, required, it's always there
+Commit transactions with their data laid bare
+Hash and data, and maybe cycles too
+Required flag true means it's got to go through
+Depends tells you which ones come before
+Proposal transactions, short I Ds, more
+Work I D, if they hand you one
+Send it back with the block when you're done
+
+[Chorus]
+Give me the template, I'll build the block
+Give me the template, I run the clock
+Version, difficulty, number, parent hash
+Give me the template, then I send it back
+
+[Outro]
+Submit block, molecule bytes in hex
+Work I D with it, on to the next

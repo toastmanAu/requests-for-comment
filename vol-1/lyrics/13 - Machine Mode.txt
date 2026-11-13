@@ -1,0 +1,53 @@
+[Intro]
+R F C five, the privileged mode
+Opt in only, it's off in the code
+
+[Verse]
+One contract at a time, so you don't need rings
+But a privileged model brings a few good things
+An M M U for the contracts that grow
+Dynamic memory, and the bad access? No
+Beginners trade cycles for a safer run
+Pros who want it lean can leave it undone
+Closed by default, it's your call to make
+Ignore it completely for the cycles' sake
+
+[Chorus]
+Machine mode, user mode
+Two levels in the privileged code
+M ret, and you step on down
+Sixty-four entries when the fault comes round
+
+[Verse]
+C S R instructions, straight from the spec
+Read and write registers, keep it correct
+Not every register, just the ones for the trap
+S T vec holds the handler on the map
+Touch the others, illegal instruction's the call
+Handle it how you like, that's all
+Starts in machine mode, free to roam
+User mode's limited, a smaller home
+No C S R, no machine mode page
+No executing where the flag's not engaged
+Set your metadata up, then drop with M ret
+Now the trap function's what catches the threat
+
+[Verse]
+T L B, sixty-four entries deep
+Each one a page, four K to keep
+One way associative, here's the trick
+Same last six bits and one gets kicked
+Switch your privilege level, the whole thing's flushed
+Built on the first page fault, never rushed
+Stay in machine mode, you may never meet
+Once it's up, it stays on the beat
+
+[Chorus]
+Machine mode, user mode
+Two levels in the privileged code
+M ret, and you step on down
+Sixty-four entries when the fault comes round
+
+[Outro]
+Opt in, opt out, it's yours to decide
+The V M's got it waiting on the side

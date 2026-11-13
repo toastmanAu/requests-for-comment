@@ -1,0 +1,49 @@
+[Intro]
+Maybe something, maybe not
+One of many, that's the plot
+
+[Verse]
+Option's dynamic, here's the game
+Empty or full, it ain't the same
+If it's empty, there's nothing there
+Zero bytes, the cupboard's bare
+If it's got something, just write the thing
+Same size as the item that you bring
+No extra tag, no flag to see
+The length alone tells you what it'll be
+
+[Chorus]
+Option, nothing or the item straight
+Union, type id, then the freight
+Maybe something, one of some
+Molecule, and the bytes go drum
+
+[Verse]
+None is empty, not a byte
+Some with an empty vector, that's four, alright
+Oh four, zero, zero, zero on the line
+The empty dyn-vec header, fine
+
+[Verse]
+Union's dynamic, two steps through
+First the item type id, that's the clue
+Thirty-two bits, little-endian, friend
+It's the index of the item, zero on the front end
+Then you serialize what's inside
+Whatever type the id implied
+First type in the list is the Byte Three
+Four zero bytes, then one two, three four, five six, see
+Second in the list, then it's oh one first
+Then the item follows, unrehearsed
+Third in the list starts oh two, then
+The vector that's inside, and count again
+
+[Chorus]
+Option, nothing or the item straight
+Union, type id, then the freight
+Maybe something, one of some
+Molecule, and the bytes go drum
+
+[Outro]
+Fixed or dynamic, now you know the set
+Byte by byte, no sweat

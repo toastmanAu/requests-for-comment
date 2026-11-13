@@ -1,0 +1,49 @@
+[Intro]
+Where's the code at?
+Follow the hash
+
+[Verse]
+Cell's got three, let me lay it flat
+Capacity, type, and lock, that's that
+Capacity's the size, counted in shannons
+And it's the balance too, that's the canon
+Got to cover its own length, and the data
+The type and the lock, sooner or later
+Type's a script and it's optional, friend
+Limits how the data changes, end to end
+Lock's a script, and it says who owns
+Unlock it and you spend it, that's the throne
+
+[Chorus]
+Code hash, args, hash type
+Three in the script, that's the stripe
+Code sits in a dep cell on the side
+Code hash, that's the guide
+
+[Verse]
+A script's got three fields, here they are
+Code hash first, that's the star
+Hash of a binary, risk five, E L F
+The code's not in the script itself
+Saves the space, it's in a dep cell instead
+Attached to the transaction, like I said
+Hash type tells you how to match it right
+Data or type, pick one, hold tight
+Data, match the hash of the dep cell's data
+Type, match its type script hash, see you later
+Then the args, the script's input
+Loaded in the V M when it's put
+No arg C, arg V the Unix way
+Special syscalls load them, that's the play
+Binary gets loaded in a V M instance
+When the transaction's verified, no resistance
+
+[Chorus]
+Code hash, args, hash type
+Three in the script, that's the stripe
+Code sits in a dep cell on the side
+Code hash, that's the guide
+
+[Outro]
+R F C nineteen, withdrawn they say
+Data structures, we rapped them anyway

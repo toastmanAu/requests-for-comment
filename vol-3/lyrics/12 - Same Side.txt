@@ -1,0 +1,45 @@
+[Intro]
+Everybody wants something
+What if it's the same thing?
+
+[Verse]
+Typical platform, everybody pulls apart
+Users want cheap transactions from the start
+Developers want adoption for their apps
+Miners want income, holders want the price up, facts
+More adoption don't make transactions cheap
+More demand on the chain and the fees get steep
+Cheaper transactions, miners don't earn more
+Not aligned, often in conflict, that's the score
+
+[Chorus]
+Same side, same side
+Higher price and everybody rides
+Network more secure, miners get paid
+Holders get the return, same side, made
+
+[Verse]
+On C K B the users want their assets secure
+Developers want more assets preserved, for sure
+Miners want income, holders appreciation
+Higher token price supports the whole equation
+More assets secured, more bytes occupied
+Circulating supply goes down, price has support on its side
+Miners expand, the network's more secure
+Draws higher value usage, more and more
+Pro-cyclical loop, that's the growth engine
+Adoption and value, each one extending
+First class assets, cells at the top
+Owned by the user, lock script, full stop
+Not held in custody by a contract's hand
+So the storage cost's on the users, understand
+Four hundred bytes of code for a token's rules
+Sixty-four bytes per owner, those are the tools
+Ten thousand owners, the developer still
+Needs four hundred C K Bytes, that's the bill
+
+[Chorus]
+Same side, same side
+Higher price and everybody rides
+Network more secure, miners get paid
+Holders get the return, same side, made

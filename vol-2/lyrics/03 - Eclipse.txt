@@ -1,0 +1,45 @@
+[Intro]
+Lights out, lights out
+Somebody's blocking out the sun
+
+[Verse]
+Open network, anybody joins
+No permission, no tickets, no coins
+That's the beauty, but it cuts two ways
+Bad nodes walk in too these days
+Here's the trick that they call eclipse
+Fill every slot till the true view slips
+All your peer connections in the attacker's hands
+Now you only see what the attacker plans
+
+[Chorus]
+Eclipse, eclipse, don't let 'em block the sun
+Keep the good peers close and the bad ones on the run
+Store 'em, score 'em, show the low ones out
+That's what the peer to peer is all about
+
+[Verse]
+Cheap to pull and the damage runs deep
+Take a node down while the network sleeps
+Steer its mining power where they like
+Or set it up for a double spend strike
+Bitcoin saw it, Ethereum too
+There's a paper on it, tells you what to do
+Some of those defences are already live
+So we bring 'em on over, help the network thrive
+
+[Verse]
+Three little rules and you write 'em down
+Number one, store every peer in town
+Much as you can, keep the info deep
+Number two, keep score, don't sleep
+Good behaviour, bad behaviour, all the time
+Number three, keep the high scores on the line
+And the low scores, well, they gotta go
+Evict 'em out and on with the show
+
+[Chorus]
+Eclipse, eclipse, don't let 'em block the sun
+Keep the good peers close and the bad ones on the run
+Store 'em, score 'em, show the low ones out
+That's what the peer to peer is all about

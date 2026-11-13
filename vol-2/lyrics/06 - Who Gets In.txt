@@ -1,0 +1,47 @@
+[Intro]
+The club is full, the line is long
+Who gets in? Sing along
+
+[Verse]
+Inbound slots are all filled tight
+New peer knocking in the middle of the night
+Don't just slam it, don't just let 'em through
+Run the eviction test, here's what you do
+Everybody inside is a candidate now
+Then we start protecting, here's how
+Take out the ones with the highest score
+Then the lowest ping, walk 'em from the floor
+
+[Chorus]
+Who gets in, who gets out
+Protect the good ones, that's what it's about
+Biggest group, lowest score
+That's the one we show the door
+
+[Verse]
+Then the ones who talked to us most recently
+Then half of what's left by seniority
+Longest connected, they can stay
+Things an attacker can't fake any day
+Now group what's left by the network group
+Find the biggest crowd in the loop
+Lowest score in that group gets tossed
+If the group is empty, the new peer's lost
+
+[Verse]
+When the outbound's full, every few minutes more
+Send a feeler out to a peer in the store
+One we never called, just to see
+Connect, shake hands, disconnect, we're free
+And the peer store's got a limit too
+When it's full and there's somebody new
+Biggest group, not seen in a while
+Lowest score there, check the file
+If the new one's better, then they trade
+If it ain't, the new one's not getting saved
+
+[Chorus]
+Who gets in, who gets out
+Protect the good ones, that's what it's about
+Biggest group, lowest score
+That's the one we show the door

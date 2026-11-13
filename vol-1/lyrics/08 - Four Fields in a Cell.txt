@@ -1,0 +1,57 @@
+[Intro]
+Yes yes y'all, and you don't stop
+Four fields in a cell, now watch it drop
+
+[Verse]
+Capacity, that's the size limit, friend
+Everything inside has to fit in the end
+Data is the state that you put in the cell
+Could be empty, but it's under the limit as well
+Type is the script that checks the state
+Lock is the script that guards the gate
+Lock says who owns it, who can pass it along
+Type says the rules so the data ain't wrong
+
+[Chorus]
+Capacity, data, type, and lock
+Four fields in a cell, now rock
+Live cells now, dead cells then
+Use it one time and you make it again
+
+[Verse]
+A cell can't change, it's set like stone
+Used one time, and one time alone
+Want an update, here's what you do
+Old one's history, you make a new
+Same capacity, and it swaps in one go
+Old state out, new state in the flow
+All the live cells are the knowledge today
+All the dead cells are the history, okay
+Got ten bytes, you can split it in two
+Five and five, now there's more for you
+Type runs when the cell is made
+Lock runs when it's spent or it's traded
+Bring your proof, and if the lock says true
+Then the type script rules what you get to do
+
+[Chorus]
+Capacity, data, type, and lock
+Four fields in a cell, now rock
+Live cells now, dead cells then
+Use it one time and you make it again
+
+[Verse]
+No hard coded crypto in the V M
+Bring your own signature, any kind of them
+Multisig, M of N, easy to write
+Lend out a cell and keep ownership tight
+U T X O's clear but the scripts are thin
+Account model's easy but the parallel's grim
+Cell takes the best of both, you see
+A generic state model for you and me
+
+[Chorus]
+Capacity, data, type, and lock
+Four fields in a cell, now rock
+Live cells now, dead cells then
+Use it one time and you make it again

@@ -1,0 +1,45 @@
+[Intro]
+You say it's in there? Prove it
+You say it's in there? Prove it
+
+[Verse]
+Got a root on the chain and a claim in your hand
+One item or more, now here's the plan
+Walk from the leaf on up to the top
+Grab every sibling at every stop
+Leave out the nodes that are already in the path
+You can work those out, that's simple math
+Just the siblings needed, nothing more
+The nodes you can't work out, that's the core
+
+[Chorus]
+Prove it, prove it, walk it to the root
+Siblings on the path, that's all you compute
+Prove it, prove it, highest index first
+Hash it up together till the root is rehearsed
+
+[Verse]
+Now the order matters when you pack the proof
+Descending order, that's the truth
+Makes the building and the checking plain
+A simple little loop, again and again
+And the index of the item's gotta come along
+'Cause the hash don't know where it belongs
+Two parts in the proof when you send it through
+The indexes and the nodes come too
+
+[Verse]
+To check it, take your leaves and the nodes you got
+Put 'em in a queue, largest index on top
+Pop a node, find its sibling in the line
+If it's next in the queue, then that works fine
+If it ain't, take a node from the proof's stack
+Hash the pair to the parent, push it back
+When the parent is the root, then the walk is done
+If it matches the root, then the proof has won
+
+[Chorus]
+Prove it, prove it, walk it to the root
+Siblings on the path, that's all you compute
+Prove it, prove it, highest index first
+Hash it up together till the root is rehearsed

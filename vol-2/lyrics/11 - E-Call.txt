@@ -1,0 +1,45 @@
+[Intro]
+Operator, operator
+Get me the chain on the line
+
+[Verse]
+Six arguments, here's where they go
+Registers A zero through A five, you know
+Each one's a word, so it holds a number
+Or it holds a pointer, there's no blunder
+Syscall number goes in A seven
+Then you fire the e-call, straight to heaven
+Don't need all six? Then fill what you need
+The rest stay zero, guaranteed
+
+[Chorus]
+Put it in A seven, make the e-call
+Answer comes back in A zero, y'all
+Or it's written in the memory where you point
+Syscall party, rock the joint
+
+[Verse]
+Two ways back when the call is through
+A return value in A zero for you
+Or the data's written where your pointer said
+And your normal instructions read it instead
+Wrap it in a C function, make it neat
+Six arguments every time, on the beat
+Exit only needs the one, that's fine
+Zero out the others, hold the line
+
+[Verse]
+Exit's the only way out the door
+Give it a code, and there ain't no more
+The V M stops right there with that return
+It don't come back, that's the thing to learn
+Load transaction hash, load the whole transaction
+Molecule encoded, that's the action
+Load script hash, load the script that's run
+Partial loading works for every one
+
+[Chorus]
+Put it in A seven, make the e-call
+Answer comes back in A zero, y'all
+Or it's written in the memory where you point
+Syscall party, rock the joint

@@ -1,0 +1,49 @@
+[Intro]
+Pay once
+Occupy forever? Nah
+
+[Verse]
+Gold held value for thousands of years
+Neutral, no censor, no confiscation fears
+For a chain that means a low barrier in
+Run a full node, anybody can spin
+Smart contract full node costs more to run
+Protect that cost or decentralised is done
+Bitcoin throttles bandwidth, Ethereum compute
+But the global state keeps growing, that's the dispute
+Bitcoin's state is the U T X O set
+Once one's made it sits there free, no debt
+
+[Chorus]
+Pay once, occupy forever
+That's the model that we got to sever
+Bound the state and let the market price it
+Pay once, occupy forever? Not likely
+
+[Verse]
+Ethereum charges fixed gas to store
+Refund when you clear it, but there's more
+Size ain't bounded, nor the growth rate
+No certainty on the full node weight
+One-time revenue, but the storage cost
+Sits on the miners and the nodes, time lost
+Gas was made for pricing computation
+Why price storage with it? No explanation
+State rent's the leading plan on their side
+Pay by the size or the contract hibernates, denied
+But a token contract's many users deep
+Hard to coordinate who pays the keep
+Three goals, then, for the state we hold
+Bounded growth, so the cost's controlled
+Market sets the price to expand or free
+And revenue keeps flowing to the miners, steadily
+
+[Chorus]
+Pay once, occupy forever
+That's the model that we got to sever
+Bound the state and let the market price it
+Pay once, occupy forever? Not likely
+
+[Outro]
+Bandwidth, computation, now the state
+Constrain it and price it, before it's too late

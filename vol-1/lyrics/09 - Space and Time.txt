@@ -1,0 +1,51 @@
+[Intro]
+Section five, where the state gets priced
+Space and time, yeah, think about it twice
+
+[Verse]
+Making new state means the nodes gotta check
+Storing that state means disk on their neck
+Other chains charge you one time at the door
+Then you sit on every node forevermore
+Here the cell is the unit, and it's one at a time
+Use the space yourself and the interest ain't mine
+Could've lent it out, could've earned on the side
+That's the cost that you carry for the space you occupied
+Bigger and longer means the more you pay
+Implicit, no bill coming day by day
+No upfront rent that runs out on the clock
+No state recycled and a contract in shock
+
+[Chorus]
+Space and time, space and time
+You pay for the state in space and time
+Not computation, it's the state that counts
+Capacity holds it in the right amounts
+
+[Verse]
+Capacity, type, and lock are state as well
+Metadata costs you in every cell
+So you make fewer cells and you keep it tight
+Capacity efficient, yeah, that's right
+Change the data or move who owns
+That's a fee, and the miners set the tones
+Cycles used and the state you changed
+Market finds the price in a healthy range
+Cell owners cover fees for the folks they serve
+New users walk in with no learning curve
+Pay with capacity, that's the native one
+Or a user-defined asset if the miner says done
+No hard coded payment in the transaction, see
+Because the model is the state, not the fee
+Forcing native coin is a wall at the gate
+Take it down and adoption don't wait
+
+[Chorus]
+Space and time, space and time
+You pay for the state in space and time
+Not computation, it's the state that counts
+Capacity holds it in the right amounts
+
+[Outro]
+Secure common knowledge, hold it long
+That's the main job, and the fee's just a song

@@ -1,0 +1,45 @@
+[Intro]
+Four point two, consensus on the floor
+Nakamoto's good but we're asking for more
+
+[Verse]
+Nakamoto consensus, simple and lean
+Low overhead, it's a beautiful machine
+Two drawbacks though that you can't ignore
+Throughput's slow and there's a selfish mining door
+So we watch the orphan rate across the net
+How well it's connected is the reading we get
+Orphans stay low, let the difficulty drop
+Blocks come faster and the bandwidth pops
+Orphans climb high, pull the pace back down
+Every bit of bandwidth gets used in this town
+
+[Chorus]
+Propose, then commit, two steps on the beat
+Propose, then commit, no bottleneck heat
+Count every uncle when you tune the grind
+Selfish mining gets left behind
+
+[Verse]
+The bottleneck's the block as it moves on the wire
+So we split confirmation and the latency's retired
+First you propose in the proposal zone
+Then you commit in a window that's known
+By the time that the block comes knocking at the gate
+Every node's seen the transactions, no wait
+Now the selfish miner orphans blocks for a gain
+Because difficulty never counted that pain
+Put the uncles in the difficulty sum
+Any mix of strategies, the profit is none
+Short attack window from the two-step flow
+De facto selfish mining got nowhere to go
+
+[Chorus]
+Propose, then commit, two steps on the beat
+Propose, then commit, no bottleneck heat
+Count every uncle when you tune the grind
+Selfish mining gets left behind
+
+[Outro]
+Short block interval, security intact
+Throughput up, and that's a matter of fact

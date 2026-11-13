@@ -1,0 +1,47 @@
+[Intro]
+What's the hold up?
+Fresh transactions on the wire
+
+[Verse]
+Nakamoto consensus, simple, low overhead
+Security well understood, like the papers said
+But a barrier holds it to a few a second
+Two parameters cap it, as it's reckoned
+Max block size and the block interval
+One megabyte, ten minutes, that's the original
+Roughly ten transactions a second, slow
+Bigger blocks or faster, here's what you should know
+More blocks made while others propagate
+Competing blocks, and only one's the fate
+Bandwidth spent on orphans goes to waste
+That's the limit on the pace
+
+[Chorus]
+Fresh transactions, that's the bottleneck
+Nodes got to ask before they forward, check
+Propose it first, commit it later on
+Fresh transactions, and the hold up's gone
+
+[Verse]
+When the interval drops, here's what's slow
+Fresh transactions, not finished on the go
+Not yet propagated when they're put in the block
+Nodes request them first, and that's the clock
+Attackers use it too, embed them on purpose
+Longer latency, hoping it'll serve them
+So split the confirmation into two
+Propose and commit, that's what we do
+Proposed when its truncated hash is in
+The proposal zone, of the block or its uncle kin
+Proposal don't affect if the block is valid
+Forward the block first, that's the ballad
+Committed in the commitment zone, a window on
+Starting several blocks after the proposal's gone
+By then every node's received it and verified
+Bottleneck eliminated, that's the ride
+
+[Chorus]
+Fresh transactions, that's the bottleneck
+Nodes got to ask before they forward, check
+Propose it first, commit it later on
+Fresh transactions, and the hold up's gone

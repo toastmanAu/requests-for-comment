@@ -1,0 +1,45 @@
+[Intro]
+Fix-vec, dyn-vec, what's the deal
+Look inside and the type's revealed
+
+[Verse]
+Two kinds of vectors in the molecule game
+Fixed and dynamic, and here's how they're named
+Look at the item sitting inside
+Fixed-size item? Fix-vec's the ride
+Anything else and it's dyn-vec time
+Both are dynamic size, keep that in mind
+Fix-vec takes two steps, that's all
+Write the count of items, then the items fall
+
+[Chorus]
+Fix-vec, count then the items in a row
+Dyn-vec, size, then the offsets, then they go
+Table's a dyn-vec with a fixed length, so
+Size, offsets, fields, now you know
+
+[Verse]
+Count's a thirty-two bit little-endian number
+Empty fix-vec, four zero bytes, no wonder
+One byte, one two, here's what you see
+Oh one and three zeros, then the one two, easy
+Eight bytes in, then it's oh eight up top
+Three zeros, then the eight bytes drop
+
+[Verse]
+Dyn-vec's three steps, listen up
+Full size in bytes, that's the first in the cup
+Then an offset for every item you hold
+Then the items themselves, all told
+Empty dyn-vec, the size is four
+Just the header and nothing more
+Table's the same, but the field count's set
+Size, then offsets, then the fields, you bet
+In the order declared, every field gets a spot
+Even the fixed ones, like it or not
+
+[Chorus]
+Fix-vec, count then the items in a row
+Dyn-vec, size, then the offsets, then they go
+Table's a dyn-vec with a fixed length, so
+Size, offsets, fields, now you know

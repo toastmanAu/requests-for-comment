@@ -1,0 +1,47 @@
+[Intro]
+Every block counts
+Even the ones that lost
+
+[Verse]
+Selfish mining, here's the trick they play
+Orphan other miners' blocks on purpose, that's the way
+Unfair reward, and where's it rooted?
+Difficulty adjustment, that's what they looted
+It ignores the orphans when it sizes the power
+More orphans, lower difficulty, their hour
+Higher reward over time for the cheat
+That's the hole, now here's the beat
+
+[Chorus]
+Count the uncles, count them all
+Difficulty don't care who took the fall
+Orphan rate can't move the dial
+Count the uncles, every mile
+
+[Verse]
+Every block refers to orphans as its uncles
+All of them counted, no more fumbles
+New difficulty independent of the orphan rate
+Selfish mining don't pay, that's the state
+For a large range of parameters, proved
+However the attacker's power's moved
+Honest, selfish, idle, split it any way
+However many epochs, still don't pay
+Now what's an uncle? Three conditions, friend
+Same epoch, same difficulty, that's the blend
+Second, the nephew's height is greater, clear
+Third, it's the first in its chain to refer
+Not like Ethereum, we don't mind how far
+The common ancestor is, wherever they are
+Long as both of them share the epoch, fine
+That's an uncle, by the design
+Proposal I D's the first bits of the hash
+Don't need to be unique, just a neighbourhood stash
+Same I D on two? Both proposed, that's cool
+Make it long enough, collisions hard, that's the rule
+
+[Chorus]
+Count the uncles, count them all
+Difficulty don't care who took the fall
+Orphan rate can't move the dial
+Count the uncles, every mile

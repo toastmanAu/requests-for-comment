@@ -1,0 +1,51 @@
+[Intro]
+R F C four, how the blocks come in
+Headers first, let the sync begin
+
+[Verse]
+Three stages, and they go in a row
+Cheapest check first, that's the way to go
+Connect the header, check the format and the work
+Five percent effort for a ninety-five perk
+Then download the block and check it's whole
+Then accept it in the chain, that's the final goal
+A block starts unknown before the header's read
+Fail any step and it's invalid instead
+Connected, downloaded, accepted at last
+Never ahead of the parent in the past
+If the parent goes bad then the children go too
+So you don't waste work on a branch that's through
+
+[Chorus]
+Connect the header, download the block
+Accept it in the chain, tick tock
+Headers first, least cost on top
+Most work wins, and the sync don't stop
+
+[Verse]
+Alice meets Bob and she samples her chain
+Latest ten blocks, then she steps back again
+Two, four, eight, with the gaps getting wide
+That's the locator, sends it to his side
+Bob finds the block that they both agree
+Sends the headers from there to his tip, you see
+Same genesis, so there's always one
+Now the downloading stage can run
+Sliding window, split it into stripes
+Scheduled over peers with the right block types
+Merkle root wrong, don't call the block bad
+Blacklist the sender, that's the peer you had
+Or a liar could poison your status tree
+Then accept with the context, the heavy degree
+Roll back the tip and verify the line
+If it fails, restore the best chain, fine
+
+[Chorus]
+Connect the header, download the block
+Accept it in the chain, tick tock
+Headers first, least cost on top
+Most work wins, and the sync don't stop
+
+[Outro]
+Tip moves on, so announce it to the crew
+Compact block if there's one, headers if a few

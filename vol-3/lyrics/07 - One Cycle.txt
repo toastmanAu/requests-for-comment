@@ -1,0 +1,47 @@
+[Intro]
+What's it cost? What's it cost?
+Read me the price list
+
+[Verse]
+Most instructions cost one cycle flat
+But some of them don't, so look at that
+Jump and branch, that's three a go
+Branches cost more than the normal flow
+Load a double word, store one, two
+Sixty-four bit system, that's the cheap one for you
+Load a word, a half, or a byte, that's three
+Smaller values cost more, you see
+Memory access ain't the normal rate
+More than a plain instruction, straight
+
+[Chorus]
+One for the normal, three for the branch
+Five to multiply, thirty-two to divide
+Five hundred for the e-call, that's the fee
+Count them cycles, count with me
+
+[Verse]
+Multiply's five, all five kinds
+Divide's thirty-two, keep that in mind
+Remainder too, same thirty-two
+Much more expensive, that's the view
+E-call, five hundred, e-break the same
+Syscall's got two parts in the game
+Bookkeeping first, the complex bit
+That's the five hundred, pay for it
+Then a plain memory copy, cheap to run
+Quarter cycle a byte and it's done
+Round the fraction up at the end
+Just like the loading, same rule, friend
+Looks a lot like the numbers you find
+In modern computer architecture, same kind
+
+[Chorus]
+One for the normal, three for the branch
+Five to multiply, thirty-two to divide
+Five hundred for the e-call, that's the fee
+Count them cycles, count with me
+
+[Outro]
+Hard rules now, written in the R F C
+Might move into consensus, we'll see

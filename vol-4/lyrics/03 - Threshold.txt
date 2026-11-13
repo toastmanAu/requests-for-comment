@@ -1,0 +1,49 @@
+[Intro]
+Three steps to the door
+Decode, compute, compare
+
+[Verse]
+Step one, decode what's in the field
+If it's zero, skip it, nothing to yield
+Not zero, check the format's right
+Metric flag's not one one, keep it tight
+Reserved flags, every one a zero
+And for the epoch metric, here we go
+Index got to be less than the length
+Or both of them zero, that's the strength
+In that case set them zero and one
+Format's valid, step one's done
+
+[Chorus]
+Reach the threshold, reach the threshold
+Target's got to meet it or the door stays closed
+Base plus value if it's relative
+Reach the threshold, that's how you live
+
+[Verse]
+Step two, compute the threshold line
+Absolute, the value's it, just fine
+Copy it straight, no conversion at all
+Relative needs a base before the call
+Find the commitment block of the input, see
+The block that committed the output it used to be
+Block number metric, base is that block's number
+Epoch metric, the epoch field, no blunder
+Timestamp metric, the timestamp in the header
+Base plus value, now you got it together
+Step three, the target block's the one
+That commits the transaction when it's done
+Still in the pool? Then it's the next to be mined
+Block number target, last mined plus one, aligned
+Epoch target is the next index along
+Five hundred, ten of twenty, then eleven, strong
+Timestamp target is the median found
+In the thirty-seven blocks before, all round
+Target equal or greater, you're through
+Anything less, there's waiting to do
+
+[Chorus]
+Reach the threshold, reach the threshold
+Target's got to meet it or the door stays closed
+Base plus value if it's relative
+Reach the threshold, that's how you live

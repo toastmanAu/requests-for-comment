@@ -1,0 +1,49 @@
+[Intro]
+Only one, only one
+One live cell of its kind
+
+[Verse]
+Type script's like the lock, with two things changed
+It's optional, and it runs on both, arranged
+Inputs and outputs, every time
+Lock's for ownership, type's for the logic line
+State transition contract for cells of a type
+See one in an output, it passed the hype
+Token issuance, that's the typical case
+New tokens made by the rules in place
+
+[Chorus]
+Only one, only one
+Type I D and the copy's done
+One in, one out, at the most
+Only one, coast to coast
+
+[Verse]
+Locate code by data hash, and it's fixed
+Can't find new code with the same hash, nixed
+But sometimes you want to change the code
+Without touching the script, so here's the road
+Hash type type, match the type script hash
+Replace the code cell, same type, in a flash
+New cell's got the updated code inside
+Upgrade rules in its lock, that's the guide
+Careful though, the code can change on you
+Got to trust the author, check the policy too
+Someone could make a flawed one, same type script
+That's where type I D comes in, equipped
+Singleton type, one live cell alone
+Nobody makes another, that's the throne
+In any type I D group, at the most
+One input, one output, that's the post
+One output only, that's a creation
+One input only, that's deletion
+One of each, a transfer, that's the three
+Creation args hash the first input, see
+Plus the output index of the cell
+Unique for good, and that's the spell
+
+[Chorus]
+Only one, only one
+Type I D and the copy's done
+One in, one out, at the most
+Only one, coast to coast

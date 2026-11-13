@@ -1,0 +1,47 @@
+[Intro]
+Small device, big chain
+Only send me what's mine
+
+[Verse]
+Smartphone, browser extension in my hand
+Embedded device, low capacity, understand
+Can't verify the whole chain, that's a fact
+Just check that the headers connect, stay intact
+Trust the block of the highest difficulty
+The transactions inside it are valid to me
+Without this I'm downloading every block
+Every broadcast transaction, round the clock
+Then throwing most of it away
+Slow sync, wasted bandwidth, memory to pay
+
+[Chorus]
+Set the filter, set the filter
+Only what I want comes through
+Bloom on the line, peer by peer
+Set the filter, cut the queue
+
+[Verse]
+Set filter message, three fields in the frame
+Filter, num hashes, hash seed, that's the name
+Filter's a bit field, byte-aligned in size
+Thirty-six thousand bytes is the max, no lies
+Num hashes, twenty at the top
+Holds ten thousand items before the false ones pop
+One in a million, false positive rate
+Hash seed's a random offset, set it straight
+H one is the low half, H two is the high
+Seed plus H one plus N times H two, try
+Mod the filter size and you land on a bit
+Soon as the peer gets the message, that's it
+Restricts what it broadcasts to the ones that match
+Every connection, its own filter to attach
+
+[Chorus]
+Set the filter, set the filter
+Only what I want comes through
+Bloom on the line, peer by peer
+Set the filter, cut the queue
+
+[Outro]
+R F C eleven, marked withdrawn
+Small device, big chain, the idea lives on

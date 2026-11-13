@@ -1,0 +1,51 @@
+[Intro]
+Write or execute, pick a side
+One or the other, nowhere to hide
+
+[Verse]
+No M M U in the C K B V M
+Like the early C P Us, way back when
+Whole block of memory, read, write, and run
+Nothing stops a script changing code for fun
+Jump to the stack and pretend it's code
+That's a wide open door on a dangerous road
+Buffer overflow goes writing on the text
+Now the script's behaviour is whatever comes next
+And the V M itself gets harder to make
+Trace cache needs guarding on every write you take
+Error prone and it's slow to boot
+So here comes a rule to cut it at the root
+
+[Chorus]
+Write or execute, never both
+Every page takes a single oath
+Break the rule and you catch a fault
+Write or execute, that's the vault
+
+[Verse]
+Four K pages, aligned on the line
+Zero, then four K, eight K, every time
+Each page carries a flag for the two
+Writable or executable, one will do
+Before an instruction, check the page can run
+Before a write, check the page allows one
+Break either rule and a page fault lands
+That's the law, and that's how it stands
+On boot every page starts writable, then
+The load sections marked to execute, amen
+An elf with a section that's both gets denied
+Returns with an error, no free ride
+Code not aligned, stretch it to the edge
+Round to the page, that's the pledge
+Return oriented tricks could still get through
+But the easy mistakes get stopped for you
+
+[Chorus]
+Write or execute, never both
+Every page takes a single oath
+Break the rule and you catch a fault
+Write or execute, that's the vault
+
+[Outro]
+Simpler machine and a safer script
+And the just in time compiler's better equipped

@@ -1,0 +1,47 @@
+[Intro]
+Can't take it all? Take a piece
+Partial loading, if you please
+
+[Verse]
+Script's in the V M, world's outside
+Needs a way to reach and a way to ride
+Syscalls, that's the telephone line
+To the transaction, the chain, the header, fine
+No custom instructions, standard risk five
+Keeps the tools all working, keeps the thing alive
+And every call but exit plays the same game
+Three arguments with the same three names
+
+[Chorus]
+Address, length, and offset
+Take what fits, and the rest ain't lost yet
+Full size comes back in the length you set
+Partial loading, no regret
+
+[Verse]
+Address is the buffer where the data lands
+Length is a pointer, sixty-four bit in your hands
+Going in, it's how big your buffer's got
+Coming out, it's the size of the whole lot
+Offset's where you wanna start the read
+Now here's the steps, and here's the speed
+Read the size that the length points to
+Full size is the data minus offset, true
+
+[Verse]
+Real size is the smaller of the two
+Write that much to the address for you
+Then full size goes back in the length
+Return a zero, that's success, that's strength
+Memory's tight? Then read it in bites
+Chunk by chunk through the days and nights
+And here's a trick, give a null for the address
+And a zero length, and you get the size, no less
+Not a byte gets copied, just the count
+Now you know the full amount
+
+[Chorus]
+Address, length, and offset
+Take what fits, and the rest ain't lost yet
+Full size comes back in the length you set
+Partial loading, no regret

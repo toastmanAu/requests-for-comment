@@ -1,0 +1,51 @@
+[Intro]
+Forty-three rounds, y'all
+Forty-three rounds, count 'em
+
+[Verse]
+Eaglesong's a sponge, so here's the thing
+A permutation and three numbers that it brings
+Rate and capacity, and a delimiter byte
+Two five six, two five six, oh six, that's right
+Stick the delimiter on the end of what you got
+Chop it into chunks of the rate, that's the lot
+State starts at zero, five twelve bits wide
+Absorb every chunk with an x-or on the top side
+
+[Chorus]
+Forty-three rounds, and the eagle sings
+Addition, rotation, x-or, three things
+Absorb it, then squeeze it, that's the sponge
+Two fifty-six bits when the work is done
+
+[Verse]
+After every chunk, run the permutation through
+Then you squeeze out the output, that's what you do
+A R X, and that's all we use
+Add, rotate, x-or, nothing to confuse
+Thirty-two bit words and there's sixteen in the state
+One round function, forty-three times straight
+Four little steps in every round
+Listen up close and I'll break it down
+
+[Verse]
+Step one, the bit matrix, ones and zeros
+Tells you which words to x-or, those are the heroes
+Step two, circulant, every word in the set
+X-or with itself rotated twice, you bet
+Step three, inject the constants in
+Different every word and every round we spin
+Step four, add, rotate, add, in eight little pairs
+Right to the left, then they spin eight opposite squares
+Then the left to the right, and that's the only place
+Where the modular addition shows its face
+
+[Chorus]
+Forty-three rounds, and the eagle sings
+Addition, rotation, x-or, three things
+Absorb it, then squeeze it, that's the sponge
+Two fifty-six bits when the work is done
+
+[Outro]
+Proof of work on the C K B
+Eaglesong, y'all, one two three

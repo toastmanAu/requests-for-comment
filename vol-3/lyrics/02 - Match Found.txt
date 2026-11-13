@@ -1,0 +1,47 @@
+[Intro]
+Test it, test it
+Once it hits, we stop
+
+[Verse]
+Every broadcast transaction gets a test
+Against the filter, here's the order, no rest
+First the hash of the transaction itself
+Then each cell input, pull it off the shelf
+Hash of the previous output, check
+Then every cell output, next on deck
+Lock hash and type hash of the script
+Find one match and the rest gets skipped
+Nothing hits? Then there's no match
+Algorithm aborts on the very first catch
+
+[Chorus]
+Match found, match found
+Send it down the line
+No match, no sound
+That one isn't mine
+
+[Verse]
+Add filter when you got more to track
+Bitwise OR on the filter, stack on stack
+Got to set one first before you add
+Can't be bigger than the one you had
+Keeps the connection open, saves the pain
+Of sending a whole new filter again
+Clear filter, no arguments at all
+Tells the peer to drop it, end of call
+After you set it, there's more they do
+Filtered block message coming to you
+In place of block and compact block too
+Header's standard, same as you knew
+Transactions, each with an index tied
+And hashes, a Merkle branch on the side
+
+[Chorus]
+Match found, match found
+Send it down the line
+No match, no sound
+That one isn't mine
+
+[Outro]
+Molecule on the wire, byte by byte
+Only what matches comes in tonight

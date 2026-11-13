@@ -1,0 +1,73 @@
+[Intro]
+Yeah, section two point one
+How do you scale it up and let it run
+
+[Verse]
+Bitcoin came first, peer-to-peer cash
+Ethereum followed with a general purpose stack
+Both put a ceiling on what they can pack
+Block size, gas limit, keep the nodes intact
+You could pump the blocks up, let the fees stay low
+Twenty-six gig blocks every ten minutes though
+Petabyte a year, only data centres cope
+Full nodes drop off, and there goes your hope
+Rewards run dry when the last coin's mined
+No fees, no miners, security declined
+Can't verify yourself, gotta trust some firm
+That ain't peer-to-peer, that's the lesson we learn
+
+[Chorus]
+Scale it up, don't sell it out
+Keep the base layer strong, no doubt
+Settle on the chain, move the rest off
+Layer one holds it down, layer two takes off
+Scale it up, don't sell it out
+One global state, that's what it's about
+
+[Verse]
+Split it into shards, many chains in a row
+Local consensus fast, beacon chain says go
+Polkadot's parachains, relay in the middle
+But a cross-shard call turns a deal to a riddle
+Book a train and a hotel, both gotta go through
+Two shards out of sync, now what you gonna do
+Yank the contract over, leave a hole behind
+DeFi building blocks get hard to combine
+One plus N, the meta-chain's got a cap
+Composability is where the value's at
+Shards work fine when the apps stand alone
+But the state worth most wants a single home
+
+[Chorus]
+Scale it up, don't sell it out
+Keep the base layer strong, no doubt
+Settle on the chain, move the rest off
+Layer one holds it down, layer two takes off
+Scale it up, don't sell it out
+One global state, that's what it's about
+
+[Verse]
+Layer two, the base chain settles the score
+Proofs fly off-chain, instant, cost no more
+Alice gets a coffee every morning on the block
+Opens up a channel, puts a deposit in stock
+Signs a little slip every time she takes a cup
+Either side can close it and collect what's up
+State channels carry any state you choose
+Side-chains run fast but there's trust to lose
+Plasma roots its trust in the main chain's floor
+Operator goes rogue, you walk out the door
+Only the disputes and the settlements land
+Decentralised, secure, and it scales as planned
+
+[Chorus]
+Scale it up, don't sell it out
+Keep the base layer strong, no doubt
+Settle on the chain, move the rest off
+Layer one holds it down, layer two takes off
+Scale it up, don't sell it out
+One global state, that's what it's about
+
+[Outro]
+Section two point one, that's the plan
+Keep it on the base, scale it where you can

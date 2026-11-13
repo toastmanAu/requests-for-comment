@@ -1,0 +1,49 @@
+[Intro]
+Three rules for the relay
+Now or never, now or never
+
+[Verse]
+Broadcast every block with a valid proof of work
+Orphans too, don't let them lurk
+They might be uncles in the main chain soon
+And a proof takes time, can't flood the room
+Three rules cut the extra round trip out
+When it has to happen, one hop, no doubt
+
+[Chorus]
+Now or never, send it on
+Three and a half seconds and the chance is gone
+Query on the side, push what's new
+Now or never, coming through
+
+[Verse]
+Rule one, the query doesn't block
+Rebuild the commitment zone, then don't stop
+Forward the compact block down the line
+Ask upstream for the proposed, same time
+Fine as long as the answer lands
+Before W close blocks, that's the plan
+Proposal I Ds held in memory, tight
+Till they leave the proposal window, right
+Size limits hard-coded, no D O S
+Too many big ones? Clear the mess
+Blacklist the peer that sent the most
+Rule one's done, now here's the post
+Rule two, missing committed, now or never
+Query the sender with a short timeout tether
+Fail and they lose high bandwidth mode
+Next fastest peer takes on the load
+Incomplete block don't travel on
+Till another peer sends what was gone
+Three and a half seconds, that's the wait
+Ninety-five percent make it through the gate
+Rule three, transaction push, that's last
+Sender didn't know them? Prefill them fast
+Put them in the compact block going out
+One hop only, that's what it's about
+
+[Chorus]
+Now or never, send it on
+Three and a half seconds and the chance is gone
+Query on the side, push what's new
+Now or never, coming through

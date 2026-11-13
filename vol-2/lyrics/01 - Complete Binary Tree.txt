@@ -1,0 +1,43 @@
+[Intro]
+Hey y'all, we got a tree to build
+Complete and binary, every level filled
+
+[Verse]
+Got a static list, need a single root
+C B M T is the way we compute
+Every level's full, 'cept maybe the last
+And the nodes sit left, yeah, packed in fast
+It's a full tree too, so here's the news
+Every node that ain't a leaf has two
+Fewer hashes than the other trees around
+That's the reason that we lay it on down
+
+[Chorus]
+Top to the bottom, left to the right
+Count from zero and you count it right
+Complete binary, keep it tight
+One little array and the tree's in sight
+
+[Verse]
+Number every node as you go on through
+Root comes first, and the rest ensue
+With N items, here's the size that's done
+The array's two N, then you minus one
+Item number I, where's it gonna be
+At I plus N minus one, you see
+Parent of a node, take one away
+Then you half it down, that's the play
+Sibling? Add one, x-or one, minus one
+Children at two I plus one, plus two, and done
+No items at all? Then the tree is bare
+Root's all zeros, nothing there
+
+[Chorus]
+Top to the bottom, left to the right
+Count from zero and you count it right
+Complete binary, keep it tight
+One little array and the tree's in sight
+
+[Outro]
+Transactions root, that's the job it's got
+One flat array, and it saves a lot

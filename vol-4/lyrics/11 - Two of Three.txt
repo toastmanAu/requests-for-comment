@@ -1,0 +1,47 @@
+[Intro]
+Alice, Bob and Cipher
+Two of three, but one's a must
+
+[Verse]
+Short format had a table, three in a row
+Deprecated now, but here's the show
+Index zero, sec P two five six K one
+With blake one sixty, that's the common one
+Index one, the multisig, hold tight
+Index two is anyone can pay, alright
+Blake one sixty's the leading twenty bytes
+Of a Blake two B hash, cut to size
+
+[Chorus]
+Two of three, two of three
+Any two of us, but it's got to have me
+S and R and M and N
+Two of three, say it again
+
+[Verse]
+Multisig script hash, twenty bytes long
+Hash of the multisig script, here's the song
+S, R, M, N, four single bytes
+Zero to two fifty-five, those are the heights
+S is the format version, fixed at zero
+M of N signatures, that's the hero
+N's how many keys are on the list
+M's how many got to sign, don't miss
+R means the signatures have got to match
+The first R keys on the list, that's the catch
+Then the blake one sixty of each public key
+Compressed, in order, one, two, three
+Alice, Bob and Cipher share a cell
+Any two can unlock it, but as well
+Cipher must approve, that's the deal
+So Cipher's key goes first, that's the seal
+R is one, M is two, N is three
+That's the script for the family
+Args are always twenty bytes in the short kind
+Need more? Use the full format, keep that in mind
+
+[Chorus]
+Two of three, two of three
+Any two of us, but it's got to have me
+S and R and M and N
+Two of three, say it again

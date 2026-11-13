@@ -1,0 +1,45 @@
+[Intro]
+Top of the block
+Read the header, read the header
+
+[Verse]
+A block's got four things, check the list
+Header, transactions, don't get it twisted
+Proposals, short I Ds of the proposed
+And the uncles, that's how it's composed
+Transactions are the ones committed inside
+Proposals hex-encoded, side by side
+Uncle block's a header of its own
+And its own proposals, never alone
+
+[Chorus]
+Read the header, read the header
+Number, parent, nonce, all together
+Timestamp ticking in milliseconds
+Read the header, that's the reckoning
+
+[Verse]
+Compact target, that's the difficulty
+Of the proof of work, packed in thirty-two, see
+Number is the height of the block
+Parent hash, the one before, that's the lock
+Nonce is the solution to the puzzle, found
+One twenty-eight bits, wide and round
+Timestamp, Unix time, in milliseconds
+Version for the forks, compatibility reckoned
+Transactions root, two roots in one
+Transaction hashes and the witness ones
+Proposals hash of the I Ds in a row
+All zeros when there's none to show
+Uncles hash of the uncle headers too
+All zeros when there's none in view
+Epoch packs the number, index, length
+Sixty-four bits, three parts, that's the strength
+And the Dao field, bytes of its own
+Read the Dao R F C, that one's shown
+
+[Chorus]
+Read the header, read the header
+Number, parent, nonce, all together
+Timestamp ticking in milliseconds
+Read the header, that's the reckoning

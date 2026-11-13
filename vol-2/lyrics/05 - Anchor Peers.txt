@@ -1,0 +1,45 @@
+[Intro]
+Drop the anchor, drop the anchor
+Before you sail, drop the anchor
+
+[Verse]
+Here's how they got you on the restart, friend
+Stuff your address book end to end
+Bad addresses, then they wait a while
+You reboot, and they start to smile
+You pick from the book and you dial 'em in
+If all your outbound's theirs, they win
+So when we start up, here's the fix
+A little bit of old and a random mix
+
+[Chorus]
+Anchor first, then random from the store
+Different network group than the ones before
+Score above the try score, that's the door
+And the boot nodes waiting if there ain't no more
+
+[Verse]
+Step one, count your outbound friends
+Under the anchor number? That's where it begins
+Look at who you talked to recently
+Take the highest score, that's your anchor, see
+Got your anchors, or the recent list is bare
+Pick at random from the peer store there
+But it's gotta beat the try score clean
+And a different network group from the ones on screen
+
+[Verse]
+Nothing fits? Then the boot nodes play
+Keep on going till you're full all day
+Now the sync goes quiet, nothing coming through
+Flip the switch, try a new peer or two
+Extra outbound till the messages flow
+Then evict the useless, let the extras go
+Attacker needs the anchors, highest score in the book
+And every random pick, that's a long, long look
+
+[Chorus]
+Anchor first, then random from the store
+Different network group than the ones before
+Score above the try score, that's the door
+And the boot nodes waiting if there ain't no more

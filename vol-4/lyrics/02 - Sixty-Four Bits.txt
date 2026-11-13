@@ -1,0 +1,49 @@
+[Intro]
+Sixty-four bits, y'all
+Eight on top, fifty-six below
+
+[Verse]
+Every input's got a since field packed
+Unsigned sixty-four bit integer, that's a fact
+Zero means it's off, ignore the thing
+Anything else, here's the encoding
+Highest eight bits are the flags up top
+Fifty-six remaining are the value, stop
+Highest bit of all, here's what it does
+Zero's absolute, one is relative
+
+[Chorus]
+Sixty-four bits, break it down
+Eight for the flags, the rest goes round
+One bit relative, two for the metric
+Five reserved, keep it zero, electric
+
+[Verse]
+Next two bits pick the metric to play
+Zero zero, block number's the way
+Zero one, epoch with a fraction
+One zero, median timestamp action
+One one's invalid, never set it so
+Next five bits are reserved, all zero
+Block number or timestamp, the value's plain
+Fifty-six bit integer, little-endian
+Epoch with a fraction packs in three
+E and I and L, now follow me
+E is the epoch, three bytes low
+Bit zero to twenty-three, there you go
+I is the index, two bytes more
+Twenty-four to thirty-nine on the floor
+L is the length, two bytes at the top
+Forty to fifty-five, and that's the lot
+Count them from the right, least significant first
+All little-endian, every one, rehearsed
+
+[Chorus]
+Sixty-four bits, break it down
+Eight for the flags, the rest goes round
+One bit relative, two for the metric
+Five reserved, keep it zero, electric
+
+[Outro]
+Shift right sixty-three, that's the relative flag
+Shift sixty-one and mask with three, in the bag

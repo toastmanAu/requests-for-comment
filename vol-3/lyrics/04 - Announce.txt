@@ -1,0 +1,45 @@
+[Intro]
+Outbound only
+Ask once, hear once
+
+[Verse]
+Three conditions before I send get nodes
+All got to hold, that's how it goes
+One, it's an outbound connection, mine
+That's for the fingerprinting, hold the line
+Two, their version's bigger than the preset
+Three, my stored addresses ain't there yet
+Under the threshold, a thousand by default
+Version, count, and a listen port, that's all
+
+[Chorus]
+Announce true, announce false
+One's a reply and one's a pulse
+Break the rules and the score gets hit
+Announce, announce, that's the bit
+
+[Verse]
+You get my get nodes, you send nodes back
+First time and inbound, that's the track
+Announce set false, because it's a reply
+Only one of those per ask, don't try
+At regular intervals, here's the other one
+Broadcast your connected nodes to everyone
+Announce set true, that's the broadcast kind
+Receive it and relay the routable ones you find
+Only the first broadcast can go past ten
+Announce threshold, don't flood it again
+Each node in the message, three addresses max
+Max node addresses, those are the facts
+The announce field tells the two apart
+So the punishment rules can be smart
+
+[Chorus]
+Announce true, announce false
+One's a reply and one's a pulse
+Break the rules and the score gets hit
+Announce, announce, that's the bit
+
+[Outro]
+Discovery message, the payload's a union
+Get nodes or nodes, pick one, keep moving

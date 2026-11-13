@@ -1,0 +1,44 @@
+[Intro]
+Two kinds of users on the same chain
+Which one pays?
+
+[Verse]
+Medium of exchange, that's the first kind
+Don't hold the coin, just the transfer in mind
+Buy it just in time and sell it just the same
+Don't care about the price, only the fee in the game
+Store of value, that's the other side
+Hold it for years, let the fee cost slide
+Spread it over time, it's nothing much
+Care about security, decentralised and such
+If it's easy to attack, the value's gone
+If it's centralised, counter-party risk is on
+
+[Chorus]
+Medium or store, medium or store
+One moves through, one holds for more
+Who compensates the miners in the long run?
+Medium or store, when the coins are done
+
+[Verse]
+Hard cap means when the last coin's mined
+Fees alone pay the miners, that's the design
+Open question if that can last
+Store of value networks don't transact fast
+The movers got little exposure to the risk
+Won't pay for security, in and out, brisk
+The holders are exposed for a long, long while
+Willing to pay, but no transactions to file
+And the hash power guards more than this block
+Every block before it's under that lock
+One-time payments for an ongoing guard
+Not sustainable, that's the hard part
+So inflation fits the store of value way
+Indirect payment, the ones who benefit pay
+In proportion to the time they stay
+
+[Chorus]
+Medium or store, medium or store
+One moves through, one holds for more
+Who compensates the miners in the long run?
+Medium or store, when the coins are done

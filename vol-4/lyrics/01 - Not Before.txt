@@ -1,0 +1,49 @@
+[Intro]
+Not yet, not yet
+Come back when it's time
+
+[Verse]
+There's a rule in the consensus, simple and plain
+Stops an input being committed too soon on the chain
+Optional value, they call it since
+Add it to an input, and here's the sense
+Names a time in the future when it's good to go
+Current time's got to reach it, or the node says no
+Equal or greater, then the precondition's met
+Anything before that, you ain't there yet
+
+[Chorus]
+Not before, not before
+Since on the input, that's the door
+Miss it on one and the whole thing's out
+Not before, that's what it's about
+
+[Verse]
+A transaction's many inputs, many hands
+Different parties batched with different plans
+So the since field sits on each input alone
+Every party sets a value of their own
+One of them not met, and here's the news
+The node rejects the whole thing, straight refused
+Three metrics you can use to tell the time
+Block number, that's the first in line
+Epoch number with a fraction, two
+Timestamp, three, and here's the clue
+It's the median of thirty-seven blocks before
+Pick exactly one of them, no more
+Every one of them only ever climbs
+Never goes down with the passing of time
+Then a flag, absolute or relative, choose
+Absolute, the value is the one you use
+Relative, start from the commitment block
+Add the since value on top, that's the clock
+
+[Chorus]
+Not before, not before
+Since on the input, that's the door
+Miss it on one and the whole thing's out
+Not before, that's what it's about
+
+[Outro]
+Target equal or greater than the threshold set
+That's the only way the since gets met

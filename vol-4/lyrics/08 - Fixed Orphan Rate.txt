@@ -1,0 +1,47 @@
+[Intro]
+Not a fixed interval
+A fixed orphan rate
+
+[Verse]
+Two steps let us drop the interval down
+Next thing is to find the sweet spot in town
+Best use of the bandwidth, safe all the same
+Dynamic difficulty, that's the name
+Two goals, G one and G two
+Selfish mining unprofitable, that's the first to do
+Then adjust the throughput on the fly
+To the bandwidth and the latency, that's why
+
+[Chorus]
+Fixed orphan rate, that's the aim
+Not a fixed interval, different game
+Count every block when you measure the power
+Fixed orphan rate, hour by hour
+
+[Verse]
+Four constraints to hold, in line with the old
+C one, same target duration, every epoch, told
+C two, max reward in an epoch depends
+Only on its number, that's how it's penned
+So the rewards come out at a set rate
+C three, the hash estimate can't shift too great
+Stops an attacker forging a chain
+C four, the interval's got bounds to maintain
+Upper bound keeps the service alive
+Lower keeps the traffic where most nodes survive
+For G one, count all blocks, not just the main
+Hash rate estimate, then dampen the gain
+For G two, target the orphan rate
+Solve the interval from the last epoch's state
+Its duration, its orphans, its main chain count
+Then the next epoch's numbers, every amount
+Main chain blocks, reward, and target too
+With dampening and bounds, that's how it's through
+Runs at the end of every epoch, friend
+Pipeline the sync and confirm, that's the end
+
+[Chorus]
+Fixed orphan rate, that's the aim
+Not a fixed interval, different game
+Count every block when you measure the power
+Fixed orphan rate, hour by hour

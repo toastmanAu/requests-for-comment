@@ -1,0 +1,47 @@
+[Intro]
+R F C two, four point one
+Generate here, verify there, and done
+
+[Verse]
+Split the work in two, that's the first design
+Generate the state off-chain, verify on the line
+Same algorithm, two places to run
+Client side builds it, the C K B V M checks it's done
+Old state plus input makes a new state fresh
+Pack it in a transaction, send it to the mesh
+Nodes run it back with the same two things
+If the output matches, then the new state sings
+
+[Chorus]
+Generate off-chain, verify on
+You know the result before the transaction's gone
+It passes or it fails, no in between
+Certain every time, that's the whole machine
+
+[Verse]
+Deterministic, you can see what you made
+Before you broadcast, no surprise gets played
+Inputs and outputs, written in plain
+So nodes see what depends on what in the chain
+That means parallel, side by side they go
+Workload gets spread and the system don't slow
+Pick any language on the client that you please
+Fast to develop and it runs with ease
+Sometimes the checking is the cheaper deal
+Quicksort's N log N to build for real
+But checking that it's sorted is a single pass
+Binary search, log N, verify in a flash
+The more complex the rules, the wider the gap
+And that asymmetry is throughput on tap
+Zero knowledge proofs fit right in the frame
+Generators off-chain is what we call that game
+
+[Chorus]
+Generate off-chain, verify on
+You know the result before the transaction's gone
+It passes or it fails, no in between
+Certain every time, that's the whole machine
+
+[Outro]
+Details stay with you, privacy's a gain
+Only the proof goes down on the chain

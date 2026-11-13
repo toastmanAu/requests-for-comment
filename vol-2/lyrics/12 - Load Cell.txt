@@ -1,0 +1,45 @@
+[Intro]
+Load it up, load it up
+Index and source, load it up
+
+[Verse]
+Load cell takes an index and a source
+Plus address, length, and offset, of course
+Source one is the inputs, two is the outs
+Three is the dep cells, no doubts
+There's a special flag for the group you're in
+Just the cells with the script you're running
+Whole cell comes back in molecule, friend
+Index out of bounds? That's a one in the end
+
+[Chorus]
+Load cell, load cell, tell me what you see
+By field, by data, bring it back to me
+Wrong source, the V M halts, that's the key
+Out of bounds is a one, missing is a two, agree
+
+[Verse]
+Load cell by field when you don't need it all
+Zero is capacity, that's the call
+One is the data hash, two is the lock
+Three is the lock hash, tick tock
+Four is the type and five is its hash
+Six is occupied capacity, in a flash
+Ask for a type that the cell ain't got
+Get a two back, that's the spot
+
+[Verse]
+Load cell data gives you just the data part
+Load as code, now that's a work of art
+Maps it in memory and marks it to run
+Four K aligned or the V M's done
+Load header from an input, a dep, or header deps
+Hash in the header deps, mind your steps
+Load witness by the index, source is a hint
+And debug takes a string and gives the log a print
+
+[Chorus]
+Load cell, load cell, tell me what you see
+By field, by data, bring it back to me
+Wrong source, the V M halts, that's the key
+Out of bounds is a one, missing is a two, agree

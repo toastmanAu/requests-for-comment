@@ -1,0 +1,45 @@
+[Intro]
+Ladies and gentlemen, on the scoreboard tonight
+Every peer gets a number, alright
+
+[Verse]
+Every peer starts out at the initial score
+Then we watch what they do, and we watch some more
+A set of behaviours, each one's got a price
+The scoring schema, cut and sliced
+Connected? That's a plus ten for you
+Timeout? Minus ten, that's due
+Sync and relay tell the network layer
+What they saw from every player
+
+[Chorus]
+Keep score, keep score, everybody's on the board
+Do it right for a long time, get your reward
+Keep score, keep score, drop below the line
+Under ban score, baby, you're out of time
+
+[Verse]
+Three kinds of moves that a peer can make
+First is correct, give a little, not a cake
+'Cause a bad one's nice till the day it strikes
+So the credit's slow, earn it over nights
+Second is the kind that the network might cause
+A drop, a timeout, a ping that's lost
+Can't tell if they meant it, so we stay polite
+A little minus, keep it light
+
+[Verse]
+Third is the kind that breaks the rules
+Bad encoding, an invalid block, those fools
+An invalid transaction on the wire
+That's a big minus, now the heat gets higher
+Peer one keeps asking for the same old block
+Duplicated request, minus fifty on the clock
+Falls below the ban score, disconnect and ban
+None of this is consensus, so tune it where you can
+
+[Chorus]
+Keep score, keep score, everybody's on the board
+Do it right for a long time, get your reward
+Keep score, keep score, drop below the line
+Under ban score, baby, you're out of time

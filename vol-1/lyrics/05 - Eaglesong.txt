@@ -1,0 +1,48 @@
+[Intro]
+Hey, party people, gather round
+Let me tell you 'bout a brand new hashing sound
+Eaglesong, y'all, Eaglesong
+
+[Verse]
+Any node can propose, here's the deal
+The block's gotta be valid and the puzzle's gotta be real
+The puzzle's tied to the block you bring
+So the answer names the block, that's a one of one thing
+Bitcoin hashes with a double S H A
+Good for them back in the day
+But the world built machines for it stack on stack
+And a whole lot of them just sit out back
+New coin, same hash, and those boxes wake
+Rent the hash power, that's a risk to take
+Can't predict who's mining, it could swing on a dime
+So you want a function that is new this time
+
+[Chorus]
+Novel, simple, and secure
+Three design goals, that's for sure
+Eaglesong, sing it loud
+A brand new hash for a brand new crowd
+
+[Verse]
+New means nobody tuned it before
+No head start waiting at the hardware store
+Simple so the chips come easy to build
+In the long run, dedicated hardware's a shield
+Security's third, and you need a strong case
+A hidden weak spot gives one miner the race
+So here's how it's made, now follow along
+Sponge construction, like Keccak's song
+With a permutation out of A R X
+Addition, rotation, and xor is next
+Wide trail strategy backs the proof
+Same one holding up the A E S roof
+
+[Chorus]
+Novel, simple, and secure
+Three design goals, that's for sure
+Eaglesong, sing it loud
+A brand new hash for a brand new crowd
+
+[Outro]
+First of its kind with all three in one
+Eaglesong, y'all, and the party's begun

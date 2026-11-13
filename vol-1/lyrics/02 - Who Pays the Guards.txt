@@ -1,0 +1,49 @@
+[Intro]
+Positioning paper, two point two point three
+Who pays the guards when the rewards run free
+
+[Verse]
+Block size capped and the block time's fixed
+So space gets scarce and the bidding begins
+No loops in the script, so the length tells the cost
+More inputs, more outputs, more fees get tossed
+The value in the coin is a shared belief
+A store of value, that's the whole motif
+But the miners get paid in the coin they guard
+So the faith has to hold or the fall comes hard
+Make a U T X O, pay the fee one time
+Then it sits in the state till the end of the line
+Pay once, stay forever, that's a sweet little deal
+While the miners keep spending just to keep it real
+
+[Chorus]
+Who pays the guards when the rewards run dry
+City gets rich, gotta fortify
+Security budget gotta rise with the prize
+Or the walls come down right before your eyes
+
+[Verse]
+Hard cap on the supply, the reward goes to zero
+Then the fees alone gotta play the hero
+Price goes double with rewards in the mix
+Hash rate doubles, that's a natural fix
+But fees don't care what the coin is worth
+They follow block demand, for better or worse
+You'd need full blocks every day of the year
+And a fee that scales with the price, that's clear
+Those are strong assumptions, put it on the list
+And there's one more problem that you can't dismiss
+Empty mempool and a block full of fees
+A miner wants to fork it and take what he sees
+Fee sniping, yeah, and it's still not solved
+Not without the hard cap getting dissolved
+
+[Chorus]
+Who pays the guards when the rewards run dry
+City gets rich, gotta fortify
+Security budget gotta rise with the prize
+Or the walls come down right before your eyes
+
+[Outro]
+Good for payments, but for holding it's thin
+That's the puzzle that the paper steps in

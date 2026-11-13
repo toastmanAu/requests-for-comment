@@ -1,0 +1,47 @@
+[Intro]
+One line, human readable
+C K B, then a one
+
+[Verse]
+An address is a lock script, on display
+Application level, recommended way
+Three parameters, code hash, hash type, args
+Packed in one line, verifiable, it's ours
+First encode the lock to a bytes array
+Payload's the name, then wrap it, okay
+One byte up front says the format type
+Zero zero is the full one, that's the stripe
+
+[Chorus]
+One line, one line
+Lock script wrapped and it reads just fine
+C K B for the main, C K T for the test
+One line, and the checksum does the rest
+
+[Verse]
+Full format carries every field of the lock
+Encoded Bech thirty-two M, that's the stock
+Zero one's the short one, deprecated now
+Zero two and zero four, same, take a bow
+Why'd the old full format get retired?
+A flaw in Bech thirty-two, that's what transpired
+Delete or insert characters, still looks valid
+Unexpected address, that's a bad ballad
+And the hard fork needed a field brand new
+For the V M version, per script group, too
+Wrap it up, three parts in the string
+Human readable part's the first thing
+Separator's always the number one
+Then the data part, base thirty-two, done
+Last six characters are the checksum, B C H
+Original limit ninety long, but wait
+We removed the length limit, let it run
+Error correction's off past ninety, none
+Don't want to use it anyway, you see
+Risk of a wrong correction, not for me
+
+[Chorus]
+One line, one line
+Lock script wrapped and it reads just fine
+C K B for the main, C K T for the test
+One line, and the checksum does the rest

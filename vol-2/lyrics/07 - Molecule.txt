@@ -1,0 +1,47 @@
+[Intro]
+Byte by byte, y'all
+Byte by byte
+
+[Verse]
+Two formats on the C K B
+Molecule and J S O N, you see
+J S O N is for the R P C
+Molecule's the one for you and me
+Canonical, one way to write
+Zero copy, read it in flight
+Every type's either fixed or it's dynamic size
+Header numbers little-endian, no surprise
+
+[Chorus]
+Byte, array, and struct
+Fixed size, nothing gets tucked
+No overhead, side by side
+Molecule, enjoy the ride
+
+[Verse]
+Start with a byte, and a byte is a byte
+Zero zero, that's alright
+Array's got an inner type and a length that's set
+Size is the two multiplied, you bet
+Three bytes: one, two, three
+Zero one, zero two, zero three, easy
+A thirty-two bit number, little end in front
+Oh one oh two oh three oh four, here's the stunt
+It goes four, three, two, one in the line
+Low byte first, every time
+
+[Verse]
+Struct is a bunch of fixed fields in a row
+In the order you declared, that's how they go
+Size is the sum, there's nothing in between
+No padding, no gaps, keep it clean
+A byte then a number, A B, then the four
+One two three in the little-endian store
+A B, oh three, oh two, oh one, zero zero
+Five bytes flat, and the struct's the hero
+
+[Chorus]
+Byte, array, and struct
+Fixed size, nothing gets tucked
+No overhead, side by side
+Molecule, enjoy the ride
