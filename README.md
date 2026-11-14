@@ -3,7 +3,7 @@
 Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
 sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
-volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae and volume 8 is jazz and soul.
+volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae, volume 8 is jazz and soul and volume 9 is funk and pop.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -171,6 +171,26 @@ Jazz and soul, from cool jazz, swing and bossa nova to motown, funk and neo-soul
 | 11 | [Find the Code](vol-8/11%20-%20Find%20the%20Code.mp3) | 3:46 | jazz-funk | [RFC 22 Code locating](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/11%20-%20Find%20the%20Code.txt) |
 | 12 | [Bring the Whole Group](vol-8/12%20-%20Bring%20the%20Whole%20Group.mp3) | 3:05 | funk soul | [RFC 22 Dep group](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/12%20-%20Bring%20the%20Whole%20Group.txt) |
 | 13 | [First in Every Block](vol-8/13%20-%20First%20in%20Every%20Block.mp3) | 3:52 | torch ballad | [RFC 22 Exceptions and header deps](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/13%20-%20First%20in%20Every%20Block.txt) |
+
+## Requests for Comment vol. 9
+
+Funk and pop, from disco, p-funk and go-go to synth-pop, power pop and dance-pop. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Eight Zeros](vol-9/01%20-%20Eight%20Zeros.mp3) | 2:21 | disco funk | [RFC 23 Deposit](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0023-dao-deposit-withdraw/0023-dao-deposit-withdraw.md) | [lyrics](vol-9/lyrics/01%20-%20Eight%20Zeros.txt) |
+| 2 | [One Eighty](vol-9/02%20-%20One%20Eighty.mp3) | 3:35 | synth-pop | [RFC 23 Withdraw](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0023-dao-deposit-withdraw/0023-dao-deposit-withdraw.md) | [lyrics](vol-9/lyrics/02%20-%20One%20Eighty.txt) |
+| 3 | [Accumulated Rate](vol-9/03%20-%20Accumulated%20Rate.mp3) | 3:19 | p-funk | [RFC 23 Calculation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0023-dao-deposit-withdraw/0023-dao-deposit-withdraw.md) | [lyrics](vol-9/lyrics/03%20-%20Accumulated%20Rate.txt) |
+| 4 | [Since the Genesis](vol-9/04%20-%20Since%20the%20Genesis.mp3) | 2:16 | bubblegum pop | [RFC 24 List of Genesis Scripts](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0024-ckb-genesis-script-list/0024-ckb-genesis-script-list.md) | [lyrics](vol-9/lyrics/04%20-%20Since%20the%20Genesis.txt) |
+| 5 | [Not in the VM](vol-9/05%20-%20Not%20in%20the%20VM.mp3) | 2:52 | minneapolis funk | [RFC 24 Type ID](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0024-ckb-genesis-script-list/0024-ckb-genesis-script-list.md) | [lyrics](vol-9/lyrics/05%20-%20Not%20in%20the%20VM.txt) |
+| 6 | [First Sixteen Bytes](vol-9/06%20-%20First%20Sixteen%20Bytes.mp3) | 2:54 | funk pop | [RFC 25 SUDT Cell](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0025-simple-udt/0025-simple-udt.md) | [lyrics](vol-9/lyrics/06%20-%20First%20Sixteen%20Bytes.txt) |
+| 7 | [More In Than Out](vol-9/07%20-%20More%20In%20Than%20Out.mp3) | 3:59 | dance-pop | [RFC 25 Operations](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0025-simple-udt/0025-simple-udt.md) | [lyrics](vol-9/lyrics/07%20-%20More%20In%20Than%20Out.txt) |
+| 8 | [Sixty-One](vol-9/08%20-%20Sixty-One.mp3) | 2:36 | power pop | [RFC 26 Anyone-Can-Pay Lock](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0026-anyone-can-pay/0026-anyone-can-pay.md) | [lyrics](vol-9/lyrics/08%20-%20Sixty-One.txt) |
+| 9 | [Ten to the X](vol-9/09%20-%20Ten%20to%20the%20X.mp3) | 3:18 | electro-funk | [RFC 26 Script Structure](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0026-anyone-can-pay/0026-anyone-can-pay.md) | [lyrics](vol-9/lyrics/09%20-%20Ten%20to%20the%20X.txt) |
+| 10 | [No Merging, No Splitting](vol-9/10%20-%20No%20Merging,%20No%20Splitting.mp3) | 2:58 | new jack swing | [RFC 26 Unlock Rules](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0026-anyone-can-pay/0026-anyone-can-pay.md) | [lyrics](vol-9/lyrics/10%20-%20No%20Merging,%20No%20Splitting.txt) |
+| 11 | [Mantissa](vol-9/11%20-%20Mantissa.mp3) | 2:39 | synth funk | [RFC 27 compact_target](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/11%20-%20Mantissa.txt) |
+| 12 | [Call Me Uncle](vol-9/12%20-%20Call%20Me%20Uncle.mp3) | 3:25 | go-go funk | [RFC 27 Uncles](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/12%20-%20Call%20Me%20Uncle.txt) |
+| 13 | [T and W](vol-9/13%20-%20T%20and%20W.mp3) | 2:58 | anthemic pop | [RFC 27 transactions_root](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/13%20-%20T%20and%20W.txt) |
 
 ## How it was made
 

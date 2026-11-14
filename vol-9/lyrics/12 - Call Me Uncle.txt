@@ -1,0 +1,49 @@
+[Verse]
+I did the work, I found a block
+But somebody else's made the chain
+I'm not forgotten, I'm still family
+If four conditions are the same
+
+[Chorus]
+Call me uncle, call me uncle
+I didn't make it but I'm kin
+Call me uncle, call me uncle
+Same epoch, same difficulty, let me in
+Be the first one to name me
+Call me uncle
+
+[Verse]
+One, we're in the same epoch
+Sharing the same difficulty
+Two, your block number
+Has got to be larger than me
+
+[Verse]
+Three, my parent is your ancestor
+Or an uncle somewhere back up your line
+Four, you're the first block in your chain
+To ever mention this name of mine
+
+[Chorus]
+Call me uncle, call me uncle
+I didn't make it but I'm kin
+Call me uncle, call me uncle
+Same epoch, same difficulty, let me in
+Be the first one to name me
+Call me uncle
+
+[Bridge]
+You only keep my header
+And my proposal I Ds
+The header shows the proof of work
+It shows I passed the rules, you see
+And the I Ds are there because
+You can commit what I proposed
+
+[Chorus]
+Call me uncle, call me uncle
+I didn't make it but I'm kin
+Call me uncle, call me uncle
+Same epoch, same difficulty, let me in
+Be the first one to name me
+Call me uncle

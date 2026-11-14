@@ -1,0 +1,48 @@
+[Verse]
+You can come on in at any time
+The door was there from the genesis block
+Bring your bytes and make a brand new cell
+There's just two rules before you knock
+
+[Chorus]
+Eight zeros, eight zeros
+Eight bytes of nothing in the data
+Eight zeros, eight zeros
+With the DAO for a type, see you later
+That's a deposit cell
+Eight zeros
+
+[Verse]
+Number one, the type script has to be
+The Nervos DAO and nothing more
+Number two, the data's eight bytes long
+All filled with zeros, that's for sure
+
+[Verse]
+Point your cell deps at the script
+So the validation passes through
+Put in one or put in ten
+There's no limit on how many you do
+
+[Chorus]
+Eight zeros, eight zeros
+Eight bytes of nothing in the data
+Eight zeros, eight zeros
+With the DAO for a type, see you later
+That's a deposit cell
+Eight zeros
+
+[Bridge]
+Secondary issuance keeps on coming
+The same amount every epoch
+But I get my proportion of it
+So nobody's watering me down
+Only the hard cap touches me now
+
+[Chorus]
+Eight zeros, eight zeros
+Eight bytes of nothing in the data
+Eight zeros, eight zeros
+With the DAO for a type, see you later
+That's a deposit cell
+Eight zeros

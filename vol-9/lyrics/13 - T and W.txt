@@ -1,0 +1,49 @@
+[Verse]
+A block is just a container
+A header and a body inside
+And somewhere in the header
+There's a promise it can't hide
+
+[Chorus]
+T and W, T and W
+Two roots hashed into one
+T and W, T and W
+A commitment to everything that's done
+Every transaction, every witness
+T and W
+
+[Verse]
+T is the root of a merkle tree
+Of every transaction hash in the block
+W is the root of another tree
+Of the witness hashes, under lock
+
+[Verse]
+Put them side by side, T then W
+And run them through the C K B hash
+That's the transactions root
+Thirty-two bytes, and it's built to last
+
+[Chorus]
+T and W, T and W
+Two roots hashed into one
+T and W, T and W
+A commitment to everything that's done
+Every transaction, every witness
+T and W
+
+[Bridge]
+And the first one in the list
+Is always the cellbase
+The uncles have a hash, the proposals have a hash
+All zeros when there's nothing in their place
+The number is the parent's plus one
+And the parent's hash is how we hold on
+
+[Chorus]
+T and W, T and W
+Two roots hashed into one
+T and W, T and W
+A commitment to everything that's done
+Every transaction, every witness
+T and W

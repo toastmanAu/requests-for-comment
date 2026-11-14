@@ -1,0 +1,49 @@
+[Verse]
+Before there was a single wallet
+Before the first dapp came along
+The team put some scripts in block zero
+And they've been there all along
+
+[Chorus]
+Since the genesis, since the genesis
+Two locks, two types, that's the list
+Since the genesis, since the genesis
+You've been right there and never missed
+Code hash, hash type, out point, dep type
+Since the genesis
+
+[Verse]
+Lock number one checks a signature
+Secp two five six k one
+With blake one sixty, it's the default
+It's where everybody's begun
+
+[Verse]
+Lock number two is the multisig
+Type number one is the Nervos DAO
+Type number two is the Type ID
+And that's all four of them now
+
+[Chorus]
+Since the genesis, since the genesis
+Two locks, two types, that's the list
+Since the genesis, since the genesis
+You've been right there and never missed
+Code hash, hash type, out point, dep type
+Since the genesis
+
+[Bridge]
+On Lina, on Aggron
+The addresses aren't the same
+So here's a handy reference
+With every hash and every name
+For every wallet, every dapp
+I'm writing it all down
+
+[Chorus]
+Since the genesis, since the genesis
+Two locks, two types, that's the list
+Since the genesis, since the genesis
+You've been right there and never missed
+Code hash, hash type, out point, dep type
+Since the genesis

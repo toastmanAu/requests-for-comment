@@ -1,0 +1,49 @@
+[Verse]
+Somebody keeps on paying me
+One shannon at a time
+Every time I reach for my cell
+It's been spent, it's a brand new line
+
+[Chorus]
+Ten to the x, ten to the x
+Put a number in the args and raise the price
+Ten to the x, ten to the x
+A three means a thousand, think twice
+One byte is all it takes
+Ten to the x
+
+[Verse]
+Twenty bytes for the public key hash
+Then one byte for the CKByte floor
+Then one byte for the token floor
+You can have them both or ask for neither one
+
+[Verse]
+A four in the token minimum
+Means ten thousand base units or more
+Leave them out, the minimum's zero
+And anything walks through the door
+
+[Chorus]
+Ten to the x, ten to the x
+Put a number in the args and raise the price
+Ten to the x, ten to the x
+A three means a thousand, think twice
+One byte is all it takes
+Ten to the x
+
+[Bridge]
+It won't stop every kind of flood
+But it stops the cheap ones cold
+And a different minimum
+Is a different lock script, so I'm told
+If both are set
+You only need to meet the one
+
+[Chorus]
+Ten to the x, ten to the x
+Put a number in the args and raise the price
+Ten to the x, ten to the x
+A three means a thousand, think twice
+One byte is all it takes
+Ten to the x

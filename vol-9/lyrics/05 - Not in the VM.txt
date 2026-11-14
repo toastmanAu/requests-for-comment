@@ -1,0 +1,49 @@
+[Verse]
+Strictly speaking, I'm not like the others
+They were written in C and compiled
+I was built straight into the node in Rust
+I never ran in the machine, not once
+
+[Chorus]
+I'm not in the VM, not in the VM
+But you can use me just the same
+Not in the VM, not in the VM
+Type ID is my name
+Unique and immutable
+Not in the VM
+
+[Verse]
+You want a reference that never changes
+One that only points to one
+I've been here since the genesis
+Same as any other one
+
+[Verse]
+My code hash is mostly zeros
+With my own name spelled at the end
+The same on Lina, the same on Aggron
+And the hash type is type, my friend
+
+[Chorus]
+I'm not in the VM, not in the VM
+But you can use me just the same
+Not in the VM, not in the VM
+Type ID is my name
+Unique and immutable
+Not in the VM
+
+[Bridge]
+No dep type, there's no need
+No cell to point at, nothing to load
+I'm on the list with all the rest
+Though I live inside the code
+Use me like a genesis script
+That's what I am to you
+
+[Chorus]
+I'm not in the VM, not in the VM
+But you can use me just the same
+Not in the VM, not in the VM
+Type ID is my name
+Unique and immutable
+Not in the VM

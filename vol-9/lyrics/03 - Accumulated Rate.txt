@@ -1,0 +1,52 @@
+[Verse]
+There's a field inside the header
+Thirty-two bytes called the dao
+Four numbers packed together
+Let me tell you what they are now
+
+[Chorus]
+A R n over A R m
+That's the accumulated rate
+A R n over A R m
+Where I left over where I came
+Multiply it by what's free
+And that's what's coming back to me
+Accumulated rate
+
+[Verse]
+C is the total issuance
+Up to and including this block
+S is the secondary unissued
+U is the occupied stock
+
+[Verse]
+And A R starts at ten to the sixteen
+At genesis, to keep it precise
+Every block it grows a little
+By the secondary over C, that's nice
+
+[Chorus]
+A R n over A R m
+That's the accumulated rate
+A R n over A R m
+Where I left over where I came
+Multiply it by what's free
+And that's what's coming back to me
+Accumulated rate
+
+[Bridge]
+Take the total, take away the occupied
+That's the only part that earns
+The bytes that hold the cell itself
+Come back the same, no more returns
+Free times the rate, plus occupied
+That's the most you can withdraw
+
+[Chorus]
+A R n over A R m
+That's the accumulated rate
+A R n over A R m
+Where I left over where I came
+Multiply it by what's free
+And that's what's coming back to me
+Accumulated rate

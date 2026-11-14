@@ -1,0 +1,49 @@
+[Verse]
+I've got a number far too big to carry
+The threshold every hash must beat
+So I fold it into thirty-two bits
+A little like a floating point, compact and neat
+
+[Chorus]
+Mantissa, mantissa
+The lower twenty-four bits
+Mantissa, mantissa
+Times two fifty-six to the exponent minus three
+The top eight bits tell you how many bytes
+Mantissa
+
+[Verse]
+In Bitcoin they called it n bits
+And it came from a signed kind of class
+It could go negative, and that was useless
+A hash is unsigned, so that can't pass
+
+[Verse]
+So here it's unsigned all the way
+The exponent is base two fifty-six
+Think of it as the number of bytes
+And the first three are the mantissa, that's the trick
+
+[Chorus]
+Mantissa, mantissa
+The lower twenty-four bits
+Mantissa, mantissa
+Times two fifty-six to the exponent minus three
+The top eight bits tell you how many bytes
+Mantissa
+
+[Bridge]
+I don't change inside an epoch
+I hold steady all the way
+When the new one comes, I get adjusted
+By the headers and the uncles of the old one, they say
+And at the genesis
+I was hardcoded
+
+[Chorus]
+Mantissa, mantissa
+The lower twenty-four bits
+Mantissa, mantissa
+Times two fifty-six to the exponent minus three
+The top eight bits tell you how many bytes
+Mantissa

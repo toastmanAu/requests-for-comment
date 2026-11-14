@@ -1,0 +1,49 @@
+[Verse]
+No signature? Then listen close
+I'm going to loop through every cell
+The ones going in, the ones coming out
+With my lock on them, and I can tell
+
+[Chorus]
+No merging, no splitting
+One in, one out, that's how I'm living
+No merging, no splitting
+Match them up by type, no kidding
+And nothing ever comes out with less
+No merging, no splitting
+
+[Verse]
+Two inputs with the same type script
+Or two with none at all, that's an error
+Same goes for the outputs too
+I pair them off, one for each other
+
+[Verse]
+No type but data set, that's an error
+A type with under sixteen bytes, the same
+An input with no matching output
+And I return with an error state
+
+[Chorus]
+No merging, no splitting
+One in, one out, that's how I'm living
+No merging, no splitting
+Match them up by type, no kidding
+And nothing ever comes out with less
+No merging, no splitting
+
+[Bridge]
+An exchange makes hundreds of cells
+So the deposits don't collide
+Merge them and they're gone
+Split them and there's more to carry on the miner's side
+More inputs when the owner claims
+More size, more cycles, more to pay
+
+[Chorus]
+No merging, no splitting
+One in, one out, that's how I'm living
+No merging, no splitting
+Match them up by type, no kidding
+And nothing ever comes out with less
+No merging, no splitting

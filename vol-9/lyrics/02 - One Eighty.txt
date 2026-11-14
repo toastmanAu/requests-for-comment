@@ -1,0 +1,51 @@
+[Verse]
+I put it in at epoch five
+I can ask for it back any day
+But asking isn't getting, baby
+There's two phases on the way
+
+[Chorus]
+One eighty, one eighty
+A hundred and eighty epochs round
+One eighty, one eighty
+That's when the lock comes down
+One eighty-five, three sixty-five
+Five forty-five, and on and on
+One eighty
+
+[Verse]
+Phase one, my deposit cell
+Turns into a withdrawing cell
+Same capacity, same type script
+At the same index as well
+
+[Verse]
+And where the eight zeros used to be
+It writes the block where I came in
+Sixty-four bits, little-endian
+So the counting can begin
+
+[Chorus]
+One eighty, one eighty
+A hundred and eighty epochs round
+One eighty, one eighty
+That's when the lock comes down
+One eighty-five, three sixty-five
+Five forty-five, and on and on
+One eighty
+
+[Bridge]
+Phase two, I set the since field
+An absolute epoch, nothing else
+I can build it now but I have to wait
+And if I miss the day, it rolls itself
+Into another period
+
+[Chorus]
+One eighty, one eighty
+A hundred and eighty epochs round
+One eighty, one eighty
+That's when the lock comes down
+One eighty-five, three sixty-five
+Five forty-five, and on and on
+One eighty

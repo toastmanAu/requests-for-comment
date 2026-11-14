@@ -1,0 +1,49 @@
+[Verse]
+You want to make a token of your own
+We kept it simple, that's the plan
+Just what's absolutely needed
+The rest is up to you, understand
+
+[Chorus]
+First sixteen bytes, that's the amount
+First sixteen bytes, that's how we count
+Little-endian, one twenty-eight bits
+First sixteen bytes and that's it
+Keep it simple
+First sixteen bytes
+
+[Verse]
+Rule one, the amount goes up the front
+Of the data, nowhere else
+Even if you stack more scripts on top
+Those sixteen bytes stay on the shelf
+
+[Verse]
+Rule two, thirty-two bytes of args
+The hash of the owner's lock
+Rule three, the same type script
+Means the same token on the block
+
+[Chorus]
+First sixteen bytes, that's the amount
+First sixteen bytes, that's how we count
+Little-endian, one twenty-eight bits
+First sixteen bytes and that's it
+Keep it simple
+First sixteen bytes
+
+[Bridge]
+And the lock, well that's all yours
+Use any lock you like
+We don't say who holds the key
+We only say what the data looks like
+A minimal standard
+Nothing more
+
+[Chorus]
+First sixteen bytes, that's the amount
+First sixteen bytes, that's how we count
+Little-endian, one twenty-eight bits
+First sixteen bytes and that's it
+Keep it simple
+First sixteen bytes
