@@ -1,0 +1,47 @@
+[Verse]
+Every rule has its exceptions
+And in this system there are two
+Where the capacity in the outputs
+Didn't come the way the others do
+
+[Chorus]
+I'm the first in every block
+With one input, and it's hollow
+It points to nothing, nothing at all
+Just a special value to follow
+What I carry wasn't taken
+I'm the first in every block
+
+[Verse]
+My since is set to the block number
+My outputs are the pay
+The reward and all the fees
+For an older block, from another day
+
+[Verse]
+And the other one's a withdrawal
+From the DAO, where it was kept
+Part of it is interest
+For the time the cells have slept
+
+[Chorus]
+I'm the first in every block
+With one input, and it's hollow
+It points to nothing, nothing at all
+Just a special value to follow
+What I carry wasn't taken
+I'm the first in every block
+
+[Bridge]
+To know how long it waited
+It reads the header of the block
+Where the deposit first was made
+Listed in the header deps, in the chain, on the clock
+
+[Chorus]
+I'm the first in every block
+With one input, and it's hollow
+It points to nothing, nothing at all
+Just a special value to follow
+What I carry wasn't taken
+I'm the first in every block

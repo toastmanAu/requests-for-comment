@@ -1,0 +1,47 @@
+[Verse]
+A script is not the code itself
+A script is just a reference
+The code's a binary in a cell
+And that's a real difference
+
+[Chorus]
+Find the code
+Before you run it, find the code
+Find the code
+Hash the data, there's your road
+Look in the cell deps, nowhere else
+Find the code
+
+[Verse]
+The lock scripts run for every input
+The type scripts, inputs, outputs too
+And each of them is pointing somewhere
+Code hash, hash type, that's your clue
+
+[Verse]
+When the hash type says it's data
+Find a cell whose data's hash
+Equals what the script is holding
+And you've got yourself a match
+
+[Chorus]
+Find the code
+Before you run it, find the code
+Find the code
+Hash the data, there's your road
+Look in the cell deps, nowhere else
+Find the code
+
+[Bridge]
+Deploy the code cell first
+Then use it any time
+The deps must all be live
+But using one don't kill it, it stays alive
+
+[Chorus]
+Find the code
+Before you run it, find the code
+Find the code
+Hash the data, there's your road
+Look in the cell deps, nowhere else
+Find the code

@@ -1,0 +1,53 @@
+[Verse]
+We used to have a shorthand
+For the ones we knew so well
+One byte for the code hash
+An index, and you could tell
+
+[Verse]
+Instead of thirty-two bytes
+Just a number in a table
+Short and sweet, the popular ones
+For as long as we were able
+
+[Chorus]
+But the short form's deprecated now
+We write the whole thing out
+Zero zero, then the code hash
+Hash type, args, no doubt
+Nothing left to look up
+The short form's deprecated now
+
+[Verse]
+The full one carries everything
+Every field the lock script holds
+And the hash type tells the machine
+Which version, and which mould
+
+[Verse]
+Zero, match the data hash
+And run on version zero
+One, match by the type script hash
+Two, the data hash, on version one, though
+
+[Chorus]
+The short form's deprecated now
+We write the whole thing out
+Zero zero, then the code hash
+Hash type, args, no doubt
+Nothing left to look up
+The short form's deprecated now
+
+[Bridge]
+One byte at the very front
+Tells you which format it's in
+And the full one's wrapped in bech thirty-two m
+That's the newer way to begin
+
+[Chorus]
+The short form's deprecated now
+We write the whole thing out
+Zero zero, then the code hash
+Hash type, args, no doubt
+Nothing left to look up
+The short form's deprecated now

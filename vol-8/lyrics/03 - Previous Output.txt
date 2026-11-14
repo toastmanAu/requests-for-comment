@@ -1,0 +1,44 @@
+[Verse]
+Everything I bring to you
+Was someone's gift before
+My inputs are the outputs
+Of a transaction gone before
+
+[Chorus]
+Previous output
+That's the name they give to me
+A hash and then a number
+Is the only way to me
+Previous output
+
+[Verse]
+The hash of the transaction
+That the cell belonged to then
+And the index in its outputs
+Where you'll find it once again
+
+[Verse]
+Two small things, an out point
+Thirty-two bytes and a count
+And you can reach across the chain
+To any cell's amount
+
+[Chorus]
+Previous output
+That's the name they give to me
+A hash and then a number
+Is the only way to me
+Previous output
+
+[Bridge]
+And with it comes a since
+To guard the one you chose
+What I make becomes an input
+For somebody else, who knows
+
+[Chorus]
+Previous output
+That's the name they give to me
+A hash and then a number
+Is the only way to me
+Previous output

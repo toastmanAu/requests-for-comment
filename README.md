@@ -3,7 +3,7 @@
 Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
 sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
-volume 5 is rock ballads, volume 6 is electronic dance music and volume 7 is country and reggae.
+volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae and volume 8 is jazz and soul.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -151,6 +151,26 @@ Country and reggae, from honky-tonk and bluegrass to roots, dub and ska. 13 trac
 | 11 | [Hard Capped to Me](vol-7/11%20-%20Hard%20Capped%20to%20Me.mp3) | 3:27 | rocksteady | [RFC 15 §6 Token issuance and the NervosDAO](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/11%20-%20Hard%20Capped%20to%20Me.txt) |
 | 12 | [When the Base Runs Dry](vol-7/12%20-%20When%20the%20Base%20Runs%20Dry.mp3) | 3:14 | cowboy ballad | [RFC 15 §6 Miner compensation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/12%20-%20When%20the%20Base%20Runs%20Dry.txt) |
 | 13 | [Pay in Any Token](vol-7/13%20-%20Pay%20in%20Any%20Token.mp3) | 2:46 | country pop | [RFC 15 §6 Paying for transaction fees](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/13%20-%20Pay%20in%20Any%20Token.txt) |
+
+## Requests for Comment vol. 8
+
+Jazz and soul, from cool jazz, swing and bossa nova to motown, funk and neo-soul. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [The Median of Thirty-Seven](vol-8/01%20-%20The%20Median%20of%20Thirty-Seven.mp3) | 2:35 | cool jazz | [RFC 17 Step 3. Derive target value and compare](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0017-tx-valid-since/0017-tx-valid-since.md) | [lyrics](vol-8/lyrics/01%20-%20The%20Median%20of%20Thirty-Seven.txt) |
+| 2 | [Since You Were Committed](vol-8/02%20-%20Since%20You%20Were%20Committed.mp3) | 3:36 | motown soul | [RFC 17 Step 2. Compute threshold value](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0017-tx-valid-since/0017-tx-valid-since.md) | [lyrics](vol-8/lyrics/02%20-%20Since%20You%20Were%20Committed.txt) |
+| 3 | [Previous Output](vol-8/03%20-%20Previous%20Output.mp3) | 2:39 | bossa nova | [RFC 19 CellInput and OutPoint](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0019-data-structures/0019-data-structures.md) | [lyrics](vol-8/lyrics/03%20-%20Previous%20Output.txt) |
+| 4 | [Bring a Witness](vol-8/04%20-%20Bring%20a%20Witness.mp3) | 3:04 | southern soul | [RFC 19 Transaction](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0019-data-structures/0019-data-structures.md) | [lyrics](vol-8/lyrics/04%20-%20Bring%20a%20Witness.txt) |
+| 5 | [Two-Step](vol-8/05%20-%20Two-Step.mp3) | 3:09 | swing | [RFC 20 Two-step transaction confirmation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0020-ckb-consensus-protocol/0020-ckb-consensus-protocol.md) | [lyrics](vol-8/lyrics/05%20-%20Two-Step.txt) |
+| 6 | [Just the First Few Bits](vol-8/06%20-%20Just%20the%20First%20Few%20Bits.mp3) | 2:41 | bebop | [RFC 20 Definition 1, proposal id](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0020-ckb-consensus-protocol/0020-ckb-consensus-protocol.md) | [lyrics](vol-8/lyrics/06%20-%20Just%20the%20First%20Few%20Bits.txt) |
+| 7 | [Keep the Merits](vol-8/07%20-%20Keep%20the%20Merits.mp3) | 3:29 | philadelphia soul | [RFC 20 Abstract](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0020-ckb-consensus-protocol/0020-ckb-consensus-protocol.md) | [lyrics](vol-8/lyrics/07%20-%20Keep%20the%20Merits.txt) |
+| 8 | [Wait a Little Longer](vol-8/08%20-%20Wait%20a%20Little%20Longer.mp3) | 3:52 | quiet storm | [RFC 20 Definition 4, committed transactions and confirmations](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0020-ckb-consensus-protocol/0020-ckb-consensus-protocol.md) | [lyrics](vol-8/lyrics/08%20-%20Wait%20a%20Little%20Longer.txt) |
+| 9 | [Last Six Characters](vol-8/09%20-%20Last%20Six%20Characters.mp3) | 3:29 | gypsy jazz | [RFC 21 Wrap to address](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0021-ckb-address-format/0021-ckb-address-format.md) | [lyrics](vol-8/lyrics/09%20-%20Last%20Six%20Characters.txt) |
+| 10 | [Short Form](vol-8/10%20-%20Short%20Form.mp3) | 2:22 | neo-soul | [RFC 21 Full and deprecated short payload formats](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0021-ckb-address-format/0021-ckb-address-format.md) | [lyrics](vol-8/lyrics/10%20-%20Short%20Form.txt) |
+| 11 | [Find the Code](vol-8/11%20-%20Find%20the%20Code.mp3) | 3:46 | jazz-funk | [RFC 22 Code locating](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/11%20-%20Find%20the%20Code.txt) |
+| 12 | [Bring the Whole Group](vol-8/12%20-%20Bring%20the%20Whole%20Group.mp3) | 3:05 | funk soul | [RFC 22 Dep group](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/12%20-%20Bring%20the%20Whole%20Group.txt) |
+| 13 | [First in Every Block](vol-8/13%20-%20First%20in%20Every%20Block.mp3) | 3:52 | torch ballad | [RFC 22 Exceptions and header deps](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-8/lyrics/13%20-%20First%20in%20Every%20Block.txt) |
 
 ## How it was made
 

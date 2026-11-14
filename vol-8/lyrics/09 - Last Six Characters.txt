@@ -1,0 +1,53 @@
+[Verse]
+Three parts make an address, friend
+The part that you can read
+A separator, then the data
+That is all you need
+
+[Verse]
+C K B if it's the main net
+C K T if it's the test
+The separator's always one
+And base thirty-two the rest
+
+[Chorus]
+And the last six characters
+The last six are the sum
+The last six characters
+Check them and you're done
+One letter wrong, they won't agree
+The last six characters
+
+[Verse]
+The old rule said ninety long
+No more than that, they'd say
+We took the limit off the top
+It was getting in the way
+
+[Verse]
+Past ninety it won't fix mistakes
+And we never wanted that
+A wrong correction's worse than none
+So we only check, and that is that
+
+[Chorus]
+And the last six characters
+The last six are the sum
+The last six characters
+Check them and you're done
+One letter wrong, they won't agree
+The last six characters
+
+[Bridge]
+A lock script in a single line
+Code hash, hash type, and the args
+Something people can read and check
+Not a string of hex, at large
+
+[Chorus]
+And the last six characters
+The last six are the sum
+The last six characters
+Check them and you're done
+One letter wrong, they won't agree
+The last six characters

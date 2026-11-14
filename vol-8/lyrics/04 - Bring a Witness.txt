@@ -1,0 +1,47 @@
+[Verse]
+You say that cell is yours to spend
+Well, the lock don't take your word
+You've got to bring it something
+Before your case is heard
+
+[Chorus]
+Bring a witness
+Bring a witness
+Something to make that lock script pass
+Bring a witness
+A signature will do, if that's what it asks
+Bring a witness
+
+[Verse]
+A version at the top, in case of a fork
+Cell deps you can read but never change
+Only live cells listed there
+Code or data, in your range
+
+[Verse]
+Header deps, a list of hashes
+Inputs, and the outputs new
+And the data for each output
+Kept apart, to help it through
+
+[Chorus]
+Bring a witness
+Bring a witness
+Something to make that lock script pass
+Bring a witness
+A signature will do, if that's what it asks
+Bring a witness
+
+[Bridge]
+Outputs here and data there
+Easier for the scripts that way
+Room to make it better later
+That's what the designers say
+
+[Chorus]
+Bring a witness
+Bring a witness
+Something to make that lock script pass
+Bring a witness
+A signature will do, if that's what it asks
+Bring a witness

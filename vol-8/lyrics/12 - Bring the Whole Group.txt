@@ -1,0 +1,47 @@
+[Verse]
+Sometimes one cell ain't enough
+The code needs data by its side
+You could list them one by one
+Or take them all in a single ride
+
+[Chorus]
+Bring the whole group
+One dep, and everybody's in
+Bring the whole group
+A list of out points, that's the thing
+Same as adding every member
+Bring the whole group
+
+[Verse]
+The group cell holds a list inside
+Each out point is a member's name
+The dep type tells you which is which
+Code direct, or a group to claim
+
+[Verse]
+It opens up before the code is found
+Before a single thing is run
+By then you only see the members
+And the group itself is done
+
+[Chorus]
+Bring the whole group
+One dep, and everybody's in
+Bring the whole group
+A list of out points, that's the thing
+Same as adding every member
+Bring the whole group
+
+[Bridge]
+The signature lock is split in two
+A code cell and a data cell
+The code stays small, so it can be updated
+The data's shared with another lock as well
+
+[Chorus]
+Bring the whole group
+One dep, and everybody's in
+Bring the whole group
+A list of out points, that's the thing
+Same as adding every member
+Bring the whole group
