@@ -1,0 +1,44 @@
+[Verse]
+If you build a wallet or a tool
+Or an app that lives upon this chain
+First get ready for zero one hundred
+Any release candidate, then choose your way
+
+[Chorus]
+Two ways through, two ways through
+Switch it by hand or let it switch for you
+Two ways through, two ways through
+When the activation epoch comes
+Two ways through
+
+[Verse]
+If you can pause your app while the fork goes by
+Ship two versions or a feature switch
+After the activation, by your own hand
+Deploy the new one, turn it on
+
+[Verse]
+If you can't stop, then use the switch
+And let it turn itself on
+When the chain grows into the activation epoch
+With no hand on it at all
+
+[Chorus]
+Two ways through, two ways through
+Switch it by hand or let it switch for you
+Two ways through, two ways through
+When the activation epoch comes
+Two ways through
+
+[Bridge]
+The epoch's different on the testnet
+From the one on the mainnet
+So ask the node, get consensus
+It'll tell you which is which
+
+[Chorus]
+Two ways through, two ways through
+Switch it by hand or let it switch for you
+Two ways through, two ways through
+When the activation epoch comes
+Two ways through

@@ -1,0 +1,38 @@
+[Verse]
+Woke up this morning, my stack pointer out of line
+Yes I woke up this morning, stack pointer out of line
+Version zero set it crooked at the start every time
+
+[Chorus]
+Now it's sixteen-byte aligned
+The stack pointer, sixteen-byte aligned
+Version one came round and fixed it
+Always sixteen-byte aligned
+
+[Verse]
+The C standard says the argument list ends on a null
+Argv at argc ought to be a null
+Version zero left it off the stack, now the list is full
+
+[Verse]
+Jump and link register, same register twice
+R S one and R D the same, it rolled the wrong dice
+Work out the program counter first, then write R D, that's the right advice
+
+[Chorus]
+Now it's sixteen-byte aligned
+The stack pointer, sixteen-byte aligned
+Version one came round and fixed it
+Always sixteen-byte aligned
+
+[Bridge]
+Read the very last byte of memory, got an out of bound
+Writable pages frozen that should have been unbound
+Pages out of line that wouldn't load at all
+Version one went down the list and fixed them all
+
+[Chorus]
+Now it's sixteen-byte aligned
+The stack pointer, sixteen-byte aligned
+Version one came round and fixed it
+Always sixteen-byte aligned

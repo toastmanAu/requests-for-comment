@@ -1,0 +1,44 @@
+[Verse]
+Two instructions standing side by side
+Neighbours in the code, one after the other
+The machine looks at the pair before it decodes them
+And sees they belong together
+
+[Chorus]
+Two become one, two become one
+And the cost is the bigger of the two
+Not the sum, just the maximum
+That's macro-op fusion
+Two become one
+
+[Verse]
+Multiply high and multiply low
+Five cycles and zero, a wide multiply for five
+Divide and remainder walking together
+Thirty-two for the pair, the second one rides
+
+[Verse]
+Add with carry is five in a row
+Add, set less than, add, set less than, or
+One cycle for the first and nothing for the others
+Five instructions through one door
+
+[Chorus]
+Two become one, two become one
+And the cost is the bigger of the two
+Not the sum, just the maximum
+That's macro-op fusion
+Two become one
+
+[Bridge]
+Load upper and jump and link
+A far jump, and three is all it's worth
+It's an old trick from the chips in your computer
+The crypto code feels it first
+
+[Chorus]
+Two become one, two become one
+And the cost is the bigger of the two
+Not the sum, just the maximum
+That's macro-op fusion
+Two become one

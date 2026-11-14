@@ -1,0 +1,46 @@
+[Verse]
+The network mustn't split in two
+Just because the rules are going to change
+So here's how every node gets through
+Three steps, and they go the same way
+
+[Chorus]
+From one, to one and two, to two
+That's the version list
+Before the fork we speak them both
+At the fork the old one is dismissed
+From one, to one and two, to two
+
+[Verse]
+Before the fork the list is one and two
+New clients use the second, old ones use the first
+Identify and Ping and Feeler
+Disconnect, Time and Alert
+
+[Verse]
+The moment that the hard fork comes
+Disconnect everyone on version one
+And turn that version down from then on
+Only upgraded clients carry on
+
+[Chorus]
+From one, to one and two, to two
+That's the version list
+Before the fork we speak them both
+At the fork the old one is dismissed
+From one, to one and two, to two
+
+[Bridge]
+Discovery drops its extra coding
+Sync goes the same way too
+And the limit on block sync requests
+Goes from sixteen up to thirty-two
+Next release, clean up the old code
+And the list is only two
+
+[Chorus]
+From one, to one and two, to two
+That's the version list
+Before the fork we speak them both
+At the fork the old one is dismissed
+From one, to one and two, to two

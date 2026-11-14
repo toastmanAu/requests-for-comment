@@ -1,0 +1,44 @@
+[Verse]
+A header dep's a useful thing
+My script can read a block's own header
+Or prove a cell was in that block
+But the old rule kept me waiting
+
+[Chorus]
+Four epochs, sixteen hours
+The block I name must be that old
+Four epochs, about sixteen hours
+Before its header can be shown
+Sixteen hours
+
+[Verse]
+It was there for the same good reason
+As the wait on a miner's new reward
+If the chain is reorganised
+A recent block could be thrown overboard
+
+[Verse]
+And every transaction leaning on it
+And all that followed after too
+Would be invalid in a moment
+So the rule said wait it through
+
+[Chorus]
+Four epochs, sixteen hours
+The block I name must be that old
+Four epochs, about sixteen hours
+Before its header can be shown
+Sixteen hours
+
+[Bridge]
+But sixteen hours is a long time
+For an app that needs an answer now
+So many uses simply couldn't happen
+This R F C takes the old rule down
+
+[Chorus]
+Four epochs, sixteen hours
+The block I name must be that old
+Four epochs, about sixteen hours
+Before its header can be shown
+Sixteen hours

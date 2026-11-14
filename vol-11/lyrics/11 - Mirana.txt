@@ -1,0 +1,44 @@
+[Verse]
+Lina was the first edition
+The rules of twenty nineteen
+Mirana is the twenty twenty-one edition
+The first hard fork the chain has seen
+
+[Chorus]
+Mirana, three kinds of change
+A new machine, a new field, and the patches
+Mirana, three kinds of change
+And none of it is backward compatible
+Mirana
+
+[Verse]
+First the V M gets a version one
+Beside version zero, both inside
+Scripts run on one unless you choose
+Hash type data for the old machine's ride
+
+[Verse]
+Second there's a field called extension
+Added to the block, of any length
+Mirana doesn't read or check it
+It's kept for a soft fork later, like flyclient's hash
+
+[Chorus]
+Mirana, three kinds of change
+A new machine, a new field, and the patches
+Mirana, three kinds of change
+And none of it is backward compatible
+Mirana
+
+[Bridge]
+Third the patches to consensus
+Block timestamp for the since start time
+Matching deps with the same data
+Index less than length, and no immature header line
+
+[Chorus]
+Mirana, three kinds of change
+A new machine, a new field, and the patches
+Mirana, three kinds of change
+And none of it is backward compatible
+Mirana

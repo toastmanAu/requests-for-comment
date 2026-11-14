@@ -1,0 +1,44 @@
+[Verse]
+It takes a hard fork to do it
+But once the change is on
+Consensus doesn't check the age
+Of the block your header dep leans on
+
+[Chorus]
+You choose how long to wait
+Any block in the chain will do
+You choose how long to wait
+The risk and the speed are up to you
+You choose how long to wait
+
+[Verse]
+You can point at a block from a minute ago
+And get your answer right away
+But if a better chain rolls that block back
+Your transaction's thrown away
+
+[Verse]
+Or hold your transaction in your hand
+And send it later on
+They still suggest four epochs
+But you can pick your own
+
+[Chorus]
+You choose how long to wait
+Any block in the chain will do
+You choose how long to wait
+The risk and the speed are up to you
+You choose how long to wait
+
+[Bridge]
+Maybe wait as long as you'd wait
+To call a payment confirmed
+Fast header or sure finality
+The app decides the terms
+
+[Chorus]
+You choose how long to wait
+Any block in the chain will do
+You choose how long to wait
+The risk and the speed are up to you
+You choose how long to wait

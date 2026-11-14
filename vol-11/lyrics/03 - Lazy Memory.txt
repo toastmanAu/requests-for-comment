@@ -1,0 +1,44 @@
+[Verse]
+In version zero, when the machine woke up
+It swept every room in the house
+Wrote a zero over all its memory
+Before the program made a sound
+
+[Chorus]
+Lazy memory, lazy memory
+Don't zero a frame till somebody needs it
+Lazy memory, lazy memory
+Read it or write it, and then I'll clean it
+Lazy memory
+
+[Verse]
+Now the memory's cut up into frames
+And every frame is left alone
+Till the program reads or writes there
+Then that one frame gets zeroed, that one alone
+
+[Verse]
+So a little script that hardly uses memory
+Doesn't pay for rooms it never sees
+The small programs all run faster
+And the result is just the same as it would be
+
+[Chorus]
+Lazy memory, lazy memory
+Don't zero a frame till somebody needs it
+Lazy memory, lazy memory
+Read it or write it, and then I'll clean it
+Lazy memory
+
+[Bridge]
+And you can stop me in the middle
+Suspend the machine and save the state
+Carry it off to a different computer
+Resume right where I had to wait
+
+[Chorus]
+Lazy memory, lazy memory
+Don't zero a frame till somebody needs it
+Lazy memory, lazy memory
+Read it or write it, and then I'll clean it
+Lazy memory

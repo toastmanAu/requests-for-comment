@@ -1,0 +1,44 @@
+[Verse]
+There's a new set of tools in the virtual machine
+The RISC-V B extension, version one point oh
+Made for working on the bits themselves
+Four kinds of work, and here's how they go
+
+[Chorus]
+Count, extract, insert and swap
+Four ways to move a bit around
+Count, extract, insert and swap
+One cycle each, that's all they cost
+Count, extract, insert and swap
+
+[Verse]
+Count the ones or count the zeros
+Pull a field out from the middle of a word
+Set a bit down right where you want it
+Turn the bytes around the other way
+
+[Verse]
+Every B instruction costs a single cycle
+Doesn't matter which one you call
+And the chips we run on have the same instructions
+So it maps straight across, one for one
+
+[Chorus]
+Count, extract, insert and swap
+Four ways to move a bit around
+Count, extract, insert and swap
+One cycle each, that's all they cost
+Count, extract, insert and swap
+
+[Bridge]
+The crypto code is where it shows
+Signatures that cost too much before
+With the bit tools and a little fusion
+Come down to a price that we can pay
+
+[Chorus]
+Count, extract, insert and swap
+Four ways to move a bit around
+Count, extract, insert and swap
+One cycle each, that's all they cost
+Count, extract, insert and swap

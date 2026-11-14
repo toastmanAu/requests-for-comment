@@ -1,0 +1,46 @@
+[Verse]
+I'm a program running in the machine
+But I've got somewhere else to send you
+Twenty forty-three, the exec call
+There's another program I'm handing over to
+
+[Chorus]
+Exec, same machine, new program
+Exec, and the cycles carry on
+The code, the registers, the memory, all replaced
+But the cycles used don't change
+Exec
+
+[Verse]
+Give me an index and a source
+Input, output, or a dep cell
+Place is zero for the cell data
+Place is one for the witness as well
+
+[Verse]
+Bounds is sixty-four bits wide
+High half offset, low half length
+And if the length is zero
+Read it right through to the end
+
+[Chorus]
+Exec, same machine, new program
+Exec, and the cycles carry on
+The code, the registers, the memory, all replaced
+But the cycles used don't change
+Exec
+
+[Bridge]
+It costs a fixed five hundred
+Plus the cycles for the loading
+But there's a warning on the label
+In version one they call it deprecated
+Not recommended, could behave unexpected
+Version two took care of it
+
+[Chorus]
+Exec, same machine, new program
+Exec, and the cycles carry on
+The code, the registers, the memory, all replaced
+But the cycles used don't change
+Exec

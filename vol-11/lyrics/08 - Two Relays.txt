@@ -1,0 +1,44 @@
+[Verse]
+Two machines can look at one transaction
+And count the cycles differently
+Old V M and new V M
+Might not even agree it's valid, you see
+
+[Chorus]
+So we run two relays, two relays
+Side by side until the day
+Two relays, two relays
+The old one works, the new one waits
+Two relays
+
+[Verse]
+A version bump can't tell the difference
+So before the fork we open both
+The new relay keeps its transaction messages off
+And the old relay carries the load
+
+[Verse]
+Then the hard fork moment comes
+Turn off transaction messages on the old
+Switch them over to the new relay
+Now the new one carries the load
+
+[Chorus]
+So we run two relays, two relays
+Side by side until the day
+Two relays, two relays
+The old one works, the new one waits
+Two relays
+
+[Bridge]
+After the fork, in the next release
+Take the old relay away
+Clean up the compatibility code
+One relay left to play
+
+[Chorus]
+So we run two relays, two relays
+Side by side until the day
+Two relays, two relays
+The old one works, the new one waits
+Two relays
