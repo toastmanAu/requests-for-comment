@@ -1,0 +1,41 @@
+[Verse]
+A flexible machine, free to branch and loop
+Free to run in circles if you let it through
+Somebody could write one that never ends
+Round and round forever, my friend
+
+[Chorus]
+Every script must halt
+Every script must halt
+It finish or it fail, it cannot run on
+Every script must halt
+
+[Verse]
+So every instruction pay a little toll
+Every system call, cycles from the whole
+Add them all together through the block
+And there's a number where it have to stop
+
+[Verse]
+Max block cycles, written in the spec
+A rule of consensus, every node will check
+Go above the limit, the block rejected
+That's how the network stay protected
+
+[Chorus]
+Every script must halt
+Every script must halt
+It finish or it fail, it cannot run on
+Every script must halt
+
+[Bridge]
+No limit on a single script
+No limit on a single transaction
+Take what you want, as long as the block
+Stay under the line, that's the only lock
+
+[Chorus]
+Every script must halt
+Every script must halt
+It finish or it fail, it cannot run on
+Every script must halt

@@ -1,0 +1,44 @@
+[Verse]
+Where'd we get the numbers for the price?
+Didn't pull them from the air or roll the dice
+We looked at real machines that run this code
+And charged it like the silicon is slowed
+
+[Chorus]
+It's priced like real hardware
+What it costs out here is what it costs in there
+A plain instruction, that's a single one
+The harder work costs more to get it done
+Priced like real hardware
+
+[Verse]
+A branch costs more than going straight ahead
+Reaching into memory costs more instead
+Multiply, divide, now those are steep
+Much more than the simple ones, they don't come cheap
+
+[Verse]
+It's a sixty-four bit system, so you'll find
+Loading sixty-four is cheaper than the smaller kind
+And a system call's five hundred at the door
+For the bookkeeping, then a little more
+
+[Chorus]
+It's priced like real hardware
+What it costs out here is what it costs in there
+A plain instruction, that's a single one
+The harder work costs more to get it done
+Priced like real hardware
+
+[Bridge]
+A quarter cycle for a byte you copy in
+Copying's cheap, so the charge is thin
+The system calls we timed them on the bench
+Real numbers from the running client
+
+[Chorus]
+It's priced like real hardware
+What it costs out here is what it costs in there
+A plain instruction, that's a single one
+The harder work costs more to get it done
+Priced like real hardware

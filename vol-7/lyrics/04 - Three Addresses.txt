@@ -1,0 +1,47 @@
+[Verse]
+Ask me get nodes, me answer you one time
+One time only, don't you step out of line
+First time you ask and you came in to me
+Announce set false, that's the reply you see
+
+[Verse]
+Then every so often me broadcast the crew
+All who's connected, announce set true
+You hear that message, relay what you can
+Only the routable, that is the plan
+
+[Chorus]
+Three addresses, no more than three
+Every node that you send to me
+Ten in the first one, then keep it small
+Too many nodes and your score ago fall
+
+[Verse]
+Only the first broadcast can carry more
+Than the threshold of ten, that's what it's for
+After that keep it under the line
+In case a peer want to flood the sign
+
+[Verse]
+Write the address in the multi-address way
+But leave out the p two p, hear what me say
+Put it in and that's misbehaviour
+A low score, and nobody a go save you
+
+[Chorus]
+Three addresses, no more than three
+Every node that you send to me
+Ten in the first one, then keep it small
+Too many nodes and your score ago fall
+
+[Bridge]
+Announce tell me which kind it is
+A reply or a broadcast, different rules for this
+So when somebody break the law
+Me know which rule to punish them for
+
+[Chorus]
+Three addresses, no more than three
+Every node that you send to me
+Ten in the first one, then keep it small
+Too many nodes and your score ago fall

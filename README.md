@@ -3,7 +3,7 @@
 Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
 sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
-volume 5 is rock ballads and volume 6 is electronic dance music.
+volume 5 is rock ballads, volume 6 is electronic dance music and volume 7 is country and reggae.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -131,6 +131,26 @@ Electronic dance music with full vocals: drum and bass, house, uk garage and dub
 | 11 | [As Code](vol-6/11%20-%20As%20Code.mp3) | 3:05 | dubstep | [RFC 9 Load Cell Data As Code](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md) | [lyrics](vol-6/lyrics/11%20-%20As%20Code.txt) |
 | 12 | [Add Rotate Xor](vol-6/12%20-%20Add%20Rotate%20Xor.mp3) | 2:45 | drum and bass | [RFC 10 ARX and round function](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0010-eaglesong/0010-eaglesong.md) | [lyrics](vol-6/lyrics/12%20-%20Add%20Rotate%20Xor.txt) |
 | 13 | [Dispersed](vol-6/13%20-%20Dispersed.mp3) | 5:23 | progressive house | [RFC 10 Injection of constants](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0010-eaglesong/0010-eaglesong.md) | [lyrics](vol-6/lyrics/13%20-%20Dispersed.txt) |
+
+## Requests for Comment vol. 7
+
+Country and reggae, from honky-tonk and bluegrass to roots, dub and ska. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Throw It All Away](vol-7/01%20-%20Throw%20It%20All%20Away.mp3) | 2:45 | honky-tonk country | [RFC 11 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0011-transaction-filter-protocol/0011-transaction-filter-protocol.md) | [lyrics](vol-7/lyrics/01%20-%20Throw%20It%20All%20Away.txt) |
+| 2 | [Trust the Headers](vol-7/02%20-%20Trust%20the%20Headers.mp3) | 3:40 | roots reggae | [RFC 11 Motivation and filter matching algorithm](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0011-transaction-filter-protocol/0011-transaction-filter-protocol.md) | [lyrics](vol-7/lyrics/02%20-%20Trust%20the%20Headers.txt) |
+| 3 | [Don't Lean on the Seeds](vol-7/03%20-%20Don't%20Lean%20on%20the%20Seeds.mp3) | 2:57 | bluegrass | [RFC 12 Discovery methods](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0012-node-discovery/0012-node-discovery.md) | [lyrics](vol-7/lyrics/03%20-%20Don't%20Lean%20on%20the%20Seeds.txt) |
+| 4 | [Three Addresses](vol-7/04%20-%20Three%20Addresses.mp3) | 2:09 | dancehall | [RFC 12 Nodes message rules](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0012-node-discovery/0012-node-discovery.md) | [lyrics](vol-7/lyrics/04%20-%20Three%20Addresses.txt) |
+| 5 | [Kept in the Dark](vol-7/05%20-%20Kept%20in%20the%20Dark.mp3) | 3:11 | outlaw country | [RFC 13 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0013-get-block-template/0013-get-block-template.md) | [lyrics](vol-7/lyrics/05%20-%20Kept%20in%20the%20Dark.txt) |
+| 6 | [Check It Yourself](vol-7/06%20-%20Check%20It%20Yourself.mp3) | 2:45 | ska | [RFC 13 Block template request and block submission](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0013-get-block-template/0013-get-block-template.md) | [lyrics](vol-7/lyrics/06%20-%20Check%20It%20Yourself.txt) |
+| 7 | [Every Script Must Halt](vol-7/07%20-%20Every%20Script%20Must%20Halt.mp3) | 3:55 | dub reggae | [RFC 14 Introduction and consensus change](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0014-vm-cycle-limits/0014-vm-cycle-limits.md) | [lyrics](vol-7/lyrics/07%20-%20Every%20Script%20Must%20Halt.txt) |
+| 8 | [Real Hardware](vol-7/08%20-%20Real%20Hardware.mp3) | 3:13 | country rock | [RFC 14 Cycle measures and guidelines](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0014-vm-cycle-limits/0014-vm-cycle-limits.md) | [lyrics](vol-7/lyrics/08%20-%20Real%20Hardware.txt) |
+| 9 | [Three Questions](vol-7/09%20-%20Three%20Questions.mp3) | 2:55 | americana | [RFC 15 §1 The objectives of a token economics design](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/09%20-%20Three%20Questions.txt) |
+| 10 | [Moment in Time](vol-7/10%20-%20Moment%20in%20Time.mp3) | 3:55 | lovers rock | [RFC 15 §3 Preservational and transactional smart contract platforms](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/10%20-%20Moment%20in%20Time.txt) |
+| 11 | [Hard Capped to Me](vol-7/11%20-%20Hard%20Capped%20to%20Me.mp3) | 3:27 | rocksteady | [RFC 15 §6 Token issuance and the NervosDAO](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/11%20-%20Hard%20Capped%20to%20Me.txt) |
+| 12 | [When the Base Runs Dry](vol-7/12%20-%20When%20the%20Base%20Runs%20Dry.mp3) | 3:14 | cowboy ballad | [RFC 15 §6 Miner compensation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/12%20-%20When%20the%20Base%20Runs%20Dry.txt) |
+| 13 | [Pay in Any Token](vol-7/13%20-%20Pay%20in%20Any%20Token.mp3) | 2:46 | country pop | [RFC 15 §6 Paying for transaction fees](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md) | [lyrics](vol-7/lyrics/13%20-%20Pay%20in%20Any%20Token.txt) |
 
 ## How it was made
 

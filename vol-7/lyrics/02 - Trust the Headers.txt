@@ -1,0 +1,41 @@
+[Verse]
+I am a small one, low capacity
+I cannot carry the whole chain with me
+I do not verify it block by block
+I watch the headers, see how they lock
+
+[Chorus]
+Trust the headers, see them connect
+One to the next one, I and I check
+The block of the highest difficulty
+I trust the transactions inside to be
+
+[Verse]
+Give me a filter, give me a sign
+Test every transaction down the line
+First test the hash of the transaction
+If that one matches, no more action
+
+[Verse]
+Then every input, test where it's from
+The previous output, the hash of that one
+Then every output, the lock and the type
+The hash of each script, see if it's right
+
+[Chorus]
+Trust the headers, see them connect
+One to the next one, I and I check
+The block of the highest difficulty
+I trust the transactions inside to be
+
+[Bridge]
+Once a match is found, the search is done
+Otherwise no match, move on, move on
+Filtered blocks they can serve to me
+Just what I need, and proof it's in the tree
+
+[Chorus]
+Trust the headers, see them connect
+One to the next one, I and I check
+The block of the highest difficulty
+I trust the transactions inside to be

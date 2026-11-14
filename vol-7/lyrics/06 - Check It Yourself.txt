@@ -1,0 +1,41 @@
+[Verse]
+Three things I can ask for when I call
+A cycles limit, a bytes limit, that's not all
+The highest version that I understand
+Leave them out, you get the default plan
+
+[Verse]
+The server ought to keep to what I say
+But nobody can make it play that way
+Ask for more than consensus will permit
+It hands you back the consensus limit
+
+[Chorus]
+Check it yourself, check it yourself
+Don't take the template off the shelf
+The server should, but it doesn't have to
+Check it yourself, it's up to you
+
+[Verse]
+Then when the work is done and the block is found
+Submit block is how you send it round
+The block in hex, in molecule bytes
+And the work I D, to keep it right
+
+[Chorus]
+Check it yourself, check it yourself
+Don't take the template off the shelf
+The server should, but it doesn't have to
+Check it yourself, it's up to you
+
+[Bridge]
+Cycles, bytes and version
+Cycles, bytes and version
+Does it fit what you were needing?
+Check before you start the mining
+
+[Chorus]
+Check it yourself, check it yourself
+Don't take the template off the shelf
+The server should, but it doesn't have to
+Check it yourself, it's up to you
