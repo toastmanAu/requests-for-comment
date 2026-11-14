@@ -1,0 +1,49 @@
+[Verse]
+E is the epoch number
+I is the index of the block
+L is the epoch length
+Write it E, I over L, that's the clock
+
+[Chorus]
+I less than L, I less than L
+Or both of them zero, just as well
+I less than L, I less than L
+Anything else and it's rejected, can't you tell
+One bad since kills the lot
+I less than L
+
+[Verse]
+When the metric flag says epoch
+The value's that encoded number
+Relative or absolute
+It doesn't matter, same rule under
+
+[Verse]
+The index can't be past the length
+You can't be block two hundred of a hundred and eighty
+If any since field is invalid
+The whole transaction's out, no maybe
+
+[Chorus]
+I less than L, I less than L
+Or both of them zero, just as well
+I less than L, I less than L
+Anything else and it's rejected, can't you tell
+One bad since kills the lot
+I less than L
+
+[Bridge]
+It's a stricter rule, so it's a soft fork
+When most of the miners upgrade
+The old full nodes keep up to date
+But old miners' blocks may get turned away
+Stage one from an epoch
+Stage two, drop the old rule if history's okay
+
+[Chorus]
+I less than L, I less than L
+Or both of them zero, just as well
+I less than L, I less than L
+Anything else and it's rejected, can't you tell
+One bad since kills the lot
+I less than L

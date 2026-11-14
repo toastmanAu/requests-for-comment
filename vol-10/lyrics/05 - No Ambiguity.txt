@@ -1,0 +1,49 @@
+[Verse]
+The verifier goes searching through the dep cells
+For the code that it must run
+By data hash, many matches are allowed
+As it has always been done
+
+[Chorus]
+No ambiguity, no ambiguity
+If every match holds the same data, let it be
+No ambiguity, no ambiguity
+One code, however many cells there be
+Otherwise invalid
+No ambiguity
+
+[Verse]
+By type hash, now hear the new rule
+Many matches may stand
+If all the matched cells have the same data
+Then the transaction's valid in this land
+
+[Verse]
+But if a single one is different
+Then the verification fails
+The transaction is invalid
+And no argument prevails
+
+[Chorus]
+No ambiguity, no ambiguity
+If every match holds the same data, let it be
+No ambiguity, no ambiguity
+One code, however many cells there be
+Otherwise invalid
+No ambiguity
+
+[Bridge]
+This rule is looser than the one before
+So it needs a hard fork to arrive
+Blocks the new clients accept
+The old ones may not let survive
+First from a chosen epoch
+Then from the genesis block
+
+[Chorus]
+No ambiguity, no ambiguity
+If every match holds the same data, let it be
+No ambiguity, no ambiguity
+One code, however many cells there be
+Otherwise invalid
+No ambiguity

@@ -1,0 +1,49 @@
+[Verse]
+There was a field called uncles hash
+Thirty-two bytes in the header's frame
+We do not move it, we do not grow it
+We only give it a new name
+
+[Chorus]
+Extra hash, extra hash
+Where the uncles hash once stood
+Extra hash, extra hash
+Thirty-two bytes, as it always would
+The old blocks never change
+Extra hash
+
+[Verse]
+Before epoch A, there's no extension
+And the value is the same as before
+All zeros when there are no uncles
+Or the hash of their header hashes, nothing more
+
+[Verse]
+After A, if the extension's empty
+It's the uncles hash again
+Otherwise hash the extension first
+Join it to the uncles hash, and hash them then
+
+[Chorus]
+Extra hash, extra hash
+Where the uncles hash once stood
+Extra hash, extra hash
+Thirty-two bytes, as it always would
+The old blocks never change
+Extra hash
+
+[Bridge]
+And the block has a new field at the end
+Extension, in the body it will lie
+The compact block will carry it too
+But the uncles packaged pass it by
+And it counts toward the block size
+Every byte
+
+[Chorus]
+Extra hash, extra hash
+Where the uncles hash once stood
+Extra hash, extra hash
+Thirty-two bytes, as it always would
+The old blocks never change
+Extra hash

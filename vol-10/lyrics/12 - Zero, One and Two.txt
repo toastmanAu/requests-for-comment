@@ -1,0 +1,49 @@
+[Verse]
+After the fork, for every script group
+The node has to choose a machine
+Look at the hash type on the script
+There's three it can be, and nothing in between
+
+[Chorus]
+Zero, one and two, zero, one and two
+Data, type and data one
+Zero, one and two, zero, one and two
+Any other value and you're done
+Invalid
+Zero, one and two
+
+[Verse]
+Zero matches by the data hash
+And runs on version zero, the old machine
+One matches by the type script hash
+And runs on version one, the latest seen
+
+[Verse]
+Two matches by the data hash
+And runs on version one as well
+Different hash types, different groups
+That's how the cells are sorted, can't you tell
+
+[Chorus]
+Zero, one and two, zero, one and two
+Data, type and data one
+Zero, one and two, zero, one and two
+Any other value and you're done
+Invalid
+Zero, one and two
+
+[Bridge]
+Before the fork it was zero or one
+And version zero ran it all
+Four R F Cs go live together
+At the same epoch, one and all
+And two relay protocols run through the fork
+For the pool can't know which epoch it's for
+
+[Chorus]
+Zero, one and two, zero, one and two
+Data, type and data one
+Zero, one and two, zero, one and two
+Any other value and you're done
+Invalid
+Zero, one and two

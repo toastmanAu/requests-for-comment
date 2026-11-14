@@ -1,0 +1,49 @@
+[Verse]
+The V M is the bottleneck
+Of the whole network's computation
+So we've got to keep on making it better
+Performance, bug fixes, new R I S C five extensions
+
+[Chorus]
+Don't break the old code, don't break the old code
+Upgrade all you want, but hear me now
+Don't break the old code, don't break the old code
+Let the user opt in, that's the vow
+Version zero still runs
+Don't break the old code
+
+[Verse]
+At the launch there was one version
+Version zero, all alone
+The first hard fork brings version one
+And they coexist, each on its own
+
+[Verse]
+Every version has its bundle
+Instruction set, syscalls, cost model too
+Version one is zero plus revisions
+And which one runs is up to you
+
+[Chorus]
+Don't break the old code, don't break the old code
+Upgrade all you want, but hear me now
+Don't break the old code, don't break the old code
+Let the user opt in, that's the vow
+Version zero still runs
+Don't break the old code
+
+[Bridge]
+Always use the latest? Then you can't choose
+And it depends on the state of the chain
+Go by when the code cell was deployed?
+Anyone can just deploy it again
+So we put it in the hash type
+That's the trade-off that we made
+
+[Chorus]
+Don't break the old code, don't break the old code
+Upgrade all you want, but hear me now
+Don't break the old code, don't break the old code
+Let the user opt in, that's the vow
+Version zero still runs
+Don't break the old code

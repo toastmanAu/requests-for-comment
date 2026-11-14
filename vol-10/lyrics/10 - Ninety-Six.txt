@@ -1,0 +1,49 @@
+[Verse]
+From epoch A you get a new field
+Leave it out or fill it in
+Anything you want, any binary
+But there's a limit, let me begin
+
+[Chorus]
+Ninety-six, ninety-six
+One to ninety-six bytes or nothing at all
+Ninety-six, ninety-six
+Sixty-four and thirty-two, that's the wall
+Nobody checks what's in it
+Ninety-six
+
+[Verse]
+Sixty-four bytes for the flyclient hash
+That's the one they've been waiting for
+And thirty-two bytes for another hash
+On whatever extension bytes come after, more
+
+[Verse]
+Why a limit? There's no consensus rule
+To verify the content yet
+So the upper bound stops the abuse
+That's as far as you can get
+
+[Chorus]
+Ninety-six, ninety-six
+One to ninety-six bytes or nothing at all
+Ninety-six, ninety-six
+Sixty-four and thirty-two, that's the wall
+Nobody checks what's in it
+Ninety-six
+
+[Bridge]
+Then at epoch B, the schema's defined
+And consensus checks what's inside
+That's a soft fork if it stays in ninety-six
+The nodes since A don't look, they let it ride
+And in the R P C
+For the old blocks it's always empty
+
+[Chorus]
+Ninety-six, ninety-six
+One to ninety-six bytes or nothing at all
+Ninety-six, ninety-six
+Sixty-four and thirty-two, that's the wall
+Nobody checks what's in it
+Ninety-six

@@ -1,0 +1,49 @@
+[Verse]
+I brought two dep groups to the party
+I didn't check what was inside
+Turns out they both had the very same cell
+And the verifier said denied
+
+[Chorus]
+It's the same cell twice, the same cell twice
+You're looking at one thing, look again
+The same cell twice, the same cell twice
+Two matches on the type hash, where's the sin
+It's not ambiguous
+It's the same cell twice
+
+[Verse]
+You find the code by the data hash
+Or by the hash of the type script
+Data hash is a hash of the code itself
+So any matches are the same, no risk
+
+[Verse]
+But type hash, that's another story
+Two cells can share it and differ inside
+So more than one match was never allowed
+And that's the rule that I collide with
+
+[Chorus]
+It's the same cell twice, the same cell twice
+You're looking at one thing, look again
+The same cell twice, the same cell twice
+Two matches on the type hash, where's the sin
+It's not ambiguous
+It's the same cell twice
+
+[Bridge]
+But most of the time it's just a duplicate
+Two groups that overlap
+The matches really point to the same cell
+There's nothing hiding in the gap
+So let me through
+It's the same cell
+
+[Chorus]
+It's the same cell twice, the same cell twice
+You're looking at one thing, look again
+The same cell twice, the same cell twice
+Two matches on the type hash, where's the sin
+It's not ambiguous
+It's the same cell twice

@@ -1,0 +1,49 @@
+[Verse]
+Every time a cell wants to know its age
+I go digging back through the chain
+Thirty-seven blocks before the one that made it
+Just to find the middle one again
+
+[Chorus]
+Thirty-seven headers, thirty-seven headers
+Fetch them all or cache them every block
+Thirty-seven headers, thirty-seven headers
+All that work to start a clock
+Too much to carry
+Thirty-seven headers
+
+[Verse]
+The median was there to stop the miners
+From bending time to pack more in
+But the block's own timestamp is safe to use
+Two reasons, let me begin
+
+[Verse]
+One, the network already checked it
+It's past the median of the last thirty-seven
+And no more than fifteen seconds
+Ahead of the time we're living in
+
+[Chorus]
+Thirty-seven headers, thirty-seven headers
+Fetch them all or cache them every block
+Thirty-seven headers, thirty-seven headers
+All that work to start a clock
+Too much to carry
+Thirty-seven headers
+
+[Bridge]
+Two, the cell has to mature
+Before anyone can spend it
+And all that waiting piles up confirmations
+Too deep for a miner to bend it
+So drop the weight
+Use the block
+
+[Chorus]
+Thirty-seven headers, thirty-seven headers
+Fetch them all or cache them every block
+Thirty-seven headers, thirty-seven headers
+All that work to start a clock
+Too much to carry
+Thirty-seven headers

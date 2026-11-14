@@ -1,0 +1,49 @@
+[Verse]
+I set a since on my input
+Metric flag says timestamp
+Relative flag says relative
+So tell me, when do I start to count
+
+[Chorus]
+Start time, start time
+The timestamp of the block that let me in
+Start time, start time
+That's where the waiting begins
+Not the median before it
+Start time
+
+[Verse]
+Take the start and add the since value
+That's the line I have to cross
+When the median of the last thirty-seven
+Is at or past it, I'm not lost
+
+[Verse]
+If I'm in a block, it's the thirty-seven before it
+If I'm in the pool, it's the latest ones
+The only thing that changed is where I started
+Everything else is how it was
+
+[Chorus]
+Start time, start time
+The timestamp of the block that let me in
+Start time, start time
+That's where the waiting begins
+Not the median before it
+Start time
+
+[Bridge]
+It used to be the median
+Of the blocks before my own
+Now it's the header that committed me
+One number, standing alone
+A small change to seventeen
+That's all it is
+
+[Chorus]
+Start time, start time
+The timestamp of the block that let me in
+Start time, start time
+That's where the waiting begins
+Not the median before it
+Start time

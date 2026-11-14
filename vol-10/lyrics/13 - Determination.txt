@@ -1,0 +1,49 @@
+[Verse]
+When you create a cell, you make a choice
+And it stays with the cell from then
+Do you want to know exactly what will run
+Or the best machine there is, whenever, when
+
+[Chorus]
+Determination, determination
+Data hash, and the version's set in stone
+Determination, determination
+Decided when the cell was made, and that alone
+Or take the type hash and ride the latest
+Determination
+
+[Verse]
+Match by the type hash, and you will always
+Run on the latest version there is
+It depends on when the script is executed
+Whatever the newest one is
+
+[Verse]
+Match by the data hash, the same machine
+Before the fork and after, ever more
+And when version two arrives one day
+Type hash moves on, data stays where it was before
+
+[Chorus]
+Determination, determination
+Data hash, and the version's set in stone
+Determination, determination
+Decided when the cell was made, and that alone
+Or take the type hash and ride the latest
+Determination
+
+[Bridge]
+So if your scripts are found by type hash
+They will wake on a different machine
+Developers must check that they're compatible
+And upgrade them if there's need
+Trade the certainty
+For the speed
+
+[Chorus]
+Determination, determination
+Data hash, and the version's set in stone
+Determination, determination
+Decided when the cell was made, and that alone
+Or take the type hash and ride the latest
+Determination

@@ -1,0 +1,49 @@
+[Verse]
+The header is a fixed length structure
+Every field set in its place
+Concatenated in a sequence
+With no reserved bits, no space
+
+[Chorus]
+Two hundred and eight, two hundred and eight
+Every header, the very same weight
+Two hundred and eight, two hundred and eight
+No room to grow, no room to wait
+Bytes of iron
+Two hundred and eight
+
+[Verse]
+But the extensions keep on coming
+And they all need somewhere to go
+Flyclient wants a hash of sixty-four bytes
+In the header, and the header says no
+
+[Verse]
+You could hide it in the cellbase
+But think of those who verify by proof of work alone
+They'd need the cellbase and its merkle proof
+Bigger than the header they came for, on their own
+
+[Chorus]
+Two hundred and eight, two hundred and eight
+Every header, the very same weight
+Two hundred and eight, two hundred and eight
+No room to grow, no room to wait
+Bytes of iron
+Two hundred and eight
+
+[Bridge]
+So add a field of variable length
+What it means, we will not say
+That's for a future soft fork to define
+We only open up the way
+It lives in the body
+But can sync with the header one day
+
+[Chorus]
+Two hundred and eight, two hundred and eight
+Every header, the very same weight
+Two hundred and eight, two hundred and eight
+No room to grow, no room to wait
+Bytes of iron
+Two hundred and eight

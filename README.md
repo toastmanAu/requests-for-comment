@@ -3,7 +3,7 @@
 Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
 sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
-volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae, volume 8 is jazz and soul and volume 9 is funk and pop.
+volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae, volume 8 is jazz and soul, volume 9 is funk and pop and volume 10 is metal and punk.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -191,6 +191,26 @@ Funk and pop, from disco, p-funk and go-go to synth-pop, power pop and dance-pop
 | 11 | [Mantissa](vol-9/11%20-%20Mantissa.mp3) | 2:39 | synth funk | [RFC 27 compact_target](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/11%20-%20Mantissa.txt) |
 | 12 | [Call Me Uncle](vol-9/12%20-%20Call%20Me%20Uncle.mp3) | 3:25 | go-go funk | [RFC 27 Uncles](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/12%20-%20Call%20Me%20Uncle.txt) |
 | 13 | [T and W](vol-9/13%20-%20T%20and%20W.mp3) | 2:58 | anthemic pop | [RFC 27 transactions_root](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0027-block-structure/0027-block-structure.md) | [lyrics](vol-9/lyrics/13%20-%20T%20and%20W.txt) |
+
+## Requests for Comment vol. 10
+
+Metal and punk, from thrash, power, symphonic and doom metal to hardcore, skate punk, ska punk and post-punk. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Thirty-Seven Headers](vol-10/01%20-%20Thirty-Seven%20Headers.mp3) | 3:31 | thrash metal | [RFC 28 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0028-change-since-relative-timestamp/0028-change-since-relative-timestamp.md) | [lyrics](vol-10/lyrics/01%20-%20Thirty-Seven%20Headers.txt) |
+| 2 | [Start Time](vol-10/02%20-%20Start%20Time.mp3) | 2:54 | pop punk | [RFC 28 Specification](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0028-change-since-relative-timestamp/0028-change-since-relative-timestamp.md) | [lyrics](vol-10/lyrics/02%20-%20Start%20Time.txt) |
+| 3 | [Stricter Than Before](vol-10/03%20-%20Stricter%20Than%20Before.mp3) | 2:49 | hardcore punk | [RFC 28 Test Vectors](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0028-change-since-relative-timestamp/0028-change-since-relative-timestamp.md) | [lyrics](vol-10/lyrics/03%20-%20Stricter%20Than%20Before.txt) |
+| 4 | [Same Cell Twice](vol-10/04%20-%20Same%20Cell%20Twice.mp3) | 2:09 | skate punk | [RFC 29 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0029-allow-script-multiple-matches-on-identical-code/0029-allow-script-multiple-matches-on-identical-code.md) | [lyrics](vol-10/lyrics/04%20-%20Same%20Cell%20Twice.txt) |
+| 5 | [No Ambiguity](vol-10/05%20-%20No%20Ambiguity.mp3) | 3:53 | power metal | [RFC 29 Specification](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0029-allow-script-multiple-matches-on-identical-code/0029-allow-script-multiple-matches-on-identical-code.md) | [lyrics](vol-10/lyrics/05%20-%20No%20Ambiguity.txt) |
+| 6 | [I Less Than L](vol-10/06%20-%20I%20Less%20Than%20L.mp3) | 2:07 | 1977 punk rock | [RFC 30 Specification](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0030-ensure-index-less-than-length-in-since/0030-ensure-index-less-than-length-in-since.md) | [lyrics](vol-10/lyrics/06%20-%20I%20Less%20Than%20L.txt) |
+| 7 | [No More Normalizing](vol-10/07%20-%20No%20More%20Normalizing.mp3) | 4:20 | post-punk | [RFC 30 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0030-ensure-index-less-than-length-in-since/0030-ensure-index-less-than-length-in-since.md) | [lyrics](vol-10/lyrics/07%20-%20No%20More%20Normalizing.txt) |
+| 8 | [Two Hundred and Eight](vol-10/08%20-%20Two%20Hundred%20and%20Eight.mp3) | 3:39 | classic heavy metal | [RFC 31 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0031-variable-length-header-field/0031-variable-length-header-field.md) | [lyrics](vol-10/lyrics/08%20-%20Two%20Hundred%20and%20Eight.txt) |
+| 9 | [Extra Hash](vol-10/09%20-%20Extra%20Hash.mp3) | 4:04 | symphonic metal | [RFC 31 Specification](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0031-variable-length-header-field/0031-variable-length-header-field.md) | [lyrics](vol-10/lyrics/09%20-%20Extra%20Hash.txt) |
+| 10 | [Ninety-Six](vol-10/10%20-%20Ninety-Six.mp3) | 2:20 | ska punk | [RFC 31 Extension](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0031-variable-length-header-field/0031-variable-length-header-field.md) | [lyrics](vol-10/lyrics/10%20-%20Ninety-Six.txt) |
+| 11 | [Don't Break the Old Code](vol-10/11%20-%20Don't%20Break%20the%20Old%20Code.mp3) | 3:58 | glam metal | [RFC 32 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0032-ckb-vm-version-selection/0032-ckb-vm-version-selection.md) | [lyrics](vol-10/lyrics/11%20-%20Don't%20Break%20the%20Old%20Code.txt) |
+| 12 | [Zero, One and Two](vol-10/12%20-%20Zero,%20One%20and%20Two.mp3) | 2:11 | street punk | [RFC 32 Specification](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0032-ckb-vm-version-selection/0032-ckb-vm-version-selection.md) | [lyrics](vol-10/lyrics/12%20-%20Zero,%20One%20and%20Two.txt) |
+| 13 | [Determination](vol-10/13%20-%20Determination.mp3) | 5:30 | epic doom metal | [RFC 32 Trade-off](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0032-ckb-vm-version-selection/0032-ckb-vm-version-selection.md) | [lyrics](vol-10/lyrics/13%20-%20Determination.txt) |
 
 ## How it was made
 
