@@ -1,0 +1,42 @@
+[Verse]
+There's a threat that grows up slow
+A higher wall for those who'd know
+The cost to run a node at home
+To check the history on your own
+
+[Verse]
+A full node lets you verify
+The state, the past, with your own eyes
+And hold the miners to account
+Refuse the blocks that don't work out
+
+[Chorus]
+Keep the full node running
+Keep it in the people's hands
+When the numbers fall, we lean on someone else
+And the trust we built on sand
+Keep the full node running
+
+[Verse]
+It needs the power to validate
+The bandwidth to receive it straight
+And storage for the global state
+Three resources, three to rate
+
+[Verse]
+Most chains bound the first two things
+But few will bound the state it brings
+And as they grow in size and years
+The cost goes up and never clears
+
+[Chorus]
+Keep the full node running
+Keep it in the people's hands
+When the numbers fall, we lean on someone else
+And the trust we built on sand
+Keep the full node running
+
+[Outro]
+Bound all three
+Bound all three
+And keep the full node running

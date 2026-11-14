@@ -1,0 +1,47 @@
+[Verse]
+When the machine first loads
+It wakes in machine mode
+Free to do anything
+Nobody says no
+
+[Verse]
+Set up the metadata
+Install the trap, then go
+One instruction, m-ret
+And the limits start to show
+
+[Chorus]
+Drop to user mode
+Drop to user mode
+Two modes only, machine and user
+Drop to user mode
+
+[Verse]
+No status registers here
+No pages that aren't your own
+No running a page of memory
+Without execute shown
+
+[Verse]
+Read a register we never built
+Illegal instruction, that's the call
+The trap is just a function
+In machine mode, after all
+
+[Chorus]
+Drop to user mode
+Drop to user mode
+Two modes only, machine and user
+Drop to user mode
+
+[Bridge]
+Don't need it? Stay up high
+Act like it was never there
+Machine mode all the way
+Minimum cycles, no one cares
+
+[Chorus]
+Drop to user mode
+Drop to user mode
+Two modes only, machine and user
+Drop to user mode

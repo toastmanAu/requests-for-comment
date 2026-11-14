@@ -1,0 +1,50 @@
+[Verse]
+A fixed size and a fixed length
+You always know how long I'll be
+The size of one, times how many
+That's all there is to me
+
+[Verse]
+Side by side, we're stored together
+One after one in a row
+No extra space around us
+No header up front to show
+
+[Chorus]
+There's nothing in between us
+No overhead at all
+Nothing in between us
+Item next to item, wall to wall
+Nothing in between
+
+[Verse]
+A struct is fields of fixed size
+A fixed number, nothing strange
+Add them up and that's the total
+And the order doesn't change
+
+[Verse]
+The way that you declared us
+Is the way we'll always stay
+A byte and then a number
+Laid down the very same way
+
+[Chorus]
+There's nothing in between us
+No overhead at all
+Nothing in between us
+Item next to item, wall to wall
+Nothing in between
+
+[Bridge]
+One, two, three
+Zero one, zero two, zero three
+Three bytes in, three bytes out
+What you store is what you see
+
+[Chorus]
+There's nothing in between us
+No overhead at all
+Nothing in between us
+Item next to item, wall to wall
+Nothing in between

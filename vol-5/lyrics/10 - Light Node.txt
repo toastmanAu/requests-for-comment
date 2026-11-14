@@ -1,0 +1,43 @@
+[Verse]
+Three kinds of nodes on this network
+The miners gather what is new
+Pack the blocks and find the proof
+They only keep the current cells
+
+[Verse]
+The full nodes check each block and deal
+Relay them on, and choose the fork
+They are the ones who verify
+The watchers of it all
+
+[Chorus]
+I'm a light node
+I only keep the cells I need
+I trust the full nodes with the rest
+A little phone is all I've got
+I'm a light node
+
+[Verse]
+When every node must do the same
+The cost is high and few will stay
+A light node trades a little trust
+For a far, far cheaper way
+
+[Verse]
+One day we'll be the largest crowd
+Then full nodes, then the ones who mine
+But we depend on them for state
+Many of us need many of them
+
+[Bridge]
+So keep the cost of a full node low
+The computing and the storing too
+Low barriers, and more will serve
+And the network stays with many hands
+
+[Chorus]
+I'm a light node
+I only keep the cells I need
+I trust the full nodes with the rest
+A little phone is all I've got
+I'm a light node

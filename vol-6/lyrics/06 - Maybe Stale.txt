@@ -1,0 +1,53 @@
+[Verse]
+No new block for a while now
+Longer than it ought to take
+The tip hasn't moved
+Is it the network, or is it me?
+
+[Verse]
+Every fifteen minutes
+I check the time gone by
+If nothing's getting through
+I've got to open up the line
+
+[Chorus]
+Maybe I'm stale
+Maybe they've shut me in
+Try a new outbound peer
+Let somebody else in
+Maybe I'm stale
+Maybe I'm stale
+
+[Verse]
+Extra connections
+Past the most I'm meant to hold
+Looking for one voice
+With a block I haven't known
+
+[Verse]
+And when the sync comes back
+I can't keep them all around
+The one who's told me nothing longest
+Is the one I let down
+
+[Chorus]
+Maybe I'm stale
+Maybe they've shut me in
+Try a new outbound peer
+Let somebody else in
+Maybe I'm stale
+Maybe I'm stale
+
+[Bridge]
+Not if you only just arrived
+Not while I'm downloading from you
+But the oldest announcement goes
+Too many peers is a danger too
+
+[Chorus]
+Maybe I'm stale
+Maybe they've shut me in
+Try a new outbound peer
+Let somebody else in
+Maybe I'm stale
+Maybe I'm stale

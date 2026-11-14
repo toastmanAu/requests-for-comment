@@ -1,0 +1,40 @@
+[Verse]
+Bitcoin and Litecoin made the first exchange
+A swap with no one in between
+Not by a rule inside the chain
+A shared hash function was the key
+
+[Verse]
+Some networks let their own chains talk
+Built from the same framework, same design
+But to reach the ones outside the walls
+They need a bridge, and trust the line
+
+[Chorus]
+Bridges, bridges
+Another layer of trust to cross
+Cross-chain is a weakness, not a strength
+Latency, and something lost
+Bridges, bridges
+
+[Verse]
+You lose the all-or-nothing deal
+You lose the way the pieces fit
+And apps that need each other close
+End up on one chain, that's just it
+
+[Bridge]
+So here the layers make the net
+A cell model and a low-level machine
+Bring your own cryptography
+Reach across to different chains
+And the value gathers at the root
+Not the messages we pass
+As more is secured, the budget grows
+
+[Chorus]
+Bridges, bridges
+Another layer of trust to cross
+Cross-chain is a weakness, not a strength
+Latency, and something lost
+Bridges, bridges

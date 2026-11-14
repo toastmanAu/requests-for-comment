@@ -1,0 +1,50 @@
+[Verse]
+Start from the block we share
+Genesis, the root of all
+Everything else is still unknown
+Until the headers call
+
+[Verse]
+First I connect the header
+Check the format and the work
+Five percent of all the effort
+Ninety-five percent it's sure
+
+[Chorus]
+Show me your best chain
+I'll show you mine
+Unknown, connected, downloaded, accepted
+One stage at a time
+Show me your best chain
+
+[Verse]
+I send a sample of my hashes
+The latest ten, then further back
+Two and four and eight between
+Until we find the common track
+
+[Verse]
+Then I download the whole block
+Earliest first, a sliding window
+Many peers at once, full bandwidth
+And the window moves along
+
+[Bridge]
+Then accept it in the context of the chain
+Every rule, the history too
+The heaviest work of all the stages
+And if one block fails the test
+Every block that follows falls
+Invalid, all the rest
+
+[Chorus]
+Show me your best chain
+I'll show you mine
+Unknown, connected, downloaded, accepted
+One stage at a time
+Show me your best chain
+
+[Outro]
+The most work wins
+The most work wins
+That's my best chain

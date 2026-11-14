@@ -1,0 +1,50 @@
+[Verse]
+Six arguments, six registers
+A zero through A five
+The number of the call
+Goes in A seven, on the side
+
+[Verse]
+You don't have to fill them all
+Just the ones you need
+Then one instruction hands control
+To what's underneath
+
+[Chorus]
+Ninety-three, that's the exit
+The only right way out
+Ninety-three, that's the exit
+Give a code and it shuts down
+There's no coming back from ninety-three
+
+[Verse]
+The answer comes in A zero
+If there's one to give
+Or it's written into memory
+Where you told it it should live
+
+[Verse]
+No custom instructions
+We kept the standard clean
+So everything the industry builds
+Still runs on this machine
+
+[Chorus]
+Ninety-three, that's the exit
+The only right way out
+Ninety-three, that's the exit
+Give a code and it shuts down
+There's no coming back from ninety-three
+
+[Bridge]
+Load ten in A zero
+Ninety-three in A seven
+E-call
+And the script is gone, code ten
+
+[Chorus]
+Ninety-three, that's the exit
+The only right way out
+Ninety-three, that's the exit
+Give a code and it shuts down
+There's no coming back from ninety-three

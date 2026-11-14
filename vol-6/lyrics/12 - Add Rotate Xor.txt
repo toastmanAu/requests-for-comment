@@ -1,0 +1,47 @@
+[Verse]
+Three operations
+That's the family, that's the lot
+Thirty-two bit words
+Nothing else is what we've got
+
+[Verse]
+Sixteen numbers in the state
+And four steps in a round
+Bit matrix first
+Says which ones get bound
+
+[Chorus]
+Add, rotate, xor
+Add, rotate, xor
+Three moves and nothing more
+Add, rotate, xor
+
+[Verse]
+Then every word is turned
+And mixed back with its own
+Two rotations each
+A different pair for every one
+
+[Verse]
+A constant for each word
+A new one every round
+Then pair them up in eights
+For the only adding to be found
+
+[Chorus]
+Add, rotate, xor
+Add, rotate, xor
+Three moves and nothing more
+Add, rotate, xor
+
+[Bridge]
+Right on to the left
+Eight bits, opposite ways
+Left on to the right
+And the pair is rearranged
+
+[Chorus]
+Add, rotate, xor
+Add, rotate, xor
+Three moves and nothing more
+Add, rotate, xor

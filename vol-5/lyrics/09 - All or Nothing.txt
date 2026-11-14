@@ -1,0 +1,46 @@
+[Verse]
+A transaction is a change of state
+A cell gets moved, a cell gets changed
+Or both of them at once
+One or more, in a single frame
+
+[Chorus]
+All or nothing
+Every change succeeds or every change fails
+All or nothing
+Atomic, there's no in between
+All or nothing
+
+[Verse]
+Deps are cells it only reads
+And they've got to be alive
+Inputs point to living cells
+With the proof that you've the right
+
+[Verse]
+A signature, to show it's yours
+To transfer or to change
+Outputs are the cells made new
+In this transition, rearranged
+
+[Chorus]
+All or nothing
+Every change succeeds or every change fails
+All or nothing
+Atomic, there's no in between
+All or nothing
+
+[Bridge]
+All the state is in the blocks
+Sync the blocks and you've synced the state
+Light clients need nothing more
+No extra work, no extra weight
+Deps and inputs show what touches what
+So nodes can run them side by side
+
+[Chorus]
+All or nothing
+Every change succeeds or every change fails
+All or nothing
+Atomic, there's no in between
+All or nothing

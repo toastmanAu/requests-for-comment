@@ -1,0 +1,46 @@
+[Verse]
+It only runs one contract at a time
+It doesn't need a privileged way
+But a memory unit could be useful
+For the ones who allocate
+
+[Verse]
+Stop the access that's not valid
+Trade some cycles to be sure
+For the sophisticated contract
+Or the beginner at the door
+
+[Chorus]
+Closed by default
+It's there if you want it
+Closed by default
+Ignore it if you don't
+Count your cycles, leave it sleeping
+Closed by default
+
+[Verse]
+Just enough of the control registers
+To switch the mode you're in
+And install a function for the page fault
+Exactly as the spec has been
+
+[Verse]
+Two modes only, machine and user
+In machine you're free to roam
+In user mode the limits hold
+You start in machine, alone
+
+[Bridge]
+Set up what you need to set
+Then step down with a single instruction
+No control registers from there
+No pages that belong above
+No running what you've no permission for
+
+[Chorus]
+Closed by default
+It's there if you want it
+Closed by default
+Ignore it if you don't
+Count your cycles, leave it sleeping
+Closed by default

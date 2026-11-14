@@ -1,0 +1,44 @@
+[Verse]
+We only made the low machine
+Left the rest for you to choose
+Any language with a back end there
+Is one that you can use
+
+[Verse]
+Write it in C, or C plus plus
+With the standard compilers, as they are
+What comes out can run as is
+A contract, near or far
+
+[Chorus]
+Any language, any language
+If it compiles, then it can stay
+Any language, any language
+Bring your own and find your way
+
+[Verse]
+Another chain's machine in C
+Compiled and kept in common cells
+Load it up and run their code
+Their contracts here as well
+
+[Verse]
+Javascript or Ruby too
+A small machine inside to run
+And Rust is coming up the road
+There's room for every one
+
+[Bridge]
+Libraries live in system cells
+Linked in when you need them
+To keep the contract small and lean
+A custom bootloader trims it more
+Six hundred and twenty-eight bytes
+For the smallest one in C
+
+[Outro]
+Count the cycles as it runs
+Every instruction, one by one
+The total when the work is done
+That's the cost
+Any language

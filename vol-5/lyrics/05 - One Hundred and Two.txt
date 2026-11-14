@@ -1,0 +1,45 @@
+[Verse]
+Others chose a different way
+We built on risk five instead
+Open source since twenty ten
+Free of royalties, widely read
+
+[Verse]
+The core is finished, frozen now
+It'll never need to change
+Compilers know it, G C C
+And L L V M, in range
+
+[Chorus]
+One hundred and two instructions
+Simple as it needs to be
+It runs on a real machine
+So the price is what you see
+One hundred and two
+
+[Verse]
+Sixty-four bit integers
+And room to add what you may need
+Vectors, or a wider word
+For cryptography at speed
+
+[Verse]
+Any language that compiles
+To the instruction set is in
+An E L F file, low level
+Turing complete, begin
+
+[Bridge]
+Other chains are fixed once they're live
+Change a primitive, that takes years
+So we moved them out to cells
+Load the new one, change the reference
+Even another machine entire
+Compiled down to run inside
+
+[Chorus]
+One hundred and two instructions
+Simple as it needs to be
+It runs on a real machine
+So the price is what you see
+One hundred and two

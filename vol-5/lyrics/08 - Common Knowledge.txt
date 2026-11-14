@@ -1,0 +1,45 @@
+[Verse]
+We want a network, peer to peer
+Where people work together and have a reason to
+Define and issue, transfer, own
+The chain's the last piece of the puzzle
+
+[Verse]
+One was built as peer-to-peer cash
+One a platform, general purpose
+Both proved the future could be real
+And both ran into the same wall
+
+[Chorus]
+Make it common knowledge
+Only when it has to be
+Most of what we do is ours alone
+Until we settle, finally
+Make it common knowledge
+
+[Verse]
+Consensus is slow, almost by definition
+Messages on an open network, wait and try again
+Scale it up and lose the many
+Scale it out and the shards won't blend
+
+[Verse]
+Global consensus costs the most
+So use it wisely, use it well
+Send the work to the layers above
+No limit there, as far as we can tell
+
+[Bridge]
+But no chain was designed for this
+One was held back by its own rules
+One prices computation
+When what we need is custody
+A place to keep our assets safe
+And move them by the final state
+
+[Chorus]
+Make it common knowledge
+Only when it has to be
+Most of what we do is ours alone
+Until we settle, finally
+Make it common knowledge

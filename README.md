@@ -1,8 +1,9 @@
 # Requests for Comment
 
-Hip hop albums by **Based Knowledge**, with lyrics written from the
+Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
-raps what it says; the source is linked beside every track.
+sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
+volume 5 is rock ballads and volume 6 is electronic dance music.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -91,13 +92,53 @@ Boom bap and breakbeat. 13 tracks.
 | 12 | [Live Cell](vol-4/12%20-%20Live%20Cell.mp3) | 2:06 | boom bap | [RFC 22 Value storage, cell data and lock script](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-4/lyrics/12%20-%20Live%20Cell.txt) |
 | 13 | [Only One](vol-4/13%20-%20Only%20One.mp3) | 1:52 | breaks | [RFC 22 Type script, upgradable script and Type ID](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md) | [lyrics](vol-4/lyrics/13%20-%20Only%20One.txt) |
 
+## Requests for Comment vol. 5
+
+Rock ballads, from power ballad and folk rock to grunge and gothic rock. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Different Layers](vol-5/01%20-%20Different%20Layers.mp3) | 4:19 | power ballad | [RFC 1 §3 Core principles of the Nervos Network](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/01%20-%20Different%20Layers.txt) |
+| 2 | [Full Node](vol-5/02%20-%20Full%20Node.mp3) | 3:01 | folk rock | [RFC 1 §2.2.1 Decentralization](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/02%20-%20Full%20Node.txt) |
+| 3 | [Bridges](vol-5/03%20-%20Bridges.mp3) | 3:53 | alt rock | [RFC 1 §2.3 Interoperability](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/03%20-%20Bridges.txt) |
+| 4 | [Belongs to the Owner](vol-5/04%20-%20Belongs%20to%20the%20Owner.mp3) | 3:39 | piano rock | [RFC 1 §4.3 Cell model](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/04%20-%20Belongs%20to%20the%20Owner.txt) |
+| 5 | [One Hundred and Two](vol-5/05%20-%20One%20Hundred%20and%20Two.mp3) | 5:27 | prog rock | [RFC 1 §4.4 Virtual machine](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/05%20-%20One%20Hundred%20and%20Two.txt) |
+| 6 | [Three Things That Never Change](vol-5/06%20-%20Three%20Things%20That%20Never%20Change.mp3) | 4:00 | heartland rock | [RFC 1 §4.7 Governance](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/06%20-%20Three%20Things%20That%20Never%20Change.txt) |
+| 7 | [Bar Tab](vol-5/07%20-%20Bar%20Tab.mp3) | 3:24 | southern rock | [RFC 1 §5.2 Payment and state channels](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0001-positioning/0001-positioning.md) | [lyrics](vol-5/lyrics/07%20-%20Bar%20Tab.txt) |
+| 8 | [Common Knowledge](vol-5/08%20-%20Common%20Knowledge.mp3) | 2:54 | symphonic rock | [RFC 2 §1 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0002-ckb/0002-ckb.md) | [lyrics](vol-5/lyrics/08%20-%20Common%20Knowledge.txt) |
+| 9 | [All or Nothing](vol-5/09%20-%20All%20or%20Nothing.mp3) | 3:02 | grunge | [RFC 2 §4.4 Transaction](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0002-ckb/0002-ckb.md) | [lyrics](vol-5/lyrics/09%20-%20All%20or%20Nothing.txt) |
+| 10 | [Light Node](vol-5/10%20-%20Light%20Node.mp3) | 3:49 | soft rock | [RFC 2 §6 Network](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0002-ckb/0002-ckb.md) | [lyrics](vol-5/lyrics/10%20-%20Light%20Node.txt) |
+| 11 | [Any Language](vol-5/11%20-%20Any%20Language.mp3) | 4:14 | blues rock | [RFC 3 Libraries, languages and runtime cost](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0003-ckb-vm/0003-ckb-vm.md) | [lyrics](vol-5/lyrics/11%20-%20Any%20Language.txt) |
+| 12 | [Best Chain](vol-5/12%20-%20Best%20Chain.mp3) | 2:55 | hard rock | [RFC 4 Block synchronization stages](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0004-ckb-block-sync/0004-ckb-block-sync.md) | [lyrics](vol-5/lyrics/12%20-%20Best%20Chain.txt) |
+| 13 | [Closed by Default](vol-5/13%20-%20Closed%20by%20Default.mp3) | 3:58 | gothic rock | [RFC 5 Privileged architecture support](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0005-priviledged-mode/0005-priviledged-mode.md) | [lyrics](vol-5/lyrics/13%20-%20Closed%20by%20Default.txt) |
+
+## Requests for Comment vol. 6
+
+Electronic dance music with full vocals: drum and bass, house, uk garage and dubstep. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Drop to User Mode](vol-6/01%20-%20Drop%20to%20User%20Mode.mp3) | 2:18 | tech house | [RFC 5 Privileged mode support via CSR instructions](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0005-priviledged-mode/0005-priviledged-mode.md) | [lyrics](vol-6/lyrics/01%20-%20Drop%20to%20User%20Mode.txt) |
+| 2 | [Sixty-Four Entries](vol-6/02%20-%20Sixty-Four%20Entries.mp3) | 3:32 | drum and bass | [RFC 5 TLB](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0005-priviledged-mode/0005-priviledged-mode.md) | [lyrics](vol-6/lyrics/02%20-%20Sixty-Four%20Entries.txt) |
+| 3 | [Two N Minus One](vol-6/03%20-%20Two%20N%20Minus%20One.mp3) | 3:54 | liquid drum and bass | [RFC 6 Nodes organization and tree struct](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0006-merkle-tree/0006-merkle-tree.md) | [lyrics](vol-6/lyrics/03%20-%20Two%20N%20Minus%20One.txt) |
+| 4 | [Only the Siblings](vol-6/04%20-%20Only%20the%20Siblings.mp3) | 2:10 | uk garage | [RFC 6 Merkle proof](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0006-merkle-tree/0006-merkle-tree.md) | [lyrics](vol-6/lyrics/04%20-%20Only%20the%20Siblings.txt) |
+| 5 | [Feeler](vol-6/05%20-%20Feeler.mp3) | 3:20 | deep house | [RFC 7 Feeler connection](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0007-scoring-system-and-network-security/0007-scoring-system-and-network-security.md) | [lyrics](vol-6/lyrics/05%20-%20Feeler.txt) |
+| 6 | [Maybe Stale](vol-6/06%20-%20Maybe%20Stale.mp3) | 3:09 | melodic dubstep | [RFC 7 Extra outbound peers and eviction](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0007-scoring-system-and-network-security/0007-scoring-system-and-network-security.md) | [lyrics](vol-6/lyrics/06%20-%20Maybe%20Stale.txt) |
+| 7 | [Slow Credit](vol-6/07%20-%20Slow%20Credit.mp3) | 2:00 | speed garage | [RFC 7 Scoring system](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0007-scoring-system-and-network-security/0007-scoring-system-and-network-security.md) | [lyrics](vol-6/lyrics/07%20-%20Slow%20Credit.txt) |
+| 8 | [Little Endian](vol-6/08%20-%20Little%20Endian.mp3) | 3:10 | jump-up drum and bass | [RFC 8 Molecule memory layout and array](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0008-serialization/0008-serialization.md) | [lyrics](vol-6/lyrics/08%20-%20Little%20Endian.txt) |
+| 9 | [Nothing in Between](vol-6/09%20-%20Nothing%20in%20Between.mp3) | 3:07 | piano house | [RFC 8 Array and struct](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0008-serialization/0008-serialization.md) | [lyrics](vol-6/lyrics/09%20-%20Nothing%20in%20Between.txt) |
+| 10 | [Ninety-Three](vol-6/10%20-%20Ninety-Three.mp3) | 2:51 | uk garage | [RFC 9 Syscall specifications and Exit](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md) | [lyrics](vol-6/lyrics/10%20-%20Ninety-Three.txt) |
+| 11 | [As Code](vol-6/11%20-%20As%20Code.mp3) | 3:05 | dubstep | [RFC 9 Load Cell Data As Code](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md) | [lyrics](vol-6/lyrics/11%20-%20As%20Code.txt) |
+| 12 | [Add Rotate Xor](vol-6/12%20-%20Add%20Rotate%20Xor.mp3) | 2:45 | drum and bass | [RFC 10 ARX and round function](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0010-eaglesong/0010-eaglesong.md) | [lyrics](vol-6/lyrics/12%20-%20Add%20Rotate%20Xor.txt) |
+| 13 | [Dispersed](vol-6/13%20-%20Dispersed.mp3) | 5:23 | progressive house | [RFC 10 Injection of constants](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0010-eaglesong/0010-eaglesong.md) | [lyrics](vol-6/lyrics/13%20-%20Dispersed.txt) |
+
 ## How it was made
 
 - **Lyrics** were written from the RFC text, section by section.
 - **Vocals and music** were generated with the [YuE2](https://huggingface.co/m-a-p/YuE2-3B) song model.
 - **Cover art** was generated with FLUX 3 Klein.
 - **Mastering** is automated: per-track tone and stereo correction, compression and a true-peak
-  limiter, to about -10 LUFS with peaks at -1 dBTP.
+  limiter, to about -10 LUFS with peaks at -1 dBTP (the rock ballads sit a little quieter, at -11).
 
 ## Use
 

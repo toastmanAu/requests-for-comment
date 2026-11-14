@@ -1,0 +1,50 @@
+[Verse]
+Every number in the header
+Thirty-two bits, unsigned
+And the little end goes first
+Every single time
+
+[Verse]
+Zero one, zero two
+Zero three, zero four
+Write it down and turn it round
+Now the four is at the door
+
+[Chorus]
+Little end first
+Zero four, zero three, zero two, zero one
+Little end first
+Smallest byte is where it's begun
+Little end first
+
+[Verse]
+A fixed vector counts its items
+Then the items in a row
+Empty? Four zeros
+That's the count, there's nothing more
+
+[Verse]
+A dynamic one says its full size
+Then an offset for each part
+An empty one is four bytes long
+Just the size, and that's the start
+
+[Chorus]
+Little end first
+Zero four, zero three, zero two, zero one
+Little end first
+Smallest byte is where it's begun
+Little end first
+
+[Bridge]
+Canonical, one way to write it
+Zero copy, read it where it lies
+A byte is a byte
+The rest is built from that, in line
+
+[Chorus]
+Little end first
+Zero four, zero three, zero two, zero one
+Little end first
+Smallest byte is where it's begun
+Little end first

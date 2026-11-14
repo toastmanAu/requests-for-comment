@@ -1,0 +1,53 @@
+[Verse]
+There's a cell in this transaction
+And its data isn't just to read
+Find it by the source and index
+Load it in, that's what I need
+
+[Verse]
+Not a copy in a buffer
+Not the partial loading way
+Straight in to the memory
+And mark the page
+
+[Chorus]
+Load it as code
+Now it can run
+Load it as code
+And it can't be undone
+Executable stays executable
+Load it as code
+
+[Verse]
+The address has to line up
+On a four kilobyte line
+The memory a multiple of four
+Or the machine stops every time
+
+[Verse]
+The content can't be bigger
+Than the room you set aside
+Out of bounds on the offset
+And the execution dies
+
+[Chorus]
+Load it as code
+Now it can run
+Load it as code
+And it can't be undone
+Executable stays executable
+Load it as code
+
+[Bridge]
+Jump to the page
+Run what you found
+Code from another cell
+Dynamic linking, underground
+
+[Chorus]
+Load it as code
+Now it can run
+Load it as code
+And it can't be undone
+Executable stays executable
+Load it as code

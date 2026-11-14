@@ -1,0 +1,53 @@
+[Verse]
+Every level filled
+Except maybe the last
+And every node leans left
+As far as it can pass
+
+[Verse]
+Count from top to bottom
+Count from left to right
+The root is number zero
+The items fall in line
+
+[Chorus]
+Two n minus one
+That's all the room I need
+A tree inside an array
+Nothing in between
+Two n minus one
+Two n minus one
+
+[Verse]
+Item i, you'll find it
+At i plus n, less one
+The parent's half way back
+Take one, divide, it's done
+
+[Verse]
+My children sit at double
+Plus one and then plus two
+My sibling's just a flip away
+One bit, and I'm with you
+
+[Chorus]
+Two n minus one
+That's all the room I need
+A tree inside an array
+Nothing in between
+Two n minus one
+Two n minus one
+
+[Bridge]
+No items, no tree
+The root is only zeros
+The least hashing you can do
+The smallest proof to show
+
+[Chorus]
+Two n minus one
+That's all the room I need
+A tree inside an array
+Nothing in between
+Two n minus one
+Two n minus one

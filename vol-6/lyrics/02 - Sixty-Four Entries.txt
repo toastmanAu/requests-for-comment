@@ -1,0 +1,49 @@
+[Verse]
+A buffer for the lookups
+To help the memory unit run
+Sixty-four entries
+Four kilobytes, each one
+
+[Verse]
+One page for every entry
+One way to find your place
+The last six bits decide it
+Who stays and who's replaced
+
+[Chorus]
+Sixty-four entries, one way in
+Same six bits, one of us wins
+You evict me, I evict you
+Sixty-four entries, flush it through
+
+[Verse]
+It isn't there to start with
+It waits for the first fault
+The first page trap creates it
+And then it can't be stopped
+
+[Verse]
+Stay in machine mode
+And you may never meet
+Once it's made, it stays
+For the life of the machine
+
+[Chorus]
+Sixty-four entries, one way in
+Same six bits, one of us wins
+You evict me, I evict you
+Sixty-four entries, flush it through
+
+[Bridge]
+Switch the level
+Flush it all
+Switch the level
+Flush it all
+Every change of privilege
+Every entry falls
+
+[Chorus]
+Sixty-four entries, one way in
+Same six bits, one of us wins
+You evict me, I evict you
+Sixty-four entries, flush it through

@@ -1,0 +1,40 @@
+[Verse]
+Something of the account, something of the old
+Unspent outputs, bought and sold
+Keeps the ownership, keeps the proof
+A new construction, that's the truth
+
+[Verse]
+A cell can carry any data
+A token amount and an owner's name
+Or code that says when a transfer's fair
+And the scripts run to keep it straight
+
+[Chorus]
+It belongs to the owner
+Not locked inside a contract's walls
+A cell is yours to hold and pass along
+It belongs to the owner, after all
+
+[Verse]
+A cell can point to another cell
+So the asset and the logic part
+On other chains the state's inside
+Reached through a contract from the start
+
+[Verse]
+Inputs leave the active set
+The outputs join, and that's the proof
+And once a cell is made, it stays
+Unchanged, immutable, the truth
+
+[Chorus]
+It belongs to the owner
+Not locked inside a contract's walls
+A cell is yours to hold and pass along
+It belongs to the owner, after all
+
+[Outro]
+Adaptable, sustainable, flexible
+A generalised U T X O
+It belongs to the owner
