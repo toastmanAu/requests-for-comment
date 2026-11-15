@@ -1,0 +1,41 @@
+[Verse]
+The version in the block header used to just sit still
+Now read it as a bit vector, every bit a job to fill
+A thirty-two bit integer, little endian it's read
+Each bit tracks a softfork, independent, like I said
+
+[Chorus]
+Twenty-nine bits, twenty-nine bits
+The top three bits stay zero, zero, zero
+Twenty-nine bits, twenty-nine bits
+Softforks deployed in parallel
+
+[Verse]
+One shifted left by N is the mask to pick your bit
+The number's chosen from zero up to twenty-eight, that's it
+Blocks in the started state set their bit to one
+Miners tallied every period till the counting's done
+
+[Verse]
+In locked in the miners should keep that bit set
+So everyone can see the uptake, though it changes no rule yet
+When the change succeeds or times out, there's a fallow pause
+Then the bit can be reused for another cause
+
+[Chorus]
+Twenty-nine bits, twenty-nine bits
+The top three bits stay zero, zero, zero
+Twenty-nine bits, twenty-nine bits
+Softforks deployed in parallel
+
+[Bridge]
+Zero, zero, zero at the top
+Kept for future upgrades, a different mechanism
+From zero to one F F F F F F F
+That's the range a version can be
+
+[Chorus]
+Twenty-nine bits, twenty-nine bits
+The top three bits stay zero, zero, zero
+Twenty-nine bits, twenty-nine bits
+Softforks deployed in parallel

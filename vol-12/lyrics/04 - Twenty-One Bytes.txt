@@ -1,0 +1,41 @@
+[Verse]
+Flag zero is a secp key, blake one sixty of the pub
+Verified the same way as the lock you already love
+Flag one unlocks like Ethereum, flag three unlocks like Tron
+The message hash as a hex string with a zero x put on
+
+[Chorus]
+One byte for the flag
+Twenty bytes for the content
+Twenty-one bytes of auth
+And Omnilock knows how to check you
+
+[Verse]
+Flag four is for Bitcoin, and the wallet shows it plain
+CKB Bitcoin Layer transaction, then the hash is in its frame
+Native segwit, nested segwit, legacy addresses too
+But Taproot is not supported, and generic P2SH won't do
+
+[Verse]
+Flag five unlocks like Dogecoin, flag six is multisig
+F C is an owner lock hash, the owner's cell goes in
+Omnilock delegates to it, like pay to script hash
+F D hands off through exec, F E dynamic linking at last
+
+[Chorus]
+One byte for the flag
+Twenty bytes for the content
+Twenty-one bytes of auth
+And Omnilock knows how to check you
+
+[Bridge]
+A lock made for interoperability
+Sign it the way your own chain signs
+It is extensible, more can be added
+Twenty-one bytes at the front of the args
+
+[Chorus]
+One byte for the flag
+Twenty bytes for the content
+Twenty-one bytes of auth
+And Omnilock knows how to check you

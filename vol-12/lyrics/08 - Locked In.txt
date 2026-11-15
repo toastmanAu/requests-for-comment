@@ -1,0 +1,41 @@
+[Verse]
+Every softfork begins in the very same place
+The blocks of epoch zero are defined, by definition, that's the case
+We remain right there till the start epoch arrives
+Reach it or pass it, and started comes alive
+
+[Chorus]
+Defined, started
+Locked in, active
+Or failed when the timeout comes
+Defined, started, locked in, active
+
+[Verse]
+After a period of started we tally up the bits
+If the threshold of the blocks has set it, locked in is where it sits
+One period locked in, then check the minimum activation epoch
+If it's been reached we're active, if not, locked in keeps the watch
+
+[Verse]
+But if the threshold is not met and the timeout epoch comes
+We go directly to failed, and that deployment's done
+Active and failed are terminal, you stay there once you're in
+And the new consensus rules are enforced when active blocks begin
+
+[Chorus]
+Defined, started
+Locked in, active
+Or failed when the timeout comes
+Defined, started, locked in, active
+
+[Bridge]
+A block's state never depends on its own version
+Only on the version of its ancestors
+Never on its own, never on its own
+Only on its ancestors
+
+[Chorus]
+Defined, started
+Locked in, active
+Or failed when the timeout comes
+Defined, started, locked in, active

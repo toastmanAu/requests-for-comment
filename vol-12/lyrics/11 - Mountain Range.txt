@@ -1,0 +1,41 @@
+[Verse]
+A Merkle mountain range is a binary hash tree
+New leaves get appended, and the old nodes stay as they be
+Insert a leaf at the next position, look to the left side
+If there's a left sibling, merge the two, and a parent node arrives
+
+[Chorus]
+Bag the peaks from left to right
+That's the root of the mountain range
+Twelve leaves, two peaks, fourteen and twenty-one
+Bag the peaks from left to right
+
+[Verse]
+Eleven leaves on the mountain, three peaks stand in the sky
+Fourteen, seventeen, eighteen, counted left to right
+Insert at position nineteen, merge with eighteen, twenty is the node
+Twenty merges with seventeen, twenty-one, and no sibling's left to go
+
+[Verse]
+Now every block is a leaf, block number is its place
+Each node keeps total difficulty, the sum its children gave
+After the epoch that turns it on, in the block extension lies
+In the first thirty-two bytes, the hash of the parent chain root inside
+
+[Chorus]
+Bag the peaks from left to right
+That's the root of the mountain range
+Twelve leaves, two peaks, fourteen and twenty-one
+Bag the peaks from left to right
+
+[Bridge]
+The proof goes from the leaf's sibling up to its peak
+One hash that bags the right-hand peaks
+The left-hand peaks from right to left
+And from the leaves and the proof you build the root again
+
+[Chorus]
+Bag the peaks from left to right
+That's the root of the mountain range
+Twelve leaves, two peaks, fourteen and twenty-one
+Bag the peaks from left to right

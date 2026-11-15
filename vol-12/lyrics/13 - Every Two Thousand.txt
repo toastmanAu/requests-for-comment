@@ -1,0 +1,41 @@
+[Verse]
+First verify the best chain tip through the fly-client protocol
+Before you download any filters or filter hashes at all
+Disconnect the outbound peers whose best chain has much less work
+Than the longest chain you know of, that's the first part of the work
+
+[Chorus]
+Every two thousand blocks, a checkpoint
+A filter hash where the height is a multiple of two thousand
+Verify each range of two thousand
+Against the checkpoints, every two thousand
+
+[Verse]
+Then download the filter hashes, for every block they're stored
+Checkpoints let you fetch them from many peers, in parallel, more and more
+Connect to multiple outbound peers unless you trust the one
+If the filter hashes conflict, interrogate them till it's done
+
+[Verse]
+Find the first hash they disagree on, download the full block there
+Derive the correct filter and its hash, and then compare
+Ban any peer whose filter hash doesn't match the one you made
+And fetch full blocks from outbound peers at random, for privacy's sake
+
+[Chorus]
+Every two thousand blocks, a checkpoint
+A filter hash where the height is a multiple of two thousand
+Verify each range of two thousand
+Against the checkpoints, every two thousand
+
+[Bridge]
+Test that each filter links to its filter hash
+Ban the peers that send incorrect filters
+Download many filters at once
+To increase the throughput
+
+[Chorus]
+Every two thousand blocks, a checkpoint
+A filter hash where the height is a multiple of two thousand
+Verify each range of two thousand
+Against the checkpoints, every two thousand

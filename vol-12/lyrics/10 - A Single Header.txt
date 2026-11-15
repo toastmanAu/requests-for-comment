@@ -1,0 +1,41 @@
+[Verse]
+Downloading every block and verifying them all
+Takes hours of waiting, and the gigabytes aren't small
+Bandwidth and storage, more than a little client owns
+So it trusts the full nodes, it can't verify alone
+
+[Chorus]
+Only a logarithmic number of headers to download
+Only a single header to store
+Between executions, a single block header
+A single header, nothing more
+
+[Verse]
+Some light clients only download the headers of the chain
+But the storage and the bandwidth keep on growing all the same
+Linearly with the chain length, longer every day
+So we propose a more efficient way
+
+[Verse]
+A FlyClient-based protocol, sampling as it goes
+Tailored for the NC-Max difficulty adjustment that it knows
+It verifies the chain is valid with limited resources
+It doesn't need them all to know what the proof of work endorses
+
+[Chorus]
+Only a logarithmic number of headers to download
+Only a single header to store
+Between executions, a single block header
+A single header, nothing more
+
+[Bridge]
+Not every block
+Not every header
+A sample is enough
+And one header to remember
+
+[Chorus]
+Only a logarithmic number of headers to download
+Only a single header to store
+Between executions, a single block header
+A single header, nothing more

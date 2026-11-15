@@ -3,7 +3,7 @@
 Albums by **Based Knowledge**, with lyrics written from the
 [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs). Each track takes one RFC section and
 sets what it says to music; the source is linked beside every track. Volumes 1 to 4 are hip hop,
-volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae, volume 8 is jazz and soul, volume 9 is funk and pop, volume 10 is metal and punk and volume 11 is blues and folk.
+volume 5 is rock ballads, volume 6 is electronic dance music, volume 7 is country and reggae, volume 8 is jazz and soul, volume 9 is funk and pop, volume 10 is metal and punk, volume 11 is blues and folk and volume 12 is gospel and Latin.
 
 This repository holds the high-fidelity masters: 320 kbps MP3s with tags and embedded cover art,
 plus the cover images and lyric sheets.
@@ -114,7 +114,7 @@ Rock ballads, from power ballad and folk rock to grunge and gothic rock. 13 trac
 
 ## Requests for Comment vol. 6
 
-Electronic dance music with full vocals: drum and bass, house, uk garage and dubstep. 13 tracks.
+Electronic dance music with full vocals: drum and bass, house, UK garage and dubstep. 13 tracks.
 
 | # | Track | Length | Style | Source | Lyrics |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@ Country and reggae, from honky-tonk and bluegrass to roots, dub and ska. 13 trac
 
 ## Requests for Comment vol. 8
 
-Jazz and soul, from cool jazz, swing and bossa nova to motown, funk and neo-soul. 13 tracks.
+Jazz and soul, from cool jazz, swing and bossa nova to Motown, funk and neo-soul. 13 tracks.
 
 | # | Track | Length | Style | Source | Lyrics |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@ Jazz and soul, from cool jazz, swing and bossa nova to motown, funk and neo-soul
 
 ## Requests for Comment vol. 9
 
-Funk and pop, from disco, p-funk and go-go to synth-pop, power pop and dance-pop. 13 tracks.
+Funk and pop, from disco, P-funk and go-go to synth-pop, power pop and dance-pop. 13 tracks.
 
 | # | Track | Length | Style | Source | Lyrics |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@ Metal and punk, from thrash, power, symphonic and doom metal to hardcore, skate 
 
 ## Requests for Comment vol. 11
 
-Blues and folk, from delta, chicago, piedmont and gospel blues to appalachian, english and irish folk. 13 tracks.
+Blues and folk, from Delta, Chicago, Piedmont and gospel blues to Appalachian, English and Irish folk. 13 tracks.
 
 | # | Track | Length | Style | Source | Lyrics |
 |---|---|---|---|---|---|
@@ -231,6 +231,26 @@ Blues and folk, from delta, chicago, piedmont and gospel blues to appalachian, e
 | 11 | [Mirana](vol-11/11%20-%20Mirana.mp3) | 3:12 | English folk | [RFC 37 What's in Mirana](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0037-ckb-mirana-2021/0037-ckb-mirana-2021.md) | [lyrics](vol-11/lyrics/11%20-%20Mirana.txt) |
 | 12 | [Look Who's Coming for Dinner](vol-11/12%20-%20Look%20Who's%20Coming%20for%20Dinner.mp3) | 2:17 | Irish pub folk | [RFC 37 Timeline](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0037-ckb-mirana-2021/0037-ckb-mirana-2021.md) | [lyrics](vol-11/lyrics/12%20-%20Look%20Who's%20Coming%20for%20Dinner.txt) |
 | 13 | [Feature Switcher](vol-11/13%20-%20Feature%20Switcher.mp3) | 2:53 | gospel blues | [RFC 37 Upgrade Strategies](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0037-ckb-mirana-2021/0037-ckb-mirana-2021.md) | [lyrics](vol-11/lyrics/13%20-%20Feature%20Switcher.txt) |
+
+## Requests for Comment vol. 12
+
+Gospel and Latin, from choir, quartet and spiritual gospel to salsa, bolero, cumbia, bachata, mambo, merengue and son cubano. 13 tracks.
+
+| # | Track | Length | Style | Source | Lyrics |
+|---|---|---|---|---|---|
+| 1 | [Six Epochs](vol-12/01%20-%20Six%20Epochs.mp3) | 2:56 | Contemporary gospel | [RFC 39 Summary](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0039-cheque/0039-cheque.md) | [lyrics](vol-12/lyrics/01%20-%20Six%20Epochs.txt) |
+| 2 | [Claim or Withdraw](vol-12/02%20-%20Claim%20or%20Withdraw.mp3) | 4:00 | Salsa | [RFC 39 Unlock Rules](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0039-cheque/0039-cheque.md) | [lyrics](vol-12/lyrics/02%20-%20Claim%20or%20Withdraw.txt) |
+| 3 | [Twenty Bytes Each](vol-12/03%20-%20Twenty%20Bytes%20Each.mp3) | 3:44 | Bolero | [RFC 39 Cheque Lock Script Structure](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0039-cheque/0039-cheque.md) | [lyrics](vol-12/lyrics/03%20-%20Twenty%20Bytes%20Each.txt) |
+| 4 | [Twenty-One Bytes](vol-12/04%20-%20Twenty-One%20Bytes.mp3) | 2:54 | Cumbia | [RFC 42 Authentication](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0042-omnilock/0042-omnilock.md) | [lyrics](vol-12/lyrics/04%20-%20Twenty-One%20Bytes.txt) |
+| 5 | [Four Flags](vol-12/05%20-%20Four%20Flags.mp3) | 2:59 | Southern gospel quartet | [RFC 42 Omnilock args](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0042-omnilock/0042-omnilock.md) | [lyrics](vol-12/lyrics/05%20-%20Four%20Flags.txt) |
+| 6 | [No More Than Max Supply](vol-12/06%20-%20No%20More%20Than%20Max%20Supply.mp3) | 3:41 | Bachata | [RFC 42 Supply Mode](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0042-omnilock/0042-omnilock.md) | [lyrics](vol-12/lyrics/06%20-%20No%20More%20Than%20Max%20Supply.txt) |
+| 7 | [Twenty-Nine Bits](vol-12/07%20-%20Twenty-Nine%20Bits.mp3) | 2:22 | Mambo | [RFC 43 Bit Flags](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0043-ckb-softfork-activation/0043-ckb-softfork-activation.md) | [lyrics](vol-12/lyrics/07%20-%20Twenty-Nine%20Bits.txt) |
+| 8 | [Locked In](vol-12/08%20-%20Locked%20In.mp3) | 2:41 | Traditional gospel | [RFC 43 States](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0043-ckb-softfork-activation/0043-ckb-softfork-activation.md) | [lyrics](vol-12/lyrics/08%20-%20Locked%20In.txt) |
+| 9 | [Forty-Two Epochs](vol-12/09%20-%20Forty-Two%20Epochs.mp3) | 2:49 | Merengue | [RFC 43 Selection Guidelines](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0043-ckb-softfork-activation/0043-ckb-softfork-activation.md) | [lyrics](vol-12/lyrics/09%20-%20Forty-Two%20Epochs.txt) |
+| 10 | [A Single Header](vol-12/10%20-%20A%20Single%20Header.mp3) | 3:32 | Gospel ballad | [RFC 44 Motivation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0044-ckb-light-client/0044-ckb-light-client.md) | [lyrics](vol-12/lyrics/10%20-%20A%20Single%20Header.txt) |
+| 11 | [Mountain Range](vol-12/11%20-%20Mountain%20Range.mp3) | 3:07 | Traditional spiritual | [RFC 44 Merkle Mountain Range](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0044-ckb-light-client/0044-ckb-light-client.md) | [lyrics](vol-12/lyrics/11%20-%20Mountain%20Range.txt) |
+| 12 | [Lock and Type](vol-12/12%20-%20Lock%20and%20Type.mp3) | 2:52 | Son cubano | [RFC 45 Filter Data Generation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0045-client-block-filter/0045-client-block-filter.md) | [lyrics](vol-12/lyrics/12%20-%20Lock%20and%20Type.txt) |
+| 13 | [Every Two Thousand](vol-12/13%20-%20Every%20Two%20Thousand.mp3) | 3:00 | Uptempo gospel praise | [RFC 45 Client Operation](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0045-client-block-filter/0045-client-block-filter.md) | [lyrics](vol-12/lyrics/13%20-%20Every%20Two%20Thousand.txt) |
 
 ## How it was made
 

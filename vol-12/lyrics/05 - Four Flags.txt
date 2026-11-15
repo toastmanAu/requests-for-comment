@@ -1,0 +1,41 @@
+[Verse]
+After the auth there's a single byte, the Omnilock flags
+Set it all to zero and no mode is in the bag
+Then it's almost the same as the old secp lock you knew
+A traditional lock script with extra checks it can do
+
+[Chorus]
+One, two, four, eight
+Administrator, anyone can pay
+Time lock and supply
+Four flags in a single byte
+
+[Verse]
+Administrator brings thirty-two bytes, an AdminList type ID
+Anyone can pay brings two bytes, minimum CKB and UDT
+Time lock brings eight bytes of since, and the since check is run
+Supply brings thirty-two bytes, a type script hash, and that's each one
+
+[Verse]
+But when the administrator flag is on
+The other three are ignored even if they're switched on
+The user and the administrator both can unlock the cell
+And the time lock doesn't hold the administrator as well
+
+[Chorus]
+One, two, four, eight
+Administrator, anyone can pay
+Time lock and supply
+Four flags in a single byte
+
+[Bridge]
+The administrator only unlocks existing cells
+Can't get around the supply limit
+Can't mint new tokens at will
+It's still impossible, still impossible
+
+[Chorus]
+One, two, four, eight
+Administrator, anyone can pay
+Time lock and supply
+Four flags in a single byte

@@ -1,0 +1,41 @@
+[Verse]
+Pick a name for your softfork that nobody's used before
+No two softforks ever share a name, concurrent or not, that's for sure
+Pick a bit that no other running softfork has
+And a start epoch soon after the software's out at last
+
+[Chorus]
+Forty-two epochs, about one week
+That's the least a period should be
+Ninety percent for the threshold
+Seventy-five on the testnet
+
+[Verse]
+The timeout epoch should be when the whole economy's upgraded
+At least two hundred seventy epochs after start, that's how it's stated
+A month and a half at the least for the signal to be heard
+Enough time for the periods, that's the guideline's word
+
+[Verse]
+Minimum activation, several epochs past the timeout line
+When the start is very soon after release, give it time
+Once it's locked in it's guaranteed to activate one day
+But not before that minimum epoch, so here's what you can say
+
+[Chorus]
+Forty-two epochs, about one week
+That's the least a period should be
+Ninety percent for the threshold
+Seventy-five on the testnet
+
+[Bridge]
+Prepare the software
+Prepare the announcements
+Prepare the celebrations
+For that event
+
+[Chorus]
+Forty-two epochs, about one week
+That's the least a period should be
+Ninety percent for the threshold
+Seventy-five on the testnet

@@ -1,0 +1,41 @@
+[Verse]
+There's an info cell that the type script hash points to
+One byte of version, and for now it's zero, it's true
+Sixteen bytes of current supply, little endian they lie
+Sixteen bytes of max supply, and the sUDT script hash beside
+
+[Chorus]
+Current supply can go up
+But no more than max supply
+It's the only field that changes
+No more than max supply
+
+[Verse]
+The script walks every input and every output cell
+Adding the amounts the sUDT script hash can tell
+Output amount minus input amount is what was issued new
+Add it to the input current supply, the output must be true
+
+[Verse]
+Two thousand was the supply in the example they wrote
+Ten thousand was the maximum, the ceiling of the note
+One thousand newly minted in a single cell that day
+Three thousand is the current supply the output has to say
+
+[Chorus]
+Current supply can go up
+But no more than max supply
+It's the only field that changes
+No more than max supply
+
+[Bridge]
+Only the current supply can be updated
+Everything else stays as it was
+Issued plus what was there before
+Less than or equal to the max
+
+[Chorus]
+Current supply can go up
+But no more than max supply
+It's the only field that changes
+No more than max supply

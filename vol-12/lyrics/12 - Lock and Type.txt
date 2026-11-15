@@ -1,0 +1,41 @@
+[Verse]
+We follow BIP one five eight to build the filter data
+The same Golomb-coded sets, the same P and M parameters
+There's only one difference in the way that it is done
+Script hashes of the cells are the elements, the only ones
+
+[Chorus]
+The lock script hash goes in the filter
+And the type script hash, if there's a type
+That's all we use for the filter data
+Lock and type, lock and type
+
+[Verse]
+Filters are deterministic, built one time and no more
+When a new block joins the chain, on disk is where they're stored
+Full nodes may opt to support it, an additional index they hold
+Missing filters, reindex from genesis to the tip, they're told
+
+[Verse]
+Nodes should not make filters dynamically on request
+A small filter from a large block puts the disk to the test
+A malicious peer could ask and ask, a denial of service attack
+And after storing all the filters, a node may prune the block data back
+
+[Chorus]
+The lock script hash goes in the filter
+And the type script hash, if there's a type
+That's all we use for the filter data
+Lock and type, lock and type
+
+[Bridge]
+If the filter matches what you're watching for
+Download the entire block
+If it doesn't match, keep moving
+A compact, probabilistic filter
+
+[Chorus]
+The lock script hash goes in the filter
+And the type script hash, if there's a type
+That's all we use for the filter data
+Lock and type, lock and type

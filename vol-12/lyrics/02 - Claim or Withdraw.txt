@@ -1,0 +1,41 @@
+[Verse]
+A signature in the witness, the lock checks who you are
+The receiver or the sender, there are two hashes in the args
+If the signature is neither one, it's an error on the spot
+If it matches one of them, it reads the rule you've got
+
+[Chorus]
+Receiver, since is zero, claim it right away
+Sender, since says six epochs, sender has to wait
+Claim or withdraw, claim or withdraw
+The cheque lock knows which one you are
+
+[Verse]
+When the receiver comes to claim, add the capacity up
+Outputs with the sender's lock, the cheque inputs, sum to sum
+If the two are not equal, the transaction's turned away
+What the sender put in the cheque cell is returned, the very same
+
+[Verse]
+No signature in the witness? There's another way to go
+An input cell whose lock hash matches, that will let it know
+The receiver's own cell in the inputs, with a witness lock that's filled
+And the cheque cell opens up with no signature to give
+
+[Chorus]
+Receiver, since is zero, claim it right away
+Sender, since says six epochs, sender has to wait
+Claim or withdraw, claim or withdraw
+The cheque lock knows which one you are
+
+[Bridge]
+Batch them up, batch them up, many cheques in one transaction
+Identical scripts run together, one execution group
+A different sender, a different receiver
+Runs in a separate group
+
+[Chorus]
+Receiver, since is zero, claim it right away
+Sender, since says six epochs, sender has to wait
+Claim or withdraw, claim or withdraw
+The cheque lock knows which one you are

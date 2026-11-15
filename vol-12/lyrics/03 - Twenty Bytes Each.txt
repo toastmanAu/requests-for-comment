@@ -1,0 +1,41 @@
+[Verse]
+In the lock of a cheque cell, two names lie side by side
+The receiver's hash comes first, and the sender's hash behind
+No more than that is written, in the args that's all you'll see
+Who can open up the cell is your lock hash and me
+
+[Chorus]
+Twenty bytes for the receiver
+Twenty bytes for the one who sends
+Blake two b, cut down to one sixty
+Twenty bytes each, side by side in the args
+
+[Verse]
+Take the lock script, fully written, turn it into bytes
+Blake two b two fifty-six gives thirty-two to hold it tight
+Keep the first twenty of them, let the other twelve go
+A hundred sixty bits is all the cheque lock needs to know
+
+[Verse]
+The type script is the token's, a simple UDT
+The data holds the amount in a hundred twenty-eight bit integer
+A hundred UDT waiting in the example on the page
+A hundred sixty-five CKBytes to keep it in its place
+
+[Chorus]
+Twenty bytes for the receiver
+Twenty bytes for the one who sends
+Blake two b, cut down to one sixty
+Twenty bytes each, side by side in the args
+
+[Bridge]
+I made the cell, I paid the bytes
+I wrote your hash beside mine
+Until you come, it waits for you
+Twenty bytes yours, twenty bytes mine
+
+[Chorus]
+Twenty bytes for the receiver
+Twenty bytes for the one who sends
+Blake two b, cut down to one sixty
+Twenty bytes each, side by side in the args
